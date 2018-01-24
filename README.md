@@ -19,7 +19,7 @@
 * [Tutorials](#tutorials)
 * [Enterprise Usage](#enterprise-usage)
 
-  ## Showcases
+## Showcases
 
 * [Snipaste](https://docs.snipaste.com/) - Snip & Paste
 * [puck](https://puck.zz173.com/) - A small & magical php framework.
