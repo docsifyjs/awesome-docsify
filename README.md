@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="100" src="./icon.svg" alt="logo of docsify-awesome repository">
+  <img width="122" src="./icon.svg" alt="logo of docsify-awesome repository">
   <br>
 </p>
 
