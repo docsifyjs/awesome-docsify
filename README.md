@@ -49,6 +49,7 @@
 * [preact-analysis](https://sinkmind.github.io/preact-analysis/) - Preact 源码解析
 * [Tracy Debugger for ProcessWire](https://adrianbj.github.io/TracyDebugger) - The ultimate debugging and development tool for the ProcessWire CMF/CMS
 * [CBoard](https://yzhang921.github.io/cboard_doc) An easy to use, self-service open BI reporting and BI dashboard platform.
+* [Tina.js](https://tina.js.org) - A lightweight and progressive Wechat Mini-Program framework.
 
 ## Plugins
 
