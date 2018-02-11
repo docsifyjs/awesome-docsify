@@ -14,8 +14,7 @@
 
 * [Showcases](#showcases)
 * [Plugins](#plugins)
-* [Themes](#themes)
-* [Scaffold](#scaffold)
+* [Custom theme](#custom-theme)
 * [Tutorials](#tutorials)
 * [Enterprise Usage](#enterprise-usage)
 
@@ -50,6 +49,8 @@
 * [Tracy Debugger for ProcessWire](https://adrianbj.github.io/TracyDebugger) - The ultimate debugging and development tool for the ProcessWire CMF/CMS
 * [CBoard](https://yzhang921.github.io/cboard_doc) An easy to use, self-service open BI reporting and BI dashboard platform.
 * [Tina.js](https://tina.js.org) - A lightweight and progressive Wechat Mini-Program framework.
+* [pino](https://getpino.io/#/) - super fast, all natural json logger
+* [commitlint](http://marionebl.github.io/commitlint/#/) - Lint commit messages
 
 ## Plugins
 
@@ -60,9 +61,12 @@
 * [docsify-demo-box-react](https://github.com/njleonzhang/docsify-demo-box-react) - write React jsx demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/docsify-demo-box-vue)
 * [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - Add Edit on github button on every pages [@njleonzhang](https://github.com/njleonzhang/docsify-demo-box-vue)
 
-## Themes
+## Custom theme
 
-## Scaffold
+* [commitlint](http://marionebl.github.io/commitlint/#/)
+* [style-dictionary](https://amzn.github.io/style-dictionary/#/)
+* [Noty](http://ned.im/noty/)
+* [JS MythBusters](https://mythbusters.js.org)
 
 ## Tutorials
 
@@ -75,6 +79,7 @@
 * Alibaba - [weex-ui](https://alibaba.github.io/weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
 * Qiniu - [pandora](https://qiniu.github.io/pandora-docs-v2/#/)
+* Amazon - [style-dictionary](https://amzn.github.io/style-dictionary/#/)
 
 ## License
 
