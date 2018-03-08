@@ -51,6 +51,7 @@
 * [Tina.js](https://tina.js.org) - A lightweight and progressive Wechat Mini-Program framework.
 * [pino](https://getpino.io/#/) - super fast, all natural json logger
 * [commitlint](http://marionebl.github.io/commitlint/#/) - Lint commit messages
+* [fastd](http://fastdlabs.com/#/) - A High-Performance API Framework
 
 ## Plugins
 
