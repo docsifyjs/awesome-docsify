@@ -52,6 +52,7 @@
 * [pino](https://getpino.io/#/) - super fast, all natural json logger
 * [commitlint](http://marionebl.github.io/commitlint/#/) - Lint commit messages
 * [fastd](http://fastdlabs.com/#/) - A High-Performance API Framework
+* [Xenus](https://abellion.github.io/xenus) - An elegant MongoDB ODM for PHP
 
 ## Plugins
 
