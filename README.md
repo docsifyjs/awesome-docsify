@@ -53,7 +53,7 @@
 * [commitlint](http://marionebl.github.io/commitlint/#/) - Lint commit messages
 * [fastd](http://fastdlabs.com/#/) - A High-Performance API Framework
 * [Xenus](https://abellion.github.io/xenus) - An elegant MongoDB ODM for PHP
-* [You-need-to-know-css](https://l-hammer.github.io/You-need-to-know-css/#/interesting-layout) - CSS tricks web developers need to know
+* [You-need-to-know-css](https://l-hammer.github.io/You-need-to-know-css/) - CSS tricks web developers need to know
 
 ## Plugins
 
