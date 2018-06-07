@@ -12,13 +12,13 @@
 
 ## Contents
 
-* [Showcases](#showcases)
+* [Showcase](#showcase)
 * [Plugins](#plugins)
-* [Custom theme](#custom-theme)
+* [Themes](#themes)
 * [Tutorials](#tutorials)
 * [Enterprise Usage](#enterprise-usage)
 
-## Showcases
+## Showcase
 
 * [Snipaste](https://docs.snipaste.com/) - Snip & Paste
 * [puck](https://puck.zz173.com/) - A small & magical php framework.
@@ -65,12 +65,9 @@
 * [docsify-demo-box-react](https://github.com/njleonzhang/docsify-demo-box-react) - write React jsx demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/docsify-demo-box-vue)
 * [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - Add Edit on github button on every pages [@njleonzhang](https://github.com/njleonzhang/docsify-demo-box-vue)
 
-## Custom theme
+## Themes
 
-* [commitlint](http://marionebl.github.io/commitlint/#/)
-* [style-dictionary](https://amzn.github.io/style-dictionary/#/)
-* [Noty](http://ned.im/noty/)
-* [JS MythBusters](https://mythbusters.js.org)
+* [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and full legacy support (IE10+).
 
 ## Tutorials
 
