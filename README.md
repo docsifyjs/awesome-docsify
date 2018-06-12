@@ -50,11 +50,11 @@
 * [CBoard](https://yzhang921.github.io/cboard_doc) An easy to use, self-service open BI reporting and BI dashboard platform.
 * [Tina.js](https://tina.js.org) - A lightweight and progressive Wechat Mini-Program framework.
 * [pino](https://getpino.io/#/) - super fast, all natural json logger
-* [commitlint](http://marionebl.github.io/commitlint/#/) - Lint commit messages
 * [fastd](http://fastdlabs.com/#/) - A High-Performance API Framework
 * [Xenus](https://abellion.github.io/xenus) - An elegant MongoDB ODM for PHP
 * [You-need-to-know-css](https://l-hammer.github.io/You-need-to-know-css/) - CSS tricks web developers need to know
 * [OCCA](http://libocca.org) - Library for programming multiple backends (OpenMP, CUDA, and OpenCL) with JIT compiled kernels
+* [class-change.js](https://jhildenbiddle.github.io/class-change/) - A micro-library for manipulating CSS class names, triggering change events using HTML data attributes, and creating declarative class-related event listeners.
 
 ## Plugins
 
