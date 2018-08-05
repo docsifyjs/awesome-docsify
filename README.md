@@ -56,6 +56,7 @@
 * [OCCA](http://libocca.org) - Library for programming multiple backends (OpenMP, CUDA, and OpenCL) with JIT compiled kernels
 * [class-change.js](https://jhildenbiddle.github.io/class-change/) - A micro-library for manipulating CSS class names, triggering change events using HTML data attributes, and creating declarative class-related event listeners.
 * [Polly.js](https://netflix.github.io/pollyjs) - Record, replay, and stub HTTP interactions.
+* [docx](https://docx.js.org) - Easily generate `.docx` files with JS/TS.
 
 ## Plugins
 
