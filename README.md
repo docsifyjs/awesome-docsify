@@ -73,8 +73,6 @@
 
 ## Tutorials
 
-* [VIDEO TUTORIAL: How To Use "Docsify" To Autocreate Documentation Website For Your Projects](https://steemit.com/utopian-io/@nairadaddy/video-tutorial-how-to-use-docsify-to-autocreate-documentation-website-for-your-projects)
-
 ## Enterprise Usage
 
 * Google - [boardgame.io](https://google.github.io/boardgame.io/#/)
