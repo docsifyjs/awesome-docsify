@@ -57,6 +57,7 @@
 * [class-change.js](https://jhildenbiddle.github.io/class-change/) - A micro-library for manipulating CSS class names, triggering change events using HTML data attributes, and creating declarative class-related event listeners.
 * [Polly.js](https://netflix.github.io/pollyjs) - Record, replay, and stub HTTP interactions.
 * [docx](https://docx.js.org) - Easily generate `.docx` files with JS/TS.
+* [RCOS Handbook](https://handbook.rcos.io) - Organization manual for Rensselaer Center for Open Source.
 
 ## Plugins
 
