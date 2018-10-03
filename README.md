@@ -58,6 +58,7 @@
 * [Polly.js](https://netflix.github.io/pollyjs) - Record, replay, and stub HTTP interactions.
 * [docx](https://docx.js.org) - Easily generate `.docx` files with JS/TS.
 * [RCOS Handbook](https://handbook.rcos.io) - Organization manual for Rensselaer Center for Open Source.
+* [Veritone](https://docs.veritone.com/) - Veritone aiWare docs for AI as a service platform.
 * [Osiris UI](https://osiris-ui.github.io/osiris) - :art: A Vue.js 2.0 universal responsive UI component library
 * [Oglang](https://champii.github.io/og) - Oglang: a language like coffee-script that compiles to Golang
 
