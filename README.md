@@ -20,7 +20,6 @@
 
 ## Showcase
 
-* [Veritone](https://docs.veritone.com/) - Veritone aiWare docs for AI as a service platform.
 * [Snipaste](https://docs.snipaste.com/) - Snip & Paste
 * [puck](https://puck.zz173.com/) - A small & magical php framework.
 * [Samaritan](http://samaritan.stockdb.org) - An Algorithmic Trading Framework for Digital Currency.
@@ -59,6 +58,7 @@
 * [Polly.js](https://netflix.github.io/pollyjs) - Record, replay, and stub HTTP interactions.
 * [docx](https://docx.js.org) - Easily generate `.docx` files with JS/TS.
 * [RCOS Handbook](https://handbook.rcos.io) - Organization manual for Rensselaer Center for Open Source.
+* [Veritone](https://docs.veritone.com/) - Veritone aiWare docs for AI as a service platform.
 
 ## Plugins
 
