@@ -81,7 +81,7 @@
 
 ## Enterprise Usage
 
-* Google - [boardgame.io](https://google.github.io/boardgame.io/#/)
+* Google - [boardgame.io](https://boardgame.io/#/)
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/)
 * Alibaba - [weex-ui](https://alibaba.github.io/weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
