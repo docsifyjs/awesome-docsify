@@ -61,6 +61,7 @@
 * [Veritone](https://docs.veritone.com/) - Veritone aiWare docs for AI as a service platform.
 * [Osiris UI](https://osiris-ui.github.io/osiris) - :art: A Vue.js 2.0 universal responsive UI component library
 * [Oglang](https://champii.github.io/og) - Oglang: a language like coffee-script that compiles to Golang
+* [boardgame.io](https://boardgame.io/#/) - State management and more for turn based games.
 
 ## Plugins
 
@@ -81,7 +82,7 @@
 
 ## Enterprise Usage
 
-* Google - [boardgame.io](https://boardgame.io/#/)
+
 * Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/)
 * Alibaba - [weex-ui](https://alibaba.github.io/weex-ui/#/)
 * UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
