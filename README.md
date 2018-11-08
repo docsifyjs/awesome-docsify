@@ -73,6 +73,7 @@
 * [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - Add Edit on github button on every pages [@njleonzhang](https://github.com/njleonzhang/docsify-demo-box-vue)
 * [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs) - A docsify plugin for displaying tabbed content from markdown [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-tabs)
 * [docsify-katex](https://github.com/upupming/docsify-katex) - A docsify plugin for rendering LaTex math equations [@upupming](https://github.com/upupming)
+* [docsify-pdf-embed](https://github.com/lazypanda10117/docsify-pdf-embed) - A docsify plugin for embedding PDF on any page [@lazypanda10117](https://github.com/lazypanda10117)
 
 ## Themes
 
