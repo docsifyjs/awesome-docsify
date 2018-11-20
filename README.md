@@ -63,6 +63,8 @@
 * [Oglang](https://champii.github.io/og) - Oglang: a language like coffee-script that compiles to Golang
 * [boardgame.io](https://boardgame.io/#/) - State management and more for turn based games.
 * [Rambda](https://selfrefactor.github.io/rambda/#/) - Lightweight functional JS library
+* [ve-charts](https://vueblocks.github.io/ve-charts/) - ECharts 4.x for Vue.js 2.x.
+* [JCSprout](https://crossoverjie.top/JCSprout/) - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm(处于萌芽阶段的 Java 核心知识库)
 
 ## Plugins
 
