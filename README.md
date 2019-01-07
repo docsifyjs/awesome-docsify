@@ -77,6 +77,7 @@
 * [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs) - A docsify plugin for displaying tabbed content from markdown [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-tabs)
 * [docsify-katex](https://github.com/upupming/docsify-katex) - A docsify plugin for rendering LaTex math equations [@upupming](https://github.com/upupming)
 * [docsify-pdf-embed](https://github.com/lazypanda10117/docsify-pdf-embed) - A docsify plugin for embedding PDF on any page [@lazypanda10117](https://github.com/lazypanda10117)
+* [docsify-plugin-flexible-alerts](https://github.com/zanfab/docsify-plugin-flexible-alerts) - A docsify plugin to convert blockquotes into beautiful and configurable alerts using preconfigured or own styles and alert types. [@zanfab](https://github.com/zanfab)
 
 ## Themes
 
