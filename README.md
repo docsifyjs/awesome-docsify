@@ -65,6 +65,7 @@
 * [Rambda](https://selfrefactor.github.io/rambda/#/) - Lightweight functional JS library
 * [ve-charts](https://vueblocks.github.io/ve-charts/) - ECharts 4.x for Vue.js 2.x.
 * [JCSprout](https://crossoverjie.top/JCSprout/) - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm(处于萌芽阶段的 Java 核心知识库)
+* [axios-api-versioning](https://weffe.github.io/axios-api-versioning) - Add easy to manage api versioning to axios
 
 ## Plugins
 
