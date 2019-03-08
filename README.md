@@ -38,7 +38,7 @@
 * [vue2-datatable-component](https://github.com/OneWayTech/vue2-datatable) - The best Datatable for Vue.js 2.x which never sucks
 * [Solidarity](https://infinitered.github.io/solidarity/) - Environment enforcer for your projects across machines.
 * [rnback](https://rnback.com/) - Backend service for react-native applications.
-* [IT-films](https://greybax.github.com/IT-films/) - A curated list of awesome movies, documentaries and TV series about hackers, geeks and IT in common, sorted by IMDB rating. |
+* [IT-films](https://greybax.github.com/awesome-IT-films) - A curated list of awesome movies, documentaries and TV series about hackers, geeks and IT in common, sorted by IMDB rating. |
 * [zooming](http://desmonding.me/zooming/docs) - Image zoom that makes sense.
 * [vue-sticker](https://kamilocean.github.io/vue-sticker/#/) - Vue component, that helps to make sticky effects
 * [Ts.ED](https://romakita.github.io/ts-express-decorators/#/) - A TypeScript Framework on top of Express
