@@ -15,7 +15,6 @@
 - [Showcase](#showcase)
 - [Plugins](#plugins)
 - [Themes](#themes)
-- [Tutorials](#tutorials)
 - [Enterprise Usage](#enterprise-usage)
 
 ## Showcase
@@ -83,8 +82,6 @@
 ## Themes
 
 - [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+). [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-themeable)
-
-## Tutorials
 
 ## Enterprise Usage
 
