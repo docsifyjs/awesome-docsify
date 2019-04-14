@@ -91,4 +91,4 @@
 
 ## License
 
-[license](https://github.com/docsifyjs/awesome-docsify/blob/master/LICENSE)
+[CC0 License](https://github.com/docsifyjs/awesome-docsify/blob/master/LICENSE)
