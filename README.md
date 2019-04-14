@@ -85,7 +85,7 @@
 - Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/)
 - Alibaba - [weex-ui](https://alibaba.github.io/weex-ui/#/)
 - UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
-- Qiniu - [pandora](https://qiniu.github.io/pandora-docs-v2/#/)
+- Qiniu - [pandora](https://qiniu.github.io/pandora-docs/#/)
 - Amazon - [style-dictionary](https://amzn.github.io/style-dictionary/#/)
 - Netflix - [Polly.js](https://netflix.github.io/pollyjs/#/README)
 
