@@ -39,7 +39,6 @@
 - [IT-films](https://greybax.github.com/awesome-IT-films) - A curated list of awesome movies, documentaries and TV series about hackers, geeks and IT in common, sorted by IMDB rating. |
 - [zooming](http://desmonding.me/zooming/docs) - Image zoom that makes sense.
 - [vue-sticker](https://kamilocean.github.io/vue-sticker/#/) - Vue component, that helps to make sticky effects
-- [Ts.ED](https://romakita.github.io/ts-express-decorators/#/) - A TypeScript Framework on top of Express
 - [Ts.LogDebug](https://romakita.github.io/ts-log-debug/#/) - A multi channel logger written in TypeScript
 - [vue-orgchart](https://spiritree.github.io/vue-orgchart) - Vue.js wrapper for OrgChart.js
 - [Vue Content Loading](https://lucasleandro1204.github.io/vue-content-loading) - Easily build (or use presets) SVG loading cards Facebook like
