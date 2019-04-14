@@ -89,6 +89,14 @@
 - Amazon - [style-dictionary](https://amzn.github.io/style-dictionary/#/)
 - Netflix - [Polly.js](https://netflix.github.io/pollyjs/#/README)
 
+## Contributing
+
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors)
+
 ## License
 
 [CC0 License](https://github.com/docsifyjs/awesome-docsify/blob/master/LICENSE)
