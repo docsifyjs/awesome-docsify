@@ -19,7 +19,7 @@ jobs:
       - checkout
       - run:
           name: install awesome lint
-          command: yarn install awesome-lint
+          command: yarn add awesome-lint
       - run:
           name: lint readme
           command: yarn awesome-lint
