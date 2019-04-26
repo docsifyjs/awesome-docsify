@@ -60,6 +60,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [ve-charts](https://vueblocks.github.io/ve-charts/) - ECharts 4.x for Vue.js 2.x.
 - [👨‍🎓 JCSprout](https://crossoverjie.top/JCSprout/) - Basic, concurrent, algorithm(处于萌芽阶段的 Java 核心知识库).
 - [axios-api-versioning](https://weffe.github.io/axios-api-versioning) - Add easy to manage api versioning to axios.
+- [🎓 🎨 Reading](http://www.guofei.site/reading/#/) - Reading notes of 300 awesome books (Will keep on for another 20 years).
 
 ## Plugins
 
