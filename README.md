@@ -17,6 +17,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## Showcase
 
+- [Explore Wanchain](https://www.explorewanchain.org/) - Documentation for Wanchain, a blockchain with smart contracts, private transactions, and cross-chain features.
 - [Snipaste](https://docs.snipaste.com/) - Snip & Paste.
 - [puck](https://puck.zz173.com/) - A small & magical php framework.
 - [Samaritan](http://samaritan.stockdb.org) - An Algorithmic Trading Framework for Digital Currency.
