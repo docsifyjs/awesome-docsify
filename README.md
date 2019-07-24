@@ -63,6 +63,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [🎓 🎨 Reading](http://www.guofei.site/reading/#/) - Reading notes of 300 awesome books (Will keep on for another 20 years).
 - [Veritone Docs](https://docs.veritone.com) - Technical docs for the aiWARE platform and MachineBox.
 - [Learn Blockchain by Code](https://book.uchaindb.com) - The code and book about learning blockchain by code. (《区块链系统实现》开源书籍及源代码仓库)
+- [fast-check](https://dubzzz.github.io/fast-check/) - Property based testing framework for JavaScript/TypeScript.
 
 ## Plugins
 
