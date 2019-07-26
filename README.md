@@ -81,7 +81,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-pdf-converter](https://github.com/meff34/docsify-to-pdf-converter) - Create PDF files based on your docsify project [@meff34](https://github.com/meff34).
 - [docsify-commento](https://github.com/ndom91/docsify-commento) - Append [commento](https://gitlab.com/commento/commento) section to the bottom of every page [@ndom91](https://github.com/ndom91).
 - [docsify-gifcontrol](https://gbodigital.github.io/docsify-gifcontrol) - A docsify plugin that adds customizable player controls to GIFs. [@adambergman](https://github.com/adambergman) from [@gbodigital](https://github.com/gbodigital).
-- [docsify-example-panels](https://github.com/VagnerDomingues/docsify-example-panels) - plugin for rendering slate alike right example panels.
+- [docsify-example-panels](https://github.com/VagnerDomingues/docsify-example-panels) - A plugin for rendering slate alike right example panels.
 
 ## Themes
 
