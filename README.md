@@ -68,6 +68,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## Plugins
 
+- [docsify-rtl](https://github.com/koliberr136a1/docsify-rtl) - Add rtl and bidi support to docsify [@koliberr136a1](https://github.com/koliberr136a1).
 - [docsify-remote-markdown](https://github.com/JerryC8080/docsify-remote-markdown) - Load markdown docs from remote. [@JerryC](https://github.com/JerryC8080).
 - [docsify-pagination](https://github.com/imyelo/docsify-pagination) - Pagination for docsify [@imyelo](https://github.com/imyelo).
 - [docsify-plantuml](https://github.com/imyelo/docsify-plantuml) - PlantUML for docsify [@imyelo](https://github.com/imyelo).
