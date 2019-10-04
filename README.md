@@ -65,6 +65,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Learn Blockchain by Code](https://book.uchaindb.com) - The code and book about learning blockchain by code. (《区块链系统实现》开源书籍及源代码仓库)
 - [Fairlay API](https://fairlay.com/api/#/) - Exchange & prediction markets API.
 - [Tainacan Wiki](https://wiki.tainacan.org/) - Documentation for Tainacan - a flexible and powerfull repository platform for WordPress.
+- [n8n.io](https://docs.n8n.io) - Documentation for Open Source Workflow Automation Tool n8n.io
 
 ## Plugins
 
