@@ -1,7 +1,7 @@
-# Awesome docsify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <div align="center">
 
+# Awesome-docsify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 A curated list of awesome things related to <a href="//docsify.js.org">docsify</a>.
