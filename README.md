@@ -18,6 +18,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 ## Showcase
 
 - [Explore Wanchain](https://www.explorewanchain.org/) - Documentation for Wanchain, a blockchain with smart contracts, private transactions, and cross-chain features.
+- [Laravel SweetAlert2](https://realrashid.github.io/sweet-alert) - Documentation for Laravel SweetAlert2, A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes for Laravel.
 - [Snipaste](https://docs.snipaste.com/) - Snip & Paste.
 - [Samaritan](http://samaritan.stockdb.org) - An Algorithmic Trading Framework for Digital Currency.
 - [Vudash](http://vudash.github.io/vudash/) - Powerful, Flexible, Open Source dashboards for anything.
@@ -65,6 +66,8 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Learn Blockchain by Code](https://book.uchaindb.com) - The code and book about learning blockchain by code. (《区块链系统实现》开源书籍及源代码仓库)
 - [Fairlay API](https://fairlay.com/api/#/) - Exchange & prediction markets API.
 - [Tainacan Wiki](https://wiki.tainacan.org/) - Documentation for Tainacan - a flexible and powerfull repository platform for WordPress.
+- [Haiti](https://orange-cyberdefense.github.io/haiti/#/) - A CLI tool to identify the hash type of a given hash.
+- [Rabid](https://orange-cyberdefense.github.io/rabid/#/) - A CLI tool and library allowing to simply decode all kind of BigIP cookies.
 
 ## Plugins
 
@@ -85,6 +88,8 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-gifcontrol](https://gbodigital.github.io/docsify-gifcontrol) - A docsify plugin that adds customizable player controls to GIFs. [@adambergman](https://github.com/adambergman) from [@gbodigital](https://github.com/gbodigital).
 - [docsify-example-panels](https://github.com/VagnerDomingues/docsify-example-panels) - A plugin for rendering slate alike right example panels.
 - [docsify-glossary](https://github.com/TheGreenToaster/awesome-docsify.git) - A plugin to create a simple glossary for common terms.
+- [docsify-toc](https://github.com/mrpotatoes/docsify-toc) - Add a `Table of Contents` to your site. [@mrpotatoes](https://github.com/mrpotatoes).
+
 
 ## Themes
 
