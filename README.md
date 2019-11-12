@@ -18,6 +18,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 ## Showcase
 
 - [Explore Wanchain](https://www.explorewanchain.org/) - Documentation for Wanchain, a blockchain with smart contracts, private transactions, and cross-chain features.
+- [Laravel SweetAlert2](https://realrashid.github.io/sweet-alert) - Documentation for Laravel SweetAlert2, A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes for Laravel.
 - [Snipaste](https://docs.snipaste.com/) - Snip & Paste.
 - [Samaritan](http://samaritan.stockdb.org) - An Algorithmic Trading Framework for Digital Currency.
 - [Vudash](http://vudash.github.io/vudash/) - Powerful, Flexible, Open Source dashboards for anything.
