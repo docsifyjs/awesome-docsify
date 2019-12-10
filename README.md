@@ -93,7 +93,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-example-panels](https://github.com/VagnerDomingues/docsify-example-panels) - A plugin for rendering slate alike right example panels.
 - [docsify-glossary](https://github.com/TheGreenToaster/docsify-glossary) - A plugin to create a simple glossary for common terms.
 - [docsify-toc](https://github.com/mrpotatoes/docsify-toc) - Add a `Table of Contents` to your site. [@mrpotatoes](https://github.com/mrpotatoes).
-- [docsify-fontawesome] - Add FontAwesome to documentation by tokens.
+- [docsify-fontawesome](https://github.com/erickjx/docsify-fontawesome) - Add FontAwesome to documentation by tokens.
 
 
 ## Themes
