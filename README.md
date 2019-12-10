@@ -91,8 +91,9 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-commento](https://github.com/ndom91/docsify-commento) - Append [commento](https://gitlab.com/commento/commento) section to the bottom of every page [@ndom91](https://github.com/ndom91).
 - [docsify-gifcontrol](https://gbodigital.github.io/docsify-gifcontrol) - A docsify plugin that adds customizable player controls to GIFs. [@adambergman](https://github.com/adambergman) from [@gbodigital](https://github.com/gbodigital).
 - [docsify-example-panels](https://github.com/VagnerDomingues/docsify-example-panels) - A plugin for rendering slate alike right example panels.
-- [docsify-glossary](https://github.com/TheGreenToaster/awesome-docsify.git) - A plugin to create a simple glossary for common terms.
+- [docsify-glossary](https://github.com/TheGreenToaster/docsify-glossary) - A plugin to create a simple glossary for common terms.
 - [docsify-toc](https://github.com/mrpotatoes/docsify-toc) - Add a `Table of Contents` to your site. [@mrpotatoes](https://github.com/mrpotatoes).
+- [docsify-fontawesome] - Add FontAwesome to documentation by tokens.
 
 
 ## Themes
