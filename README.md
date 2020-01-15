@@ -22,8 +22,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Explore Wanchain](https://www.explorewanchain.org/) - Documentation for Wanchain, a blockchain with smart contracts, private transactions, and cross-chain features.
 - [Laravel SweetAlert2](https://realrashid.github.io/sweet-alert) - Documentation for Laravel SweetAlert2, A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes for Laravel.
 - [Snipaste](https://docs.snipaste.com/) - Snip & Paste.
-- [Samaritan](http://samaritan.stockdb.org) - An Algorithmic Trading Framework for Digital Currency.
-- [Vudash](http://vudash.github.io/vudash/) - Powerful, Flexible, Open Source dashboards for anything.
+- [Vudash](https://github.com/vudash/vudash) - Powerful, Flexible, Open Source dashboards for anything.
 - [Trilogy](http://trilogy.js.org) - No-hassle SQLite with a Promise-based, document store style API.
 - [Mybatis-Plus](http://mp.baomidou.com/) - An enhanced toolkit of Mybatis to simplify development.
 - [JS MythBusters](https://mythbusters.js.org) - An optimization handbook from a high level docsifynt of view.
