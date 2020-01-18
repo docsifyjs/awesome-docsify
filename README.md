@@ -94,6 +94,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-toc](https://github.com/mrpotatoes/docsify-toc) - Add a `Table of Contents` to your site. [@mrpotatoes](https://github.com/mrpotatoes).
 - [docsify-fontawesome](https://github.com/erickjx/docsify-fontawesome) - Add FontAwesome to documentation by tokens.
 - [docsify-footer-enh](https://github.com/erickjx/docsify-footer-enh) - Footer Enhancement plugin.
+- [docsify-bitbucket](https://github.com/szkiba/docsify-bitbucket) - A plugin that help using docsify with Bitbucket Server and Bitbucket Cloud
 
 
 ## Themes
