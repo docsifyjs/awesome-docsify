@@ -1,8 +1,10 @@
+
 <div align="center">
 
-# Awesome docsify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Docsify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome things related to <a href="//docsify.js.org">docsify</a>.
+
+A curated list of awesome things related to <a href="//docsify.js.org">docsify</a>. 
 
 <img width="122" src="https://user-images.githubusercontent.com/7565692/35311593-3edd9102-00f2-11e8-98fb-38be1d0e650f.png" alt="logo of docsify-awesome repository">
 
@@ -18,9 +20,9 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 ## Showcase
 
 - [Explore Wanchain](https://www.explorewanchain.org/) - Documentation for Wanchain, a blockchain with smart contracts, private transactions, and cross-chain features.
+- [Laravel SweetAlert2](https://realrashid.github.io/sweet-alert) - Documentation for Laravel SweetAlert2, A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes for Laravel.
 - [Snipaste](https://docs.snipaste.com/) - Snip & Paste.
-- [Samaritan](http://samaritan.stockdb.org) - An Algorithmic Trading Framework for Digital Currency.
-- [Vudash](http://vudash.github.io/vudash/) - Powerful, Flexible, Open Source dashboards for anything.
+- [Vudash](https://github.com/vudash/vudash) - Powerful, Flexible, Open Source dashboards for anything.
 - [Trilogy](http://trilogy.js.org) - No-hassle SQLite with a Promise-based, document store style API.
 - [Mybatis-Plus](http://mp.baomidou.com/) - An enhanced toolkit of Mybatis to simplify development.
 - [JS MythBusters](https://mythbusters.js.org) - An optimization handbook from a high level docsifynt of view.
@@ -40,7 +42,6 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Ts.LogDebug](https://typedproject.github.io/ts-log-debug/) - A multi channel logger written in TypeScript.
 - [vue-orgchart](https://spiritree.github.io/vue-orgchart) - Vue.js wrapper for OrgChart.js.
 - [Vue Content Loading](https://lucasleandro1204.github.io/vue-content-loading) - Easily build (or use presets) SVG loading cards like Facebook.
-- [preact-analysis](https://sinkmind.github.io/preact-analysis/) - Preact 源码解析.
 - [Tracy Debugger for ProcessWire](https://adrianbj.github.io/TracyDebugger) - The ultimate debugging and development tool for the ProcessWire CMF/CMS.
 - [Tina.js](https://tina.js.org) - A lightweight and progressive Wechat Mini-Program framework.
 - [pino](https://getpino.io/#/) - Super fast, all natural json logger.
@@ -65,6 +66,11 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Learn Blockchain by Code](https://book.uchaindb.com) - The code and book about learning blockchain by code. (《区块链系统实现》开源书籍及源代码仓库)
 - [Fairlay API](https://fairlay.com/api/#/) - Exchange & prediction markets API.
 - [Tainacan Wiki](https://wiki.tainacan.org/) - Documentation for Tainacan - a flexible and powerfull repository platform for WordPress.
+- [n8n.io](https://docs.n8n.io) - Documentation for Open Source Workflow Automation Tool n8n.io.
+- [Haiti](https://orange-cyberdefense.github.io/haiti/#/) - A CLI tool to identify the hash type of a given hash.
+- [Rabid](https://orange-cyberdefense.github.io/rabid/#/) - A CLI tool and library allowing to simply decode all kind of BigIP cookies.
+- [🛸 Jasonelle](https://jasonelle.com) - Make iOS and Android Apps with JSON.
+- [Saasify](https://saasify.sh) - A new way for devs to earn passive income.
 - [Regauge](https://itchef.github.io/regauge) - A command line interface for react app bundled with webpack, prettier and many more.
 
 ## Plugins
@@ -85,6 +91,11 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-commento](https://github.com/ndom91/docsify-commento) - Append [commento](https://gitlab.com/commento/commento) section to the bottom of every page [@ndom91](https://github.com/ndom91).
 - [docsify-gifcontrol](https://gbodigital.github.io/docsify-gifcontrol) - A docsify plugin that adds customizable player controls to GIFs. [@adambergman](https://github.com/adambergman) from [@gbodigital](https://github.com/gbodigital).
 - [docsify-example-panels](https://github.com/VagnerDomingues/docsify-example-panels) - A plugin for rendering slate alike right example panels.
+- [docsify-glossary](https://github.com/TheGreenToaster/docsify-glossary) - A plugin to create a simple glossary for common terms.
+- [docsify-toc](https://github.com/mrpotatoes/docsify-toc) - Add a `Table of Contents` to your site. [@mrpotatoes](https://github.com/mrpotatoes).
+- [docsify-fontawesome](https://github.com/erickjx/docsify-fontawesome) - Add FontAwesome to documentation by tokens.
+- [docsify-footer-enh](https://github.com/erickjx/docsify-footer-enh) - Footer Enhancement plugin.
+
 
 ## Themes
 
