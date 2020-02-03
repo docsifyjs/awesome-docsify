@@ -70,7 +70,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Rabid](https://orange-cyberdefense.github.io/rabid/#/) - A CLI tool and library allowing to simply decode all kind of BigIP cookies.
 - [🛸 Jasonelle](https://jasonelle.com) - Make iOS and Android Apps with JSON.
 - [Saasify](https://saasify.sh) - A new way for devs to earn passive income.
-
+- [Regauge](https://itchef.github.io/regauge) - A command line interface for react app bundled with webpack, prettier and many more.
 
 ## Plugins
 
