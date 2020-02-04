@@ -97,7 +97,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-mustache](https://docsify-mustache.github.io) - A docsify plugin that allow preprocessing markdown documents with Mustache template engine.
 - [docsify-bitbucket](https://docsify-bitbucket.github.io) - A docsify plugin that help using docsify with Bitbucket Server and Bitbucket Cloud.
 - [docsify-slides](https://github.com/shawntabrizi/docsify-slides) - A plugin for creating slideshow-like pages.
-
+- [docsify-Phaser](https://github.com/luisalvesmartins/docsifyPhaser) - Enable [Phaser](http://phaser.io) code inside a docsify page. 
 
 ## Themes
 
