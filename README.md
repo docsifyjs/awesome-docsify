@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Awesome Docsify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Docsify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/docsifyjs/awesome-docsify/workflows/Lint%20Awesome%20List/badge.svg)
 
 
 A curated list of awesome things related to <a href="//docsify.js.org">docsify</a>. 
@@ -19,7 +19,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## Showcase
 
-- [Posthtml](https://posthtml.org) - Documentation for PostHTML, a tool to transform HTML/XML with JS plugins
+- [Posthtml](https://posthtml.org) - Documentation for PostHTML, a tool to transform HTML/XML with JS plugins.
 - [Explore Wanchain](https://www.explorewanchain.org/) - Documentation for Wanchain, a blockchain with smart contracts, private transactions, and cross-chain features.
 - [Laravel SweetAlert2](https://realrashid.github.io/sweet-alert) - Documentation for Laravel SweetAlert2, A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes for Laravel.
 - [Snipaste](https://docs.snipaste.com/) - Snip & Paste.
