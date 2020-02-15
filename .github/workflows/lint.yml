@@ -1,0 +1,14 @@
+name: Lint Awesome List
+on: [pull_request, push]
+
+jobs:
+    awesome-lint:
+      name: "lint: awesome-lint"
+      runs-on: ubuntu-latest
+      steps:
+        - name: "checkout repo"
+          uses: actions/checkout@v2.0.0
+          with:
+            fetch-depth: 0
+        - name: "lint: awesome-lint"
+          uses: jthegedus/github-action-awesome-lint@v0.1.0 # https://github.com/jthegedus is part of Docsify core team, so we will use Tag versioning over commit_sha
