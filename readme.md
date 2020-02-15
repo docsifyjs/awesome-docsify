@@ -125,4 +125,4 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## License
 
-[CC0 License](https://github.com/docsifyjs/awesome-docsify/blob/master/LICENSE)
+[CC0 License](license)
