@@ -101,7 +101,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-slides](https://github.com/shawntabrizi/docsify-slides) - A plugin for creating slideshow-like pages.
 - [docsify-Phaser](https://github.com/luisalvesmartins/docsifyPhaser) - Enable [Phaser](http://phaser.io) code inside a docsify page.
 - [docsify-changelog-plugin](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-changelog-plugin) - Integrates your changelog in a sweet panel. 
-- [docsify-top-bannner-plugin](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-top-banner-plugin) - Add a simple and sweet banner at the top in order to announce something 
+- [docsify-top-bannner-plugin](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-top-banner-plugin) - Add a simple and sweet banner at the top in order to announce something. 
 
 ## Themes
 
