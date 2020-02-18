@@ -72,6 +72,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [🛸 Jasonelle](https://jasonelle.com) - Make iOS and Android Apps with JSON.
 - [Saasify](https://saasify.sh) - A new way for devs to earn passive income.
 - [Regauge](https://itchef.github.io/regauge) - A command line interface for react app bundled with webpack, prettier and many more.
+- [google-spreadsheet npm module)](https://theoephraim.github.io/node-google-spreadsheet) - A Google Sheets API wrapper for javascript/node.
 
 ## Plugins
 
