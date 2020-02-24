@@ -73,6 +73,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Saasify](https://saasify.sh) - A new way for devs to earn passive income.
 - [Regauge](https://itchef.github.io/regauge) - A command line interface for react app bundled with webpack, prettier and many more.
 - [google-spreadsheet npm module)](https://theoephraim.github.io/node-google-spreadsheet) - A Google Sheets API wrapper for JavaScript.
+- [Android Tutorial 2020](https://an.rustfisher.com/) - Android tutorial 2020. Android app develop wiki site.
 
 ## Plugins
 
@@ -102,7 +103,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-Phaser](https://github.com/luisalvesmartins/docsifyPhaser) - Enable [Phaser](http://phaser.io) code inside a docsify page.
 - [docsify-changelog-plugin](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-changelog-plugin) - Integrates your changelog in a sweet panel. 
 - [docsify-top-bannner-plugin](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-top-banner-plugin) - Add a simple and sweet banner at the top in order to announce something.
-- [docsify-dark-mode](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-dark-mode) - add dark mode support in your docsify site.
+- [docsify-dark-mode](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-dark-mode) - Add dark mode support in your docsify site.
 
 ## Themes
 
