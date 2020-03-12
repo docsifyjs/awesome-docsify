@@ -19,6 +19,8 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## Showcase
 
+- [pyecharts](https://pyecharts.org) - Documentation for pyecharts. A Python Echarts Plotting Library.
+- [gallery-pyecharts](https://gallery.pyecharts.org) - A Data Visualization Gallery Based on pyecharts.
 - [Posthtml](https://posthtml.org) - Documentation for PostHTML, a tool to transform HTML/XML with JS plugins.
 - [Explore Wanchain](https://www.explorewanchain.org/) - Documentation for Wanchain, a blockchain with smart contracts, private transactions, and cross-chain features.
 - [Laravel SweetAlert2](https://realrashid.github.io/sweet-alert) - Documentation for Laravel SweetAlert2, A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes for Laravel.
