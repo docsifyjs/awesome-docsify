@@ -77,6 +77,8 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Regauge](https://itchef.github.io/regauge) - A command line interface for react app bundled with webpack, prettier and many more.
 - [google-spreadsheet (npm module)](https://theoephraim.github.io/node-google-spreadsheet) - A Google Sheets API wrapper for JavaScript.
 - [Android Tutorial 2020](https://an.rustfisher.com/) - Android tutorial 2020. Android app develop wiki site.
+- [docsify-open-course-starter-kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) - A ready-to-fork template to create a Docsify open course website. [@hibbittsdesign](https://github.com/hibbitts-design).
+- [docsify-open-publishing-starter-kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) - A ready-to-fork template to create an open Docsify documentation website, with a link automatically created on each page to edit the source Markdown text in a GitHub or GitLab repository. [@hibbittsdesign](https://github.com/hibbitts-design).
 
 ## Plugins
 
@@ -113,11 +115,6 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 - [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+). [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-themeable).
 - [🌙 docsify-darkly-theme](https://github.com/sushantrahate/docsify-darkly-theme) - Dark theme for docsify. [@sushantrahate](https://github.com/sushantrahate).
-
-## Starter Kits
-
-- [docsify-open-course-starter-kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) - A starter kit to create a Docsify open course site. [@hibbittsdesign](https://github.com/hibbitts-design).
-- [docsify-open-publishing-starter-kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) - A starter kit to create an open Docsify documentation site, with a link automatically created on each page to edit the source Markdown text in a GitHub or GitLab repository. [@hibbittsdesign](https://github.com/hibbitts-design).
 
 ## Enterprise Usage
 
