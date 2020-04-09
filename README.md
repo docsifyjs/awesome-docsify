@@ -25,6 +25,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Posthtml](https://posthtml.org) - Documentation for PostHTML, a tool to transform HTML/XML with JS plugins.
 - [Explore Wanchain](https://www.explorewanchain.org/) - Documentation for Wanchain, a blockchain with smart contracts, private transactions, and cross-chain features.
 - [Laravel SweetAlert2](https://realrashid.github.io/sweet-alert) - Documentation for Laravel SweetAlert2, A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes for Laravel.
+- [Security List](http://security-list.js.org) - A series of personal cyber security tools, resources and checklists.
 - [Snipaste](https://docs.snipaste.com/) - Snip & Paste.
 - [Vudash](https://github.com/vudash/vudash) - Powerful, Flexible, Open Source dashboards for anything.
 - [Trilogy](http://trilogy.js.org) - No-hassle SQLite with a Promise-based, document store style API.
@@ -83,7 +84,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 ## Plugins
 
 - [docsify-count](https://github.com/827652549/docsify-count) - Add word count for markdown files of docsify.(添加字数统计)[@827652549](https://github.com/827652549).
-- [docsify-rtl](https://github.com/koliberr136a1/docsify-rtl) - Add rtl and bidi support to docsify [@koliberr136a1](https://github.com/koliberr136a1).
+- [docsify-rtl](https://github.com/ckoliber/docsify-rtl) - Add rtl and bidi support to docsify [@koliberr136a1](https://github.com/ckoliber/).
 - [docsify-remote-markdown](https://github.com/JerryC8080/docsify-remote-markdown) - Load markdown docs from remote. [@JerryC](https://github.com/JerryC8080).
 - [docsify-pagination](https://github.com/imyelo/docsify-pagination) - Pagination for docsify [@imyelo](https://github.com/imyelo).
 - [docsify-plantuml](https://github.com/imyelo/docsify-plantuml) - PlantUML for docsify [@imyelo](https://github.com/imyelo).
