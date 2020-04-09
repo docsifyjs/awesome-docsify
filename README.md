@@ -80,6 +80,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Android Tutorial 2020](https://an.rustfisher.com/) - Android tutorial 2020. Android app develop wiki site.
 - [docsify-open-course-starter-kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) - A ready-to-fork template to create a Docsify open course website. [@hibbittsdesign](https://github.com/hibbitts-design).
 - [docsify-open-publishing-starter-kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) - A ready-to-fork template to create an open Docsify documentation website, with a link automatically created on each page to edit the source Markdown text in a GitHub or GitLab repository. [@hibbittsdesign](https://github.com/hibbitts-design).
+- [Pwn notebook📖](http://note.taqini.space) - CTF writeup & Notes of learning pwn. (Pwn笔记本)[@TaQini](https://github.com/TaQini)
 
 ## Plugins
 
@@ -112,6 +113,9 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-top-bannner-plugin](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-top-banner-plugin) - Add a simple and sweet banner at the top in order to announce something.
 - [docsify-dark-mode](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-dark-mode) - Add dark mode support in your docsify site.
 - [docsify-valine](https://github.com/daidi/docsify-valine/) -  A docsify plugin that allows you to use a fast, simple & powerful comment system [valine](https://github.com/xCss/Valine) on your [docsify](https://docsify.js.org/#/) pages.
+- [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) for docsify.(推特emoji)
+- [docsify-livere💬](https://github.com/TaQini/docsify-livere) -  An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
+
 
 ## Themes
 
