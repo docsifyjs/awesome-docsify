@@ -81,6 +81,10 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-open-course-starter-kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) - A ready-to-fork template to create a Docsify open course website. [@hibbittsdesign](https://github.com/hibbitts-design).
 - [docsify-open-publishing-starter-kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) - A ready-to-fork template to create an open Docsify documentation website, with a link automatically created on each page to edit the source Markdown text in a GitHub or GitLab repository. [@hibbittsdesign](https://github.com/hibbitts-design).
 - [Pwn notebook📖](http://note.taqini.space) - CTF writeup & Notes of learning pwn. (Pwn笔记本)[@TaQini](https://github.com/TaQini)
+- [:construction_worker: :orange_book: docsify-js-tutorial](https://github.com/MichaelCurrin/docsify-js-tutorial) - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. [@MichaelCurrin](https://github.com/MichaelCurrin).
+- [:bird: :snake: python-twitter-guide](https://github.com/MichaelCurrin/python-twitter-guide) - Code snippets and links to docs around using the Twitter API and Tweepy on Python 3. [@MichaelCurrin](https://github.com/MichaelCurrin).
+- [:repeat_one: :hourglass_flowing_sand: :unicorn: unicron](https://github.com/MichaelCurrin/unicron) - A simple scheduler to ensure tasks run exactly once per day but get retried at intervals until the task passes. Ideal for machines which are not always online. [@MichaelCurrin](https://github.com/MichaelCurrin).
+
 
 ## Plugins
 
