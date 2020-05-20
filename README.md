@@ -85,7 +85,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [:bird: :snake: python-twitter-guide](https://github.com/MichaelCurrin/python-twitter-guide) - Code snippets and links to docs around using the Twitter API and Tweepy on Python 3. [@MichaelCurrin](https://github.com/MichaelCurrin).
 - [:repeat_one: :hourglass_flowing_sand: :unicorn: unicron](https://github.com/MichaelCurrin/unicron) - A simple scheduler to ensure tasks run exactly once per day but get retried at intervals until the task passes. Ideal for machines which are not always online. [@MichaelCurrin](https://github.com/MichaelCurrin).
 - [docsify-dotnet-core](https://github.com/bharatdwarkani/docsify-dotnet-core) - This project demonstrates how we can add docisfy in a ASP.NET Core 3.0 application and serve documentation site.
-- [eDok](https://www.edok.com.br) - A safe, full featured SaaS ECM (Electronic Content Management) for the paperless business. The features pages, documentation and terms are entirely implemented with docsify with dark theme support and PWA ready. Written in Brazilian Portuguese.
+- [eDok](https://www.edok.com.br) - A safe, full featured SaaS ECM (Electronic Content Management) for the paperless business. The product, documentation and terms pages are implemented with docsify featuring dark theme support and PWA ready. Written in Brazilian Portuguese.
 
 ## Plugins
 
