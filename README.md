@@ -86,6 +86,9 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [:repeat_one: :hourglass_flowing_sand: :unicorn: unicron](https://github.com/MichaelCurrin/unicron) - A simple scheduler to ensure tasks run exactly once per day but get retried at intervals until the task passes. Ideal for machines which are not always online. [@MichaelCurrin](https://github.com/MichaelCurrin).
 - [docsify-dotnet-core](https://github.com/bharatdwarkani/docsify-dotnet-core) - This project demonstrates how we can add docisfy in a ASP.NET Core 3.0 application and serve documentation site.
 - [eDok](https://www.edok.com.br) - A safe, full featured SaaS ECM (Electronic Content Management) for the paperless business. The product, documentation and terms pages are implemented with docsify. Written in Brazilian Portuguese.
+- [codoxify](https://github.com/wavejumper/codoxify) - Generate Clojure documentation for docsify.
+- [ebay-node-api](https://github.com/pajaydev/ebay-node-api) - Node.js wrapper for all eBay API's.
+
 
 ## Plugins
 
@@ -127,8 +130,8 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 - [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+). [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-themeable).
 - [🌙 docsify-darkly-theme](https://github.com/sushantrahate/docsify-darkly-theme) - Dark theme for docsify. [@sushantrahate](https://github.com/sushantrahate).
+- [:first_quarter_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between  `dark-mode` and  `light-mode`. See [preview](https://docsify-darklight-theme.boopathikumar.me) here. [@boopathikumar](https://boopathikumar.me/).
 
-- [:first_quarter_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between  `dark-mode` and  `light-mode`. See [preview](https://boopathikumar018.github.io/docsify-darklight-theme/#/) here. [@boopathikumar018](https://github.com/boopathikumar018).
 
 ## Enterprise Usage
 
