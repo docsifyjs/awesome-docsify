@@ -88,7 +88,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [eDok](https://www.edok.com.br) - A safe, full featured SaaS ECM (Electronic Content Management) for the paperless business. The product, documentation and terms pages are implemented with docsify. Written in Brazilian Portuguese.
 - [codoxify](https://github.com/wavejumper/codoxify) - Generate Clojure documentation for docsify.
 - [ebay-node-api](https://github.com/pajaydev/ebay-node-api) - Node.js wrapper for all eBay API's.
-
+- [Start Testing](https://dialex.github.io/start-testing) - A crowdsourced testing course, written by testers for testers wannabes.
 
 ## Plugins
 
