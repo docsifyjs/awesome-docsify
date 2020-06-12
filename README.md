@@ -20,6 +20,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## Showcase
 
+- [styled-wind](https://styled-wind.netlify.app/) - A magical implementation of tailwind-like classnames into styled-components.
 - [pyecharts](https://pyecharts.org) - Documentation for pyecharts. A Python Echarts Plotting Library.
 - [gallery-pyecharts](https://gallery.pyecharts.org) - A Data Visualization Gallery Based on pyecharts.
 - [Posthtml](https://posthtml.org) - Documentation for PostHTML, a tool to transform HTML/XML with JS plugins.
