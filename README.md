@@ -94,6 +94,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## Plugins
 
+- [docsify-share](https://coroo.github.io/docsify-share) - A Plugin to add share button in your docsify. [@coroo](https://github.com/coroo).
 - [docsify-count](https://github.com/827652549/docsify-count) - Add word count for markdown files of docsify.(添加字数统计)[@827652549](https://github.com/827652549).
 - [docsify-rtl](https://github.com/ckoliber/docsify-rtl) - Add rtl and bidi support to docsify [@koliberr136a1](https://github.com/ckoliber/).
 - [docsify-remote-markdown](https://github.com/JerryC8080/docsify-remote-markdown) - Load markdown docs from remote. [@JerryC](https://github.com/JerryC8080).
