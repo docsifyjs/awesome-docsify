@@ -148,7 +148,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## Contributing
 
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+[Contributions of any kind welcome, just follow the guidelines](https://github.com/docsifyjs/awesome-docsify/blob/master/contributing.md)!
 
 ### Contributors
 
@@ -156,4 +156,4 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## License
 
-[CC0 License](license)
+[CC0 License](https://github.com/docsifyjs/awesome-docsify/blob/master/license)
