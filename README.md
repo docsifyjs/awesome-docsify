@@ -92,6 +92,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Start Testing](https://dialex.github.io/start-testing) - A crowdsourced testing course, written by testers for testers wannabes.
 - [Restish](https://rest.sh/) - A CLI for modern REST APIs. Example of Docsify with custom syntax highlighting.
 - [Block Builder](https://blockbuilder.dev) - JS library for building Block Kit UIs for Slack apps.
+- [express-jsdoc-swagger](https://brikev.github.io/express-jsdoc-swagger-docs/#/) - Node.js library for generating Swagger OpenAPI 3.x UI.
 
 ## Plugins
 
