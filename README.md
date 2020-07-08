@@ -130,6 +130,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-livere💬](https://github.com/TaQini/docsify-livere) -  An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
 - [docsify-select](https://github.com/jthegedus/docsify-select) - Variably render content with select menus in markdown.
 - [docsify-mermaid](https://github.com/Leward/mermaid-docsify) - A plugin to render mermaid diagrams in docsify.
+- [docsify-plugin-carbon](https://github.com/waruqi/docsify-plugin-carbon) - A plugin to make you easy to add Carbon Ads to docsify.
 
 ## Themes
 
