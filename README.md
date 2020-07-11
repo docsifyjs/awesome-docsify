@@ -93,7 +93,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Restish](https://rest.sh/) - A CLI for modern REST APIs. Example of Docsify with custom syntax highlighting.
 - [Block Builder](https://blockbuilder.dev) - JS library for building Block Kit UIs for Slack apps.
 - [express-jsdoc-swagger](https://brikev.github.io/express-jsdoc-swagger-docs/#/) - Node.js library for generating Swagger OpenAPI 3.x UI.
-- [Spear-framework](http://www.r4v3zn.com/spear-framework/) - a best vulnerability collection platform.
+- [Spear-framework](http://dream0x01.com/spear-framework/) - A best vulnerability collection platform.
 - [NoteBook](https://notebook.js.org) - Record the computer professional knowledge you have learned along the way.
 
 ## Plugins
