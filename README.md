@@ -95,6 +95,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [express-jsdoc-swagger](https://brikev.github.io/express-jsdoc-swagger-docs/#/) - Node.js library for generating Swagger OpenAPI 3.x UI.
 - [Spear-framework](http://dream0x01.com/spear-framework/) - A best vulnerability collection platform.
 - [NoteBook](https://notebook.js.org) - Record the computer professional knowledge you have learned along the way.
+- [breadbot](http://breadbot.js.org/) - A discord bot who likes bread -or jokes.
 
 ## Plugins
 
