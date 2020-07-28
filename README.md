@@ -135,14 +135,13 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-select](https://github.com/jthegedus/docsify-select) - Variably render content with select menus in markdown.
 - [docsify-mermaid](https://github.com/Leward/mermaid-docsify) - A plugin to render mermaid diagrams in docsify.
 - [docsify-plugin-carbon](https://github.com/waruqi/docsify-plugin-carbon) - A plugin to make you easy to add Carbon Ads to docsify.
-- [docsify-pangu](https://github.com/sy-records/docsify-pangu) - A docsify plugin for Chinese and English, numbers, symbols and automatically add spaces between.
+- [docsify-pangu](https://github.com/sy-records/docsify-pangu) - A docsify plugin for Chinese and English, numbers, symbols and automatically add spaces between. [@sy-records](https://github.com/sy-records).
 
 ## Themes
 
 - [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+). [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-themeable).
 - [🌙 docsify-darkly-theme](https://github.com/sushantrahate/docsify-darkly-theme) - Dark theme for docsify. [@sushantrahate](https://github.com/sushantrahate).
 - [:first_quarter_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between  `dark-mode` and  `light-mode`. See [preview](https://docsify-darklight-theme.boopathikumar.me) here. [@boopathikumar](https://boopathikumar.me/).
-
 
 ## Enterprise Usage
 
