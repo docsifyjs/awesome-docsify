@@ -135,6 +135,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-select](https://github.com/jthegedus/docsify-select) - Variably render content with select menus in markdown.
 - [docsify-mermaid](https://github.com/Leward/mermaid-docsify) - A plugin to render mermaid diagrams in docsify.
 - [docsify-plugin-carbon](https://github.com/waruqi/docsify-plugin-carbon) - A plugin to make you easy to add Carbon Ads to docsify.
+- [docsify-pangu](https://github.com/sy-records/docsify-pangu) - A docsify plugin for Chinese and English, numbers, symbols and automatically add spaces between.
 
 ## Themes
 
@@ -146,7 +147,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 ## Enterprise Usage
 
 - Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/)
-- Alibaba - [weex-ui](https://alibaba.github.io/weex-ui/#/)
+- Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 - UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
 - Qiniu - [pandora](https://qiniu.github.io/pandora-docs/#/)
 - Amazon - [style-dictionary](https://amzn.github.io/style-dictionary/#/)
