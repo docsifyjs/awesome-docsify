@@ -12,3 +12,5 @@ jobs:
             fetch-depth: 0
         - name: "lint: awesome-lint"
           uses: jthegedus/github-action-awesome-lint@v0.1.0 # https://github.com/jthegedus is part of Docsify core team, so we will use Tag versioning over commit_sha
+          env:
+            AWESOME_LINT_VERSION: "0.14.0" #0.15.0 Invalid URL: http:#showcase
