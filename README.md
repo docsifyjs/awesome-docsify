@@ -33,7 +33,6 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Mybatis-Plus](http://mp.baomidou.com/) - An enhanced toolkit of Mybatis to simplify development.
 - [JS MythBusters](https://mythbusters.js.org) - An optimization handbook from a high level docsifynt of view.
 - [hire-me](https://fvcproductions.github.io/hire-me) - A path to getting an awesome tech gig.
-- [vue-amap](https://elemefe.github.io/vue-amap/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 - [samlify](https://samlify.js.org) - Node.js SAML2 library.
 - [palettify](https://dobromir-hristov.github.io/palettify/) - A color palette effects assistant.
 - [commitlint](https://marionebl.github.io/commitlint/) - Lint commit messages.
@@ -144,7 +143,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## Enterprise Usage
 
-- Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/)
+- Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 - Alibaba - [weex-ui](https://alibaba.github.io/weex-ui/#/)
 - UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
 - Qiniu - [pandora](https://qiniu.github.io/pandora-docs/#/)
