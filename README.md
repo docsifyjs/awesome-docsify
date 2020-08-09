@@ -104,9 +104,9 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-pagination](https://github.com/imyelo/docsify-pagination) - Pagination for docsify [@imyelo](https://github.com/imyelo).
 - [docsify-plantuml](https://github.com/imyelo/docsify-plantuml) - PlantUML for docsify [@imyelo](https://github.com/imyelo).
 - [docsify-copy-code](https://github.com/jperasmus/docsify-copy-code) - A docsify plugin that copies Markdown code block to your clipboard [@jperasmus](https://github.com/jperasmus).
-- [docsify-demo-box-vue](https://github.com/njleonzhang/docsify-demo-box-vue) - write Vue demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/docsify-demo-box-vue).
-- [docsify-demo-box-react](https://github.com/njleonzhang/docsify-demo-box-react) - write React jsx demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/docsify-demo-box-vue).
-- [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - Add Edit on GitHub button on every pages [@njleonzhang](https://github.com/njleonzhang/docsify-demo-box-vue).
+- [docsify-demo-box-vue](https://github.com/njleonzhang/docsify-demo-box-vue) - write Vue demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/).
+- [docsify-demo-box-react](https://github.com/njleonzhang/docsify-demo-box-react) - write React jsx demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/).
+- [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - Add Edit on GitHub button on every pages [@njleonzhang](https://github.com/njleonzhang/).
 - [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs) - A docsify plugin for displaying tabbed content from markdown [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-tabs).
 - [docsify-katex](https://github.com/upupming/docsify-katex) - A docsify plugin for rendering LaTex math equations [@upupming](https://github.com/upupming).
 - [docsify-pdf-embed](https://github.com/lazypanda10117/docsify-pdf-embed) - A docsify plugin for embedding PDF on any page [@lazypanda10117](https://github.com/lazypanda10117).
