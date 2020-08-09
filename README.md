@@ -77,12 +77,12 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [google-spreadsheet (npm module)](https://theoephraim.github.io/node-google-spreadsheet) - A Google Sheets API wrapper for JavaScript.
 - [Android Tutorial 2020](https://an.rustfisher.com/) - Android tutorial 2020. Android app develop wiki site.
 - [docsify-open-course-starter-kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) - A ready-to-fork template to create a Docsify open course website. [@hibbittsdesign](https://github.com/hibbitts-design).
-- [docsify-open-publishing-starter-kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) - A ready-to-fork template to create an open Docsify documentation website, with a link automatically created on each page to edit the source Markdown text in a GitHub or GitLab repository. [@hibbittsdesign](https://github.com/hibbitts-design).
-- [docsify-open-publishing-starter-kit-for-glitch](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-for-glitch) - A ready-to-import template to create an open Docsify documentation website on [Glitch](https://glitch.com/), with a link automatically created on each page to edit the source Markdown text on Glitch. [@hibbittsdesign](https://github.com/hibbitts-design).
+- [docsify-open-publishing-starter-kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) - A ready-to-fork template to create an open Docsify documentation website, with a link automatically created on each page to edit the source Markdown text in a GitHub or GitLab repository. @hibbittsdesign.
+- [docsify-open-publishing-starter-kit-for-glitch](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-for-glitch) - A ready-to-import template to create an open Docsify documentation website on [Glitch](https://glitch.com/), with a link automatically created on each page to edit the source Markdown text on Glitch. @hibbittsdesign.
 - [Pwn notebook📖](http://note.taqini.space) - CTF writeup & Notes of learning pwn. (Pwn笔记本)[@TaQini](https://github.com/TaQini)
 - [:construction_worker: :orange_book: docsify-js-tutorial](https://github.com/MichaelCurrin/docsify-js-tutorial) - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. [@MichaelCurrin](https://github.com/MichaelCurrin).
-- [:bird: :snake: python-twitter-guide](https://github.com/MichaelCurrin/python-twitter-guide) - Code snippets and links to docs around using the Twitter API and Tweepy on Python 3. [@MichaelCurrin](https://github.com/MichaelCurrin).
-- [:repeat_one: :hourglass_flowing_sand: :unicorn: unicron](https://github.com/MichaelCurrin/unicron) - A simple scheduler to ensure tasks run exactly once per day but get retried at intervals until the task passes. Ideal for machines which are not always online. [@MichaelCurrin](https://github.com/MichaelCurrin).
+- [:bird: :snake: python-twitter-guide](https://github.com/MichaelCurrin/python-twitter-guide) - Code snippets and links to docs around using the Twitter API and Tweepy on Python 3. @MichaelCurrin.
+- [:repeat_one: :hourglass_flowing_sand: :unicorn: unicron](https://github.com/MichaelCurrin/unicron) - A simple scheduler to ensure tasks run exactly once per day but get retried at intervals until the task passes. Ideal for machines which are not always online. @MichaelCurrin.
 - [docsify-dotnet-core](https://github.com/bharatdwarkani/docsify-dotnet-core) - This project demonstrates how we can add docisfy in a ASP.NET Core 3.0 application and serve documentation site.
 - [eDok](https://www.edok.com.br) - A safe, full featured SaaS ECM (Electronic Content Management) for the paperless business. The product, documentation and terms pages are implemented with docsify. Written in Brazilian Portuguese.
 - [codoxify](https://github.com/wavejumper/codoxify) - Generate Clojure documentation for docsify.
@@ -102,11 +102,11 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-rtl](https://github.com/ckoliber/docsify-rtl) - Add rtl and bidi support to docsify [@koliberr136a1](https://github.com/ckoliber/).
 - [docsify-remote-markdown](https://github.com/JerryC8080/docsify-remote-markdown) - Load markdown docs from remote. [@JerryC](https://github.com/JerryC8080).
 - [docsify-pagination](https://github.com/imyelo/docsify-pagination) - Pagination for docsify [@imyelo](https://github.com/imyelo).
-- [docsify-plantuml](https://github.com/imyelo/docsify-plantuml) - PlantUML for docsify [@imyelo](https://github.com/imyelo).
+- [docsify-plantuml](https://github.com/imyelo/docsify-plantuml) - PlantUML for docsify @imyelo.
 - [docsify-copy-code](https://github.com/jperasmus/docsify-copy-code) - A docsify plugin that copies Markdown code block to your clipboard [@jperasmus](https://github.com/jperasmus).
 - [docsify-demo-box-vue](https://github.com/njleonzhang/docsify-demo-box-vue) - write Vue demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/).
-- [docsify-demo-box-react](https://github.com/njleonzhang/docsify-demo-box-react) - write React jsx demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/).
-- [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - Add Edit on GitHub button on every pages [@njleonzhang](https://github.com/njleonzhang/).
+- [docsify-demo-box-react](https://github.com/njleonzhang/docsify-demo-box-react) - write React jsx demo in docsify with instant preview and jsfiddle integration @njleonzhang.
+- [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - Add Edit on GitHub button on every pages @njleonzhang.
 - [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs) - A docsify plugin for displaying tabbed content from markdown [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-tabs).
 - [docsify-katex](https://github.com/upupming/docsify-katex) - A docsify plugin for rendering LaTex math equations [@upupming](https://github.com/upupming).
 - [docsify-pdf-embed](https://github.com/lazypanda10117/docsify-pdf-embed) - A docsify plugin for embedding PDF on any page [@lazypanda10117](https://github.com/lazypanda10117).
