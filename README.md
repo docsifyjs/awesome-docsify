@@ -57,7 +57,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [class-change.js](https://jhildenbiddle.github.io/class-change/) - A micro-library for manipulating CSS class names, triggering change events using HTML data attributes, and creating declarative class-related event listeners.
 - [docx](https://docx.js.org) - Easily generate `.docx` files with JS/TS.
 - [RCOS Handbook](https://handbook.rcos.io) - Organization manual for Rensselaer Center for Open Source.
-- [Veritone](https://docs.veritone.com/) - Veritone aiWare docs for AI as a service platform.
+- [Veritone](https://docs.veritone.com/) - Veritone aiWare docs for AI as a service platform and MachineBox.
 - [🎨 Osiris UI](https://osiris-ui.github.io/osiris) - A Vue.js 2.0 universal responsive UI component library.
 - [Oglang](https://champii.github.io/og) - Oglang: a language like coffee-script that compiles to Golang.
 - [boardgame.io](https://boardgame.io/#/) - State management and more for turn based games.
@@ -66,7 +66,6 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [👨‍🎓 JCSprout](https://crossoverjie.top/JCSprout/) - Basic, concurrent, algorithm(处于萌芽阶段的 Java 核心知识库).
 - [axios-api-versioning](https://weffe.github.io/axios-api-versioning) - Add easy to manage api versioning to axios.
 - [🎓 🎨 Reading](http://www.guofei.site/reading/#/) - Reading notes of 300 awesome books (Will keep on for another 20 years).
-- [Veritone Docs](https://docs.veritone.com) - Technical docs for the aiWARE platform and MachineBox.
 - [Learn Blockchain by Code](https://book.uchaindb.com) - The code and book about learning blockchain by code. (《区块链系统实现》开源书籍及源代码仓库)
 - [Fairlay API](https://fairlay.com/api/#/) - Exchange & prediction markets API.
 - [Tainacan Wiki](https://wiki.tainacan.org/) - Documentation for Tainacan - a flexible and powerfull repository platform for WordPress.
