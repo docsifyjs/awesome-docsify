@@ -55,7 +55,6 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [You-need-to-know-css](https://l-hammer.github.io/You-need-to-know-css/) - CSS tricks web developers need to know.
 - [OCCA](http://libocca.org) - Library for programming multiple backends (OpenMP, CUDA, and OpenCL) with JIT compiled kernels.
 - [class-change.js](https://jhildenbiddle.github.io/class-change/) - A micro-library for manipulating CSS class names, triggering change events using HTML data attributes, and creating declarative class-related event listeners.
-- [Polly.js](https://netflix.github.io/pollyjs) - Record, replay, and stub HTTP interactions.
 - [docx](https://docx.js.org) - Easily generate `.docx` files with JS/TS.
 - [RCOS Handbook](https://handbook.rcos.io) - Organization manual for Rensselaer Center for Open Source.
 - [Veritone](https://docs.veritone.com/) - Veritone aiWare docs for AI as a service platform.
@@ -151,7 +150,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
 - Qiniu - [pandora](https://qiniu.github.io/pandora-docs/#/)
 - Amazon - [style-dictionary](https://amzn.github.io/style-dictionary/#/)
-- Netflix - [Polly.js](https://netflix.github.io/pollyjs/#/README)
+- Netflix - [Polly.js](https://netflix.github.io/pollyjs/) - Record, replay, and stub HTTP interactions.
 
 ## Contributing
 
