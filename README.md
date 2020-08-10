@@ -1,11 +1,10 @@
-
 <div align="center">
 
 <!--lint ignore no-dead-urls-->
+
 # Awesome Docsify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/docsifyjs/awesome-docsify/workflows/Lint%20Awesome%20List/badge.svg)
 
-
-A curated list of awesome things related to <a href="//docsify.js.org">docsify</a>. 
+A curated list of awesome things related to <a href="//docsify.js.org">docsify</a>.
 
 <img width="122" src="https://user-images.githubusercontent.com/7565692/35311593-3edd9102-00f2-11e8-98fb-38be1d0e650f.png" alt="logo of docsify-awesome repository">
 
@@ -14,6 +13,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 ## Contents
 
 - [Showcase](#showcase)
+- [Community Resources](#community-resources)
 - [Plugins](#plugins)
 - [Themes](#themes)
 - [Enterprise Usage](#enterprise-usage)
@@ -29,17 +29,15 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Security List](http://security-list.js.org) - A series of personal cyber security tools, resources and checklists.
 - [Snipaste](https://docs.snipaste.com/) - Snip & Paste.
 - [Vudash](https://github.com/vudash/vudash) - Powerful, Flexible, Open Source dashboards for anything.
-- [Trilogy](http://trilogy.js.org) - No-hassle SQLite with a Promise-based, document store style API.
-- [Mybatis-Plus](http://mp.baomidou.com/) - An enhanced toolkit of Mybatis to simplify development.
-- [JS MythBusters](https://mythbusters.js.org) - An optimization handbook from a high level docsifynt of view.
+- [JS MythBusters](https://mythbusters.js.org) - An optimization handbook from a high level point of view.
 - [hire-me](https://fvcproductions.github.io/hire-me) - A path to getting an awesome tech gig.
 - [samlify](https://samlify.js.org) - Node.js SAML2 library.
 - [palettify](https://dobromir-hristov.github.io/palettify/) - A color palette effects assistant.
 - [commitlint](https://marionebl.github.io/commitlint/) - Lint commit messages.
-- [vue-data-tables](https://github.com/njleonzhang/vue-data-tables/) - A simple and customizable data table, based on vue2 and element-ui.
+- [vue-data-tables](https://www.njleonzhang.com/vue-data-tables) - A simple and customizable data table, based on vue2 and element-ui.
 - [Noty](http://ned.im/noty/) - A Dependency-free notification library.
 - [xTeko](https://docs.xteko.com/) - Addins framework for Pin 3.0.
-- [vue2-datatable-component](https://github.com/OneWayTech/vue2-datatable) - The best Datatable for Vue.js 2.x which never sucks.
+- [vue2-datatable-component](https://onewaytech.github.io/vue2-datatable/doc) - The best Datatable for Vue.js 2.x which never sucks.
 - [Solidarity](https://infinitered.github.io/solidarity/) - Environment enforcer for your projects across machines.
 - [IT-films](https://greybax.github.com/awesome-IT-films) - A curated list of awesome movies, documentaries and TV series about hackers, geeks and IT in common, sorted by IMDB rating.
 - [zooming](http://desmonding.me/zooming/docs) - Image zoom that makes sense.
@@ -68,25 +66,17 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Learn Blockchain by Code](https://book.uchaindb.com) - The code and book about learning blockchain by code. (《区块链系统实现》开源书籍及源代码仓库)
 - [Fairlay API](https://fairlay.com/api/#/) - Exchange & prediction markets API.
 - [Tainacan Wiki](https://wiki.tainacan.org/) - Documentation for Tainacan - a flexible and powerfull repository platform for WordPress.
-- [n8n.io](https://docs.n8n.io) - Documentation for Open Source Workflow Automation Tool n8n.io.
-- [Haiti](https://orange-cyberdefense.github.io/haiti/#/) - A CLI tool to identify the hash type of a given hash.
-- [Rabid](https://orange-cyberdefense.github.io/rabid/#/) - A CLI tool and library allowing to simply decode all kind of BigIP cookies.
 - [🛸 Jasonelle](https://jasonelle.com) - Make iOS and Android Apps with JSON.
 - [Saasify](https://saasify.sh) - A new way for devs to earn passive income.
 - [Regauge](https://itchef.github.io/regauge) - A command line interface for react app bundled with webpack, prettier and many more.
 - [google-spreadsheet (npm module)](https://theoephraim.github.io/node-google-spreadsheet) - A Google Sheets API wrapper for JavaScript.
-- [Android Tutorial 2020](https://an.rustfisher.com/) - Android tutorial 2020. Android app develop wiki site.
-- [docsify-open-course-starter-kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) - A ready-to-fork template to create a Docsify open course website. [@hibbittsdesign](https://github.com/hibbitts-design).
-- [docsify-open-publishing-starter-kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) - A ready-to-fork template to create an open Docsify documentation website, with a link automatically created on each page to edit the source Markdown text in a GitHub or GitLab repository. @hibbittsdesign.
-- [docsify-open-publishing-starter-kit-for-glitch](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-for-glitch) - A ready-to-import template to create an open Docsify documentation website on [Glitch](https://glitch.com/), with a link automatically created on each page to edit the source Markdown text on Glitch. @hibbittsdesign.
-- [Pwn notebook📖](http://note.taqini.space) - CTF writeup & Notes of learning pwn. (Pwn笔记本)[@TaQini](https://github.com/TaQini)
+- [Pwn notebook📖](http://note.taqini.space) - CTF writeup & Notes of learning pwn. (Pwn 笔记本)[@TaQini](https://github.com/TaQini)
 - [:construction_worker: :orange_book: docsify-js-tutorial](https://github.com/MichaelCurrin/docsify-js-tutorial) - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. [@MichaelCurrin](https://github.com/MichaelCurrin).
 - [:bird: :snake: python-twitter-guide](https://github.com/MichaelCurrin/python-twitter-guide) - Code snippets and links to docs around using the Twitter API and Tweepy on Python 3. @MichaelCurrin.
 - [:repeat_one: :hourglass_flowing_sand: :unicorn: unicron](https://github.com/MichaelCurrin/unicron) - A simple scheduler to ensure tasks run exactly once per day but get retried at intervals until the task passes. Ideal for machines which are not always online. @MichaelCurrin.
-- [docsify-dotnet-core](https://github.com/bharatdwarkani/docsify-dotnet-core) - This project demonstrates how we can add docisfy in a ASP.NET Core 3.0 application and serve documentation site.
 - [eDok](https://www.edok.com.br) - A safe, full featured SaaS ECM (Electronic Content Management) for the paperless business. The product, documentation and terms pages are implemented with docsify. Written in Brazilian Portuguese.
 - [codoxify](https://github.com/wavejumper/codoxify) - Generate Clojure documentation for docsify.
-- [ebay-node-api](https://github.com/pajaydev/ebay-node-api) - Node.js wrapper for all eBay API's.
+- [ebay-node-api](https://pajaydev.github.io/ebay-node-api) - Node.js wrapper for all eBay API's.
 - [Start Testing](https://dialex.github.io/start-testing) - A crowdsourced testing course, written by testers for testers wannabes.
 - [Restish](https://rest.sh/) - A CLI for modern REST APIs. Example of Docsify with custom syntax highlighting.
 - [Block Builder](https://blockbuilder.dev) - JS library for building Block Kit UIs for Slack apps.
@@ -95,6 +85,14 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [NoteBook](https://notebook.js.org) - Record the computer professional knowledge you have learned along the way.
 - [breadbot](http://breadbot.js.org/) - A discord bot who likes bread -or jokes.
 - [幸福拾荒者](https://xflihaibo.github.io/docs/#/) - A poetic front-end documentation library.
+
+## Community Resources
+
+- [docsify-open-course-starter-kit](https://hibbitts-design.github.io/docsify-open-course-starter-kit) - A ready-to-fork template to create a Docsify open course website. [@hibbittsdesign](https://github.com/hibbitts-design).
+- [docsify-open-publishing-starter-kit](https://hibbitts-design.github.io/docsify-open-publishing-starter-kit) - A ready-to-fork template to create an open Docsify documentation website, with a link automatically created on each page to edit the source Markdown text in a GitHub or GitLab repository. @hibbittsdesign.
+- [docsify-open-publishing-starter-kit-for-glitch](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-for-glitch) - A ready-to-import template to create an open Docsify documentation website on [Glitch](https://glitch.com/), with a link automatically created on each page to edit the source Markdown text on Glitch. @hibbittsdesign.
+- [docsify-dotnet-core](https://github.com/bharatdwarkani/docsify-dotnet-core) - This project demonstrates how we can add docisfy in a ASP.NET Core 3.0 application and serve documentation site.
+- [:construction_worker: :orange_book: docsify-js-tutorial](https://michaelcurrin.github.io/docsify-js-tutorial) - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. @MichaelCurrin.
 
 ## Plugins
 
@@ -127,9 +125,9 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-changelog-plugin](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-changelog-plugin) - Integrates your changelog in a sweet panel.
 - [docsify-top-bannner-plugin](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-top-banner-plugin) - Add a simple and sweet banner at the top in order to announce something.
 - [docsify-dark-mode](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-dark-mode) - Add dark mode support in your docsify site.
-- [docsify-valine](https://github.com/daidi/docsify-valine/) -  A docsify plugin that allows you to use a fast, simple & powerful comment system [valine](https://github.com/xCss/Valine) on your [docsify](https://docsify.js.org/#/) pages.
-- [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) for docsify.(推特emoji)
-- [docsify-livere💬](https://github.com/TaQini/docsify-livere) -  An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
+- [docsify-valine](https://github.com/daidi/docsify-valine/) - A docsify plugin that allows you to use a fast, simple & powerful comment system [valine](https://github.com/xCss/Valine) on your [docsify](https://docsify.js.org/#/) pages.
+- [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) for docsify.(推特 emoji)
+- [docsify-livere💬](https://github.com/TaQini/docsify-livere) - An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
 - [docsify-select](https://github.com/jthegedus/docsify-select) - Variably render content with select menus in markdown.
 - [docsify-mermaid](https://github.com/Leward/mermaid-docsify) - A plugin to render mermaid diagrams in docsify.
 - [docsify-plugin-carbon](https://github.com/waruqi/docsify-plugin-carbon) - A plugin to make you easy to add Carbon Ads to docsify.
@@ -140,7 +138,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 - [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+). [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-themeable).
 - [🌙 docsify-darkly-theme](https://github.com/sushantrahate/docsify-darkly-theme) - Dark theme for docsify. [@sushantrahate](https://github.com/sushantrahate).
-- [:first_quarter_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between  `dark-mode` and  `light-mode`. See [preview](https://docsify-darklight-theme.boopathikumar.me) here. [@boopathikumar](https://boopathikumar.me/).
+- [:first_quarter_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between `dark-mode` and `light-mode`. See [preview](https://docsify-darklight-theme.boopathikumar.me) here. [@boopathikumar](https://boopathikumar.me/).
 
 ## Enterprise Usage
 
