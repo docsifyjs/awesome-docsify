@@ -30,7 +30,6 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Vudash](https://github.com/vudash/vudash) - Powerful, Flexible, Open Source dashboards for anything.
 - [JS MythBusters](https://mythbusters.js.org) - An optimization handbook from a high level point of view.
 - [hire-me](https://fvcproductions.github.io/hire-me) - A path to getting an awesome tech gig.
-- [vue-amap](https://elemefe.github.io/vue-amap/) - A Map Component Library Base on Vue 2.x and Gaode Map.
 - [samlify](https://samlify.js.org) - Node.js SAML2 library.
 - [palettify](https://dobromir-hristov.github.io/palettify/) - A color palette effects assistant.
 - [commitlint](https://marionebl.github.io/commitlint/) - Lint commit messages.
@@ -52,10 +51,9 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [You-need-to-know-css](https://l-hammer.github.io/You-need-to-know-css/) - CSS tricks web developers need to know.
 - [OCCA](http://libocca.org) - Library for programming multiple backends (OpenMP, CUDA, and OpenCL) with JIT compiled kernels.
 - [class-change.js](https://jhildenbiddle.github.io/class-change/) - A micro-library for manipulating CSS class names, triggering change events using HTML data attributes, and creating declarative class-related event listeners.
-- [Polly.js](https://netflix.github.io/pollyjs) - Record, replay, and stub HTTP interactions.
 - [docx](https://docx.js.org) - Easily generate `.docx` files with JS/TS.
 - [RCOS Handbook](https://handbook.rcos.io) - Organization manual for Rensselaer Center for Open Source.
-- [Veritone](https://docs.veritone.com/) - Veritone aiWare docs for AI as a service platform.
+- [Veritone](https://docs.veritone.com/) - Veritone aiWare docs for AI as a service platform and MachineBox.
 - [🎨 Osiris UI](https://osiris-ui.github.io/osiris) - A Vue.js 2.0 universal responsive UI component library.
 - [Oglang](https://champii.github.io/og) - Oglang: a language like coffee-script that compiles to Golang.
 - [boardgame.io](https://boardgame.io/#/) - State management and more for turn based games.
@@ -72,8 +70,10 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Regauge](https://itchef.github.io/regauge) - A command line interface for react app bundled with webpack, prettier and many more.
 - [google-spreadsheet (npm module)](https://theoephraim.github.io/node-google-spreadsheet) - A Google Sheets API wrapper for JavaScript.
 - [Pwn notebook📖](http://note.taqini.space) - CTF writeup & Notes of learning pwn. (Pwn 笔记本)[@TaQini](https://github.com/TaQini)
-- [:bird: :snake: python-twitter-guide](https://michaelcurrin.github.io/python-twitter-guide) - Code snippets and links to docs around using the Twitter API and Tweepy on Python 3. [@MichaelCurrin](https://github.com/MichaelCurrin).
-- [:repeat_one: :hourglass_flowing_sand: :unicorn: unicron](https://michaelcurrin.github.io/unicron) - A simple scheduler to ensure tasks run exactly once per day but get retried at intervals until the task passes. Ideal for machines which are not always online. [@MichaelCurrin](https://github.com/MichaelCurrin).
+- [:construction_worker: :orange_book: docsify-js-tutorial](https://github.com/MichaelCurrin/docsify-js-tutorial) - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. [@MichaelCurrin](https://github.com/MichaelCurrin).
+- [:bird: :snake: python-twitter-guide](https://github.com/MichaelCurrin/python-twitter-guide) - Code snippets and links to docs around using the Twitter API and Tweepy on Python 3. @MichaelCurrin.
+- [:repeat_one: :hourglass_flowing_sand: :unicorn: unicron](https://github.com/MichaelCurrin/unicron) - A simple scheduler to ensure tasks run exactly once per day but get retried at intervals until the task passes. Ideal for machines which are not always online. @MichaelCurrin.
+- [docsify-dotnet-core](https://github.com/bharatdwarkani/docsify-dotnet-core) - This project demonstrates how we can add docisfy in a ASP.NET Core 3.0 application and serve documentation site.
 - [eDok](https://www.edok.com.br) - A safe, full featured SaaS ECM (Electronic Content Management) for the paperless business. The product, documentation and terms pages are implemented with docsify. Written in Brazilian Portuguese.
 - [codoxify](https://github.com/wavejumper/codoxify) - Generate Clojure documentation for docsify.
 - [ebay-node-api](https://pajaydev.github.io/ebay-node-api) - Node.js wrapper for all eBay API's.
@@ -81,11 +81,16 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Restish](https://rest.sh/) - A CLI for modern REST APIs. Example of Docsify with custom syntax highlighting.
 - [Block Builder](https://blockbuilder.dev) - JS library for building Block Kit UIs for Slack apps.
 - [express-jsdoc-swagger](https://brikev.github.io/express-jsdoc-swagger-docs/#/) - Node.js library for generating Swagger OpenAPI 3.x UI.
+- [Spear-framework](http://dream0x01.com/spear-framework/) - A best vulnerability collection platform.
+- [NoteBook](https://notebook.js.org) - Record the computer professional knowledge you have learned along the way.
+- [breadbot](http://breadbot.js.org/) - A discord bot who likes bread -or jokes.
+- [幸福拾荒者](https://xflihaibo.github.io/docs/#/) - A poetic front-end documentation library.
 
 ## Community Resources
 
 - [docsify-open-course-starter-kit](https://hibbitts-design.github.io/docsify-open-course-starter-kit) - A ready-to-fork template to create a Docsify open course website. [@hibbittsdesign](https://github.com/hibbitts-design).
-- [docsify-open-publishing-starter-kit](https://hibbitts-design.github.io/docsify-open-publishing-starter-kit) - A ready-to-fork template to create an open Docsify documentation website, with a link automatically created on each page to edit the source Markdown text in a GitHub or GitLab repository. [@hibbittsdesign](https://github.com/hibbitts-design).
+- [docsify-open-publishing-starter-kit](https://hibbitts-design.github.io/docsify-open-publishing-starter-kit) - A ready-to-fork template to create an open Docsify documentation website, with a link automatically created on each page to edit the source Markdown text in a GitHub or GitLab repository. @hibbittsdesign.
+- [docsify-open-publishing-starter-kit-for-glitch](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-for-glitch) - A ready-to-import template to create an open Docsify documentation website on [Glitch](https://glitch.com/), with a link automatically created on each page to edit the source Markdown text on Glitch. @hibbittsdesign.
 - [docsify-dotnet-core](https://github.com/bharatdwarkani/docsify-dotnet-core) - This project demonstrates how we can add docisfy in a ASP.NET Core 3.0 application and serve documentation site.
 - [:construction_worker: :orange_book: docsify-js-tutorial](https://michaelcurrin.github.io/docsify-js-tutorial) - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. [@MichaelCurrin](https://github.com/MichaelCurrin).
 
@@ -96,11 +101,11 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-rtl](https://github.com/ckoliber/docsify-rtl) - Add rtl and bidi support to docsify [@koliberr136a1](https://github.com/ckoliber/).
 - [docsify-remote-markdown](https://github.com/JerryC8080/docsify-remote-markdown) - Load markdown docs from remote. [@JerryC](https://github.com/JerryC8080).
 - [docsify-pagination](https://github.com/imyelo/docsify-pagination) - Pagination for docsify [@imyelo](https://github.com/imyelo).
-- [docsify-plantuml](https://github.com/imyelo/docsify-plantuml) - PlantUML for docsify [@imyelo](https://github.com/imyelo).
+- [docsify-plantuml](https://github.com/imyelo/docsify-plantuml) - PlantUML for docsify @imyelo.
 - [docsify-copy-code](https://github.com/jperasmus/docsify-copy-code) - A docsify plugin that copies Markdown code block to your clipboard [@jperasmus](https://github.com/jperasmus).
-- [docsify-demo-box-vue](https://github.com/njleonzhang/docsify-demo-box-vue) - write Vue demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/docsify-demo-box-vue).
-- [docsify-demo-box-react](https://github.com/njleonzhang/docsify-demo-box-react) - write React jsx demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/docsify-demo-box-vue).
-- [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - Add Edit on GitHub button on every pages [@njleonzhang](https://github.com/njleonzhang/docsify-demo-box-vue).
+- [docsify-demo-box-vue](https://github.com/njleonzhang/docsify-demo-box-vue) - Write Vue demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/).
+- [docsify-demo-box-react](https://github.com/njleonzhang/docsify-demo-box-react) - Write React jsx demo in docsify with instant preview and jsfiddle integration @njleonzhang.
+- [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - Add Edit on GitHub button on every pages @njleonzhang.
 - [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs) - A docsify plugin for displaying tabbed content from markdown [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-tabs).
 - [docsify-katex](https://github.com/upupming/docsify-katex) - A docsify plugin for rendering LaTex math equations [@upupming](https://github.com/upupming).
 - [docsify-pdf-embed](https://github.com/lazypanda10117/docsify-pdf-embed) - A docsify plugin for embedding PDF on any page [@lazypanda10117](https://github.com/lazypanda10117).
@@ -125,6 +130,9 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-livere💬](https://github.com/TaQini/docsify-livere) - An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
 - [docsify-select](https://github.com/jthegedus/docsify-select) - Variably render content with select menus in markdown.
 - [docsify-mermaid](https://github.com/Leward/mermaid-docsify) - A plugin to render mermaid diagrams in docsify.
+- [docsify-plugin-carbon](https://github.com/waruqi/docsify-plugin-carbon) - A plugin to make you easy to add Carbon Ads to docsify.
+- [docsify-pangu](https://github.com/sy-records/docsify-pangu) - A docsify plugin for Chinese and English, numbers, symbols and automatically add spaces between. [@sy-records](https://github.com/sy-records).
+- [docsify-gtlfexplorer](https://github.com/X-Ryl669/docsify-gltfexplorer) - A plugin to embed a manipulable 3D model in your documentation.
 
 ## Themes
 
@@ -134,11 +142,12 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## Enterprise Usage
 
-- Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/)
+- Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
+- Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 - UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
 - Qiniu - [pandora](https://qiniu.github.io/pandora-docs/#/)
 - Amazon - [style-dictionary](https://amzn.github.io/style-dictionary/#/)
-- Netflix - [Polly.js](https://netflix.github.io/pollyjs/#/README)
+- Netflix - [Polly.js](https://netflix.github.io/pollyjs/) - Record, replay, and stub HTTP interactions.
 
 ## Contributing
 
