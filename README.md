@@ -132,6 +132,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-select](https://github.com/jthegedus/docsify-select) - Variably render content with select menus in markdown.
 - [docsify-mermaid](https://github.com/Leward/mermaid-docsify) - A plugin to render mermaid diagrams in docsify.
 - [docsify-plugin-carbon](https://github.com/waruqi/docsify-plugin-carbon) - A plugin to make you easy to add Carbon Ads to docsify.
+- [docsify-pangu](https://github.com/sy-records/docsify-pangu) - A docsify plugin for Chinese and English, numbers, symbols and automatically add spaces between. [@sy-records](https://github.com/sy-records).
 - [docsify-gtlfexplorer](https://github.com/X-Ryl669/docsify-gltfexplorer) - A plugin to embed a manipulable 3D model in your documentation.
 
 ## Themes
@@ -140,11 +141,10 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [🌙 docsify-darkly-theme](https://github.com/sushantrahate/docsify-darkly-theme) - Dark theme for docsify. [@sushantrahate](https://github.com/sushantrahate).
 - [:first_quarter_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between  `dark-mode` and  `light-mode`. See [preview](https://docsify-darklight-theme.boopathikumar.me) here. [@boopathikumar](https://boopathikumar.me/).
 
-
 ## Enterprise Usage
 
 - Eleme - [vue-amap](https://elemefe.github.io/vue-amap/#/) - A Map Component Library Base on Vue 2.x and Gaode Map.
-- Alibaba - [weex-ui](https://alibaba.github.io/weex-ui/#/)
+- Alibaba - [weex-ui](https://apache.github.io/incubator-weex-ui/#/)
 - UCWeb - [UC 开放平台文档中心](http://doc.open-uc.cn)
 - Qiniu - [pandora](https://qiniu.github.io/pandora-docs/#/)
 - Amazon - [style-dictionary](https://amzn.github.io/style-dictionary/#/)
