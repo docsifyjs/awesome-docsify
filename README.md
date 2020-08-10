@@ -125,7 +125,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-changelog-plugin](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-changelog-plugin) - Integrates your changelog in a sweet panel.
 - [docsify-top-bannner-plugin](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-top-banner-plugin) - Add a simple and sweet banner at the top in order to announce something.
 - [docsify-dark-mode](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-dark-mode) - Add dark mode support in your docsify site.
-- [docsify-valine](https://github.com/daidi/docsify-valine/) - A docsify plugin that allows you to use a fast, simple & powerful comment system [valine](https://github.com/xCss/Valine) on your [docsify](https://docsify.js.org/#/) pages.
+- [docsify-valine](https://github.com/daidi/docsify-valine/) - A docsify plugin that allows you to use a fast, simple & powerful comment system [valine](https://github.com/xCss/Valine) on your docsify pages.
 - [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) for docsify.(推特 emoji)
 - [docsify-livere💬](https://github.com/TaQini/docsify-livere) - An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
 - [docsify-select](https://github.com/jthegedus/docsify-select) - Variably render content with select menus in markdown.
@@ -133,6 +133,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-plugin-carbon](https://github.com/waruqi/docsify-plugin-carbon) - A plugin to make you easy to add Carbon Ads to docsify.
 - [docsify-pangu](https://github.com/sy-records/docsify-pangu) - A docsify plugin for Chinese and English, numbers, symbols and automatically add spaces between. [@sy-records](https://github.com/sy-records).
 - [docsify-gtlfexplorer](https://github.com/X-Ryl669/docsify-gltfexplorer) - A plugin to embed a manipulable 3D model in your documentation.
+- [docsify-corner](https://github.com/Koooooo-7/docsify-corner) - A enhancement plugin for more repo widgets in top right corner, such as `Gitlab`. [@Koooooo-7](https://github.com/Koooooo-7)
 
 ## Themes
 
