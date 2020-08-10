@@ -135,6 +135,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-select](https://github.com/jthegedus/docsify-select) - Variably render content with select menus in markdown.
 - [docsify-mermaid](https://github.com/Leward/mermaid-docsify) - A plugin to render mermaid diagrams in docsify.
 - [docsify-plugin-carbon](https://github.com/waruqi/docsify-plugin-carbon) - A plugin to make you easy to add Carbon Ads to docsify.
+- [docsify-corner](https://github.com/Koooooo-7/docsify-corner) - A enhancement plugin for more [repo](https://docsify.js.org/#/configuration?id=repo) widgets at corner, such as `Gitlab`. [@Koooooo-7](https://github.com/Koooooo-7)
 
 ## Themes
 
