@@ -87,6 +87,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [幸福拾荒者](https://xflihaibo.github.io/docs/#/) - A poetic front-end documentation library.
 - [euchre-cli](https://bradleycwojcik.github.io/euchre-cli/) - Play euchre in your terminal.
 - [fastdocs.io](https://fastdocs.io/) - Instantly deploy your docs with Docsify without any code!
+- [Anki](https://docs.ankiweb.net/) - A powerful cross-platform flashcard program which makes remembering things easy.
 
 ## Community Resources
 
