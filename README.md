@@ -88,6 +88,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [euchre-cli](https://bradleycwojcik.github.io/euchre-cli/) - Play euchre in your terminal.
 - [fastdocs.io](https://fastdocs.io/) - Instantly deploy your docs with Docsify without any code!
 - [Anki](https://docs.ankiweb.net/) - A powerful cross-platform flashcard program which makes remembering things easy.
+- [inlets](https://docs.inlets.dev) - The documentation for inlets ("The Cloud Native Tunnel") is deployed with docsify.
 
 ## Community Resources
 
