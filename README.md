@@ -113,7 +113,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs) - A docsify plugin for displaying tabbed content from markdown [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-tabs).
 - [docsify-katex](https://github.com/upupming/docsify-katex) - A docsify plugin for rendering LaTex math equations [@upupming](https://github.com/upupming).
 - [docsify-pdf-embed](https://github.com/lazypanda10117/docsify-pdf-embed) - A docsify plugin for embedding PDF on any page [@lazypanda10117](https://github.com/lazypanda10117).
-- [docsify-plugin-flexible-alerts](https://github.com/zanfab/docsify-plugin-flexible-alerts) - A docsify plugin to convert blockquotes into beautiful and configurable alerts using preconfigured or own styles and alert types. [@zanfab](https://github.com/zanfab).
+- [docsify-plugin-flexible-alerts](https://github.com/fzankl/docsify-plugin-flexible-alerts) - A docsify plugin to convert blockquotes into beautiful and configurable alerts using preconfigured or own styles and alert types. [@fzankl](https://github.com/fzankl).
 - [docsify-pdf-converter](https://github.com/meff34/docsify-to-pdf-converter) - Create PDF files based on your docsify project [@meff34](https://github.com/meff34).
 - [docsify-commento](https://github.com/ndom91/docsify-commento) - Append [commento](https://gitlab.com/commento/commento) section to the bottom of every page [@ndom91](https://github.com/ndom91).
 - [docsify-gifcontrol](https://gbodigital.github.io/docsify-gifcontrol) - A docsify plugin that adds customizable player controls to GIFs. [@adambergman](https://github.com/adambergman) from [@gbodigital](https://github.com/gbodigital).
