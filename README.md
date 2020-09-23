@@ -142,7 +142,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-autoHeader](https://github.com/markbattistella/docsify-autoHeaders) - Turn your markdown into a cascading numbered document. Great for large documentation without manually numbering all the headings. [@markbattistella](https://github.com/markbattistella)
 - [docsify-sidebarFooter](https://github.com/markbattistella/docsify-sidebarFooter) - Add some links to the base of your sidebar - copyright year, company, Privacy Policy, Terms of Service.
 - [docsify-sidebar-collapse](https://github.com/iPeng6/docsify-sidebar-collapse) - Support docsify sidebar catalog expand and collapse.
-- [websequencediagrams-docsify](https://github.com/aajiwani/websequencediagrams-docsify) - A plugin to embed (WebSequenceDiagrams)[https://www.websequencediagrams.com/] right into your documentation.
+- [websequencediagrams-docsify](https://github.com/aajiwani/websequencediagrams-docsify) - A plugin to embed [WebSequenceDiagrams](https://www.websequencediagrams.com) right into your documentation.
 
 ## Themes
 
