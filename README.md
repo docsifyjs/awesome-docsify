@@ -90,6 +90,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Anki](https://docs.ankiweb.net/) - A powerful cross-platform flashcard program which makes remembering things easy.
 - [inlets](https://docs.inlets.dev) - The documentation for inlets ("The Cloud Native Tunnel") is deployed with docsify.
 - [Cypher Notepad](https://cypher-notepad.github.io/wiki/#/?coverpage=false) - The user-friendly, plain-text editor with Hybrid Encryption.
+- [advanced-react-cli](https://advanced-react-cli.netlify.com/) - NPM package which aims to provide a better way to install packages for your react application through an intuitive CLI.
 
 ## Community Resources
 
