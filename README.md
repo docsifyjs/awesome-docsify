@@ -147,6 +147,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-sidebar-collapse](https://github.com/iPeng6/docsify-sidebar-collapse) - Support docsify sidebar catalog expand and collapse.
 - [websequencediagrams-docsify](https://github.com/aajiwani/websequencediagrams-docsify) - A plugin to embed [WebSequenceDiagrams](https://www.websequencediagrams.com) right into your documentation.
 - [docsify-material-icons](https://github.com/erickjx/docsify-material-icons) - Add Material Icons to documentation by tokens.
+- [docsify-ethicalads](https://github.com/ohlookitsderpy/docsify-ethicalads) - EthicalAds support for Docsify.
 
 ## Themes
 
