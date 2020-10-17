@@ -93,6 +93,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [advanced-react-cli](https://advanced-react-cli.netlify.com/) - NPM package which aims to provide a better way to install packages for your react application through an intuitive CLI.
 - [GitPitch.com](https://docs.gitpitch.com/) - The perfect slide deck solution for Tech Conferences, Training, Developer Advocates, and Educators.
 - [gitmoji-changelog](https://docs.gitmoji-changelog.dev/#/) - A changelog generator for gitmoji 😜.
+- [Jitbit Helpdesk API Docs](https://www.jitbit.com/helpdesk/helpdesk-api/) - Jitbit Helpdesk (a ticketing system) uses Docsify for its API docs portal.
 
 ## Community Resources
 
