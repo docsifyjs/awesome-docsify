@@ -172,7 +172,3 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors)
-
-## License
-
-[CC0 License](https://github.com/docsifyjs/awesome-docsify/blob/master/license)
