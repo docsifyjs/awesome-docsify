@@ -151,6 +151,8 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-material-icons](https://github.com/erickjx/docsify-material-icons) - Add Material Icons to documentation by tokens.
 - [docsify-ethicalads](https://github.com/ohlookitsderpy/docsify-ethicalads) - EthicalAds support for Docsify.
 - [docsify-wikilink](https://github.com/zpengg/docsify-wikilink) - A plugin that allows wiki internal link syntax by using double square brackets like `[[pagename|link text]]`.
+- [docsify-link-preview](https://github.com/puria/docsify-link-preview) - A plugin to render link previews
+
 
 ## Themes
 
