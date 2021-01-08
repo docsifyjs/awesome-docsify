@@ -152,6 +152,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-ethicalads](https://github.com/ohlookitsderpy/docsify-ethicalads) - EthicalAds support for Docsify.
 - [docsify-wikilink](https://github.com/zpengg/docsify-wikilink) - A plugin that allows wiki internal link syntax by using double square brackets like `[[pagename|link text]]`.
 - [docsify-link-preview](https://github.com/puria/docsify-link-preview) - A plugin to render link previews.
+- [docsify-pseudocode](https://h-hg.github.io/docsify-pseudocode) - A plugin to render pseudocode in docsify. [@h-hg](https://github.com/h-hg/docsify-pseudocode)
 
 
 ## Themes
