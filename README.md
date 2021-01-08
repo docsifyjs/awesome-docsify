@@ -102,6 +102,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-open-publishing-starter-kit-for-glitch](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-for-glitch) - A ready-to-import template to create an open Docsify documentation website on [Glitch](https://glitch.com/), with a link automatically created on each page to edit the source Markdown text on Glitch. @hibbittsdesign.
 - [docsify-dotnet-core](https://github.com/bharatdwarkani/docsify-dotnet-core) - This project demonstrates how we can add docisfy in a ASP.NET Core 3.0 application and serve documentation site.
 - [:construction_worker: :orange_book: docsify-js-tutorial](https://michaelcurrin.github.io/docsify-js-tutorial) - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. @MichaelCurrin.
+- [docsify-notebooks](https://github.com/MonkeyAndres/docsify-notebooks) - Template for building notebooks with DocsifyJS. Made with ❤️ by @MonkeyAndres
 
 ## Plugins
 
