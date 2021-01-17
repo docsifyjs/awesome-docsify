@@ -20,7 +20,6 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## Showcase
 
-- [vscode-remote-try-docsify](https://alertbox.github.io/vscode-remote-try-docsify) - A development container version for Docsify to build static sites.
 - [styled-wind](https://styled-wind.netlify.app/) - A magical implementation of tailwind-like classnames into styled-components.
 - [pyecharts](https://pyecharts.org) - Documentation for pyecharts. A Python Echarts Plotting Library.
 - [gallery-pyecharts](https://gallery.pyecharts.org) - A Data Visualization Gallery Based on pyecharts.
@@ -95,6 +94,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [GitPitch.com](https://docs.gitpitch.com/) - The perfect slide deck solution for Tech Conferences, Training, Developer Advocates, and Educators.
 - [gitmoji-changelog](https://docs.gitmoji-changelog.dev/#/) - A changelog generator for gitmoji 😜.
 - [Jitbit Helpdesk API Docs](https://www.jitbit.com/helpdesk/helpdesk-api/) - Jitbit Helpdesk (a ticketing system) uses Docsify for its API docs portal.
+- [vscode-remote-try-docsify](https://alertbox.github.io/vscode-remote-try-docsify) - VS Code development container demo repo and docs site for Docsify.
 
 ## Community Resources
 
