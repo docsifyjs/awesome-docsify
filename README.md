@@ -155,7 +155,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-wikilink](https://github.com/zpengg/docsify-wikilink) - A plugin that allows wiki internal link syntax by using double square brackets like `[[pagename|link text]]`.
 - [docsify-link-preview](https://github.com/puria/docsify-link-preview) - A plugin to render link previews.
 - [docsify-pseudocode](https://h-hg.github.io/docsify-pseudocode) - A plugin to render pseudocode in docsify. [@h-hg](https://github.com/h-hg/docsify-pseudocode)
-
+- [docsify-footer](https://alertbox.github.io/docsify-footer) - A markdown _footer.md plugin for docsify-enabled sites. [@alertbox](https://github.com/alertbox/).
 
 ## Themes
 
