@@ -94,7 +94,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [GitPitch.com](https://docs.gitpitch.com/) - The perfect slide deck solution for Tech Conferences, Training, Developer Advocates, and Educators.
 - [gitmoji-changelog](https://docs.gitmoji-changelog.dev/#/) - A changelog generator for gitmoji 😜.
 - [Jitbit Helpdesk API Docs](https://www.jitbit.com/helpdesk/helpdesk-api/) - Jitbit Helpdesk (a ticketing system) uses Docsify for its API docs portal.
-- [try-docsify](https://alertbox.github.io/vscode-remote-try-docsify) - VS Code development container demo site and template repository for Docsify. [@alertbox](https://github.com/alertbox).
+- [try-docsify](https://alertbox.github.io/vscode-remote-try-docsify) - VS Code development container demo site and template repository for Docsify.
 
 ## Community Resources
 
@@ -155,7 +155,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-wikilink](https://github.com/zpengg/docsify-wikilink) - A plugin that allows wiki internal link syntax by using double square brackets like `[[pagename|link text]]`.
 - [docsify-link-preview](https://github.com/puria/docsify-link-preview) - A plugin to render link previews.
 - [docsify-pseudocode](https://h-hg.github.io/docsify-pseudocode) - A plugin to render pseudocode in docsify. [@h-hg](https://github.com/h-hg/docsify-pseudocode)
-
+- [docsify-footer](https://alertbox.github.io/docsify-footer) - A markdown _footer.md plugin for docsify-enabled sites. [@alertbox](https://github.com/alertbox).
 
 ## Themes
 
