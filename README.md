@@ -95,6 +95,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [gitmoji-changelog](https://docs.gitmoji-changelog.dev/#/) - A changelog generator for gitmoji 😜.
 - [Jitbit Helpdesk API Docs](https://www.jitbit.com/helpdesk/helpdesk-api/) - Jitbit Helpdesk (a ticketing system) uses Docsify for its API docs portal.
 - [try-docsify](https://alertbox.github.io/vscode-remote-try-docsify) - VS Code development container demo site and template repository for Docsify.
+- [Nebra Helium Docs](https://helium.nebra.com) - The documentation of the Helium HNT Hotspot Miners from Nebra Ltd.
 
 ## Community Resources
 
