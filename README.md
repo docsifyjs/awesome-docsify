@@ -96,6 +96,8 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Jitbit Helpdesk API Docs](https://www.jitbit.com/helpdesk/helpdesk-api/) - Jitbit Helpdesk (a ticketing system) uses Docsify for its API docs portal.
 - [try-docsify](https://alertbox.github.io/vscode-remote-try-docsify) - VS Code development container demo site and template repository for Docsify.
 - [Nebra Helium Docs](https://helium.nebra.com) - The documentation of the Helium HNT Hotspot Miners from Nebra Ltd.
+- [Attacking Javaer](https://veal98.gitee.io/cs-wiki/#/) - Attacking Javaer computer science wiki, running hard on the road to the full stack.
+- [X-M-UI](https://monw3c.github.io/xmui/) - A vue project for X-M-UI.
 
 ## Community Resources
 
