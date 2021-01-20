@@ -159,6 +159,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-link-preview](https://github.com/puria/docsify-link-preview) - A plugin to render link previews.
 - [docsify-pseudocode](https://h-hg.github.io/docsify-pseudocode) - A plugin to render pseudocode in docsify. [@h-hg](https://github.com/h-hg/docsify-pseudocode)
 - [docsify-footer](https://alertbox.github.io/docsify-footer) - A markdown _footer.md plugin for docsify-enabled sites. [@alertbox](https://github.com/alertbox).
+- [docsify-code-inline](https://www.npmjs.com/package/@rakutentech/docsify-code-inline) - Enables syntax highlighting for inline code as well, not just code fences. Never again will inline code look dull. [@rakutentech](https://rakutentech.github.io/)
 
 ## Themes
 
