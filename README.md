@@ -162,6 +162,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-code-inline](https://www.npmjs.com/package/@rakutentech/docsify-code-inline) - Enables syntax highlighting for inline code as well, not just code fences. Never again will inline code look dull. [@rakutentech](https://rakutentech.github.io/)
 - [docsify-beian](https://github.com/HerbertHe/docsify-beian) - A plugin to add Chinese Beian Information in docsify. [@HerbertHe](https://github.com/HerbertHe)
 - [docsify-progress](https://github.com/HerbertHe/docsify-progress) - A plugin to render reading progress in docsify. [@HerbertHe](https://github.com/HerbertHe)
+- [docsify-codeblock-iframe](https://github.com/HerbertHe/docsify-codeblock-iframe) - A plugin to provide markdown extra codeblock-iframe syntax support for docsify, just for supporting iframe rendering securely. [@HerbertHe](https://github.com/HerbertHe)
 
 ## Themes
 
