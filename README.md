@@ -99,6 +99,8 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Attacking Javaer](https://veal98.gitee.io/cs-wiki/#/) - Attacking Javaer computer science wiki, running hard on the road to the full stack.
 - [X-M-UI](https://monw3c.github.io/xmui/) - A vue project for X-M-UI.
 - [sa-token](http://sa-token.dev33.cn/) - A lightweight Java authority authentication framework. (一个轻量级java权限认证框架)
+- [celery.node](https://celery-node.js.org) - Celery task queue client/worker for Node.js.
+
 
 ## Community Resources
 
