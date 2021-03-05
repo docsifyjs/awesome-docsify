@@ -30,7 +30,6 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Snipaste](https://docs.snipaste.com/) - Snip & Paste.
 - [Vudash](https://github.com/vudash/vudash) - Powerful, Flexible, Open Source dashboards for anything.
 - [JS MythBusters](https://mythbusters.js.org) - An optimization handbook from a high level point of view.
-- [hire-me](https://fvcproductions.github.io/hire-me) - A path to getting an awesome tech gig.
 - [samlify](https://samlify.js.org) - Node.js SAML2 library.
 - [palettify](https://dobromir-hristov.github.io/palettify/) - A color palette effects assistant.
 - [commitlint](https://marionebl.github.io/commitlint/) - Lint commit messages.
