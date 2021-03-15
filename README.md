@@ -166,6 +166,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-progress](https://github.com/HerbertHe/docsify-progress) - A plugin to render reading progress in docsify. @HerbertHe.
 - [docsify-codeblock-iframe](https://github.com/HerbertHe/docsify-codeblock-iframe) - A plugin to provide markdown extra codeblock-iframe syntax support for docsify, just for supporting iframe rendering securely. @HerbertHe.
 - [docsify-kroki](https://github.com/zuisong/docsify-kroki) - A plugin to integration [kroki](https://kroki.io/) into docsify. [@zuisong](https://github.com/zuisong).
+- [docsify-charty](https://github.com/markbattistella/docsify-charty) - Add some charts and graphs to your docsify website. Pie charts, doughnut charts, sectional, bar and column graphs, line and plot graphs, and a review block. Everything you need if you need to visualise some numbers!
 
 ## Themes
 
