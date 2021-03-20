@@ -39,7 +39,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [vue2-datatable-component](https://onewaytech.github.io/vue2-datatable/doc) - The best Datatable for Vue.js 2.x which never sucks.
 - [Solidarity](https://infinitered.github.io/solidarity/) - Environment enforcer for your projects across machines.
 - [IT-films](https://greybax.github.com/awesome-IT-films) - A curated list of awesome movies, documentaries and TV series about hackers, geeks and IT in common, sorted by IMDB rating.
-- [zooming](http://desmonding.me/zooming/docs) - Image zoom that makes sense.
+- [zooming](https://kingdido999.github.io/zooming/docs/#/) - Image zoom that makes sense.
 - [vue-sticker](https://kamilocean.github.io/vue-sticker/#/) - Vue component, that helps to make sticky effects.
 - [vue-orgchart](https://spiritree.github.io/vue-orgchart) - Vue.js wrapper for OrgChart.js.
 - [Vue Content Loading](https://lucasleandro1204.github.io/vue-content-loading) - Easily build (or use presets) SVG loading cards like Facebook.
