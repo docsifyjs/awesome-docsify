@@ -174,6 +174,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-charty](https://github.com/markbattistella/docsify-charty) - Add some charts and graphs to your docsify website. Pie charts, doughnut charts, sectional, bar and column graphs, line and plot graphs, and a review block. Everything you need if you need to visualise some numbers!
 - [docsify-accordify](https://github.com/atleastzero/docsify-accordify) - Easily use accordions in your docsify site. [@atleastzero](https://github.com/atleastzero).
 - [docsify-plugin-title](https://github.com/Sujaykumarh/docsify-plugin-title) - Customize docisify page title. [@sujaykumarh](https://github.com/sujaykumarh)
+- [docsify-drawio](https://github.com/KonghaYao/docsify-drawio) - This is a docsify plugin that can convert drawio xml Data to a picture in your docs. [@KonghaYao](https://github.com/KonghaYao)
 
 ## Themes
 
