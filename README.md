@@ -175,6 +175,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-accordify](https://github.com/atleastzero/docsify-accordify) - Easily use accordions in your docsify site. [@atleastzero](https://github.com/atleastzero).
 - [docsify-plugin-title](https://github.com/Sujaykumarh/docsify-plugin-title) - Customize docisify page title. [@sujaykumarh](https://github.com/sujaykumarh)
 - [docsify-drawio](https://github.com/KonghaYao/docsify-drawio) - This is a docsify plugin that can convert drawio xml Data to a picture in your docs. [@KonghaYao](https://github.com/KonghaYao)
+- [docsify-plugin-footer](https://github.com/Sujaykumarh/docsify-plugin-footer) - simplified docisify page footer. @sujaykumarh
 
 ## Themes
 
