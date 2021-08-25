@@ -109,6 +109,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [LinuxNetworkProgrammingAndEncryption](https://archlinuxstudio.github.io/LinuxNetworkProgrammingAndEncryption/) - Linux Network Programming And Encryption. (Linux 网络编程与加密 WIP)
 - [BitcoinMythBusters](https://bitcoinmythbusters.org/) - BitcoinMythBusters: Copy & Pasteable rebuttals to common critiques regarding Bitcoin.
 - [Hyrule Compendium API](https://gadhagod.github.io/Hyrule-Compendium-API) - A web API serving data on items from the video game _The Legend of Zelda: Breath of the Wild_.
+- [NOJ Online Judge](https://njuptaaa.github.io/docs) - ⚡ Yet another open-source online judge platform based on Laravel, NOJ stands for Nanjing University of Posts and Telecommunications Online Judge.
 
 ## Community Resources
 
