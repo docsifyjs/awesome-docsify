@@ -180,6 +180,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-plugin-title](https://github.com/Sujaykumarh/docsify-plugin-title) - Customize docisify page title. [@sujaykumarh](https://github.com/sujaykumarh)
 - [docsify-drawio](https://github.com/KonghaYao/docsify-drawio) - This is a docsify plugin that can convert drawio xml Data to a picture in your docs. [@KonghaYao](https://github.com/KonghaYao)
 - [docsify-plugin-footer](https://github.com/Sujaykumarh/docsify-plugin-footer) - Simplified docisify page footer. @sujaykumarh.
+- [docsify-demo](https://github.com/JacobWeinbren/docsify-demo) - Docsify component demo, suited for [lit.dev](https://lit.dev/). [@JacobWeinren](https://github.com/JacobWeinbren/)
 
 ## Themes
 
