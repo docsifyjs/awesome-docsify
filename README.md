@@ -111,6 +111,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Hyrule Compendium API](https://gadhagod.github.io/Hyrule-Compendium-API) - A web API serving data on items from the video game _The Legend of Zelda: Breath of the Wild_.
 - [NOJ Online Judge](https://njuptaaa.github.io/docs) - Yet another open-source online judge platform based on Laravel, NOJ stands for Nanjing University of Posts and Telecommunications Online Judge.
 - [ShellTutorial](https://archlinuxstudio.github.io/ShellTutorial/) - Shell Tutorial. (Linux 命令行与 Shell 脚本教程)
+- [node-musickit-api](https://musickit.js.org/) - Documentation for node-musickit-api, a wrapper for the Apple Music API.
 
 ## Community Resources
 
