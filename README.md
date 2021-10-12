@@ -186,6 +186,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-plugin-footer](https://github.com/Sujaykumarh/docsify-plugin-footer) - Simplified docisify page footer. @sujaykumarh.
 - [docsify-demo](https://github.com/JacobWeinbren/docsify-demo) - Docsify component demo, suited for [lit.dev](https://lit.dev/). [@JacobWeinren](https://github.com/JacobWeinbren/)
 - [docsify-nomnoml](https://mylesj.github.io/docsify-nomnoml) - A Docsify plugin to render Nomnoml-UML code fences (themeable).
+- [docsify-accordion](https://github.com/isaozler/docsify-accordion) - Small plugin to use accordions in your docsify documentations [@isaozler](https://github.com/isaozler).
 
 ## Themes
 
