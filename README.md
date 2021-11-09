@@ -84,6 +84,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [NoteBook](https://notebook.js.org) - Record the computer professional knowledge you have learned along the way.
 - [breadbot](http://breadbot.js.org/) - A discord bot who likes bread -or jokes.
 - [幸福拾荒者](https://xflihaibo.github.io/docs/#/) - A poetic front-end documentation library.
+- [字节飞扬](https://bytesfly.github.io/blog/) - A blog documenting personal growth. (互联网是有记忆的，我想留下一些成长的脚印)
 - [euchre-cli](https://bradleycwojcik.github.io/euchre-cli/) - Play euchre in your terminal.
 - [fastdocs.io](https://fastdocs.io/) - Instantly deploy your docs with Docsify without any code!
 - [Anki](https://docs.ankiweb.net/) - A powerful cross-platform flashcard program which makes remembering things easy.
