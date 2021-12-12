@@ -125,6 +125,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [:construction_worker: :orange_book: docsify-js-tutorial](https://michaelcurrin.github.io/docsify-js-tutorial) - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. @MichaelCurrin.
 - [docsify-notebooks](https://github.com/MonkeyAndres/docsify-notebooks) - Template for building notebooks with DocsifyJS. Made with ❤️ by @MonkeyAndres.
 - :whale: [docsify-docker](https://github.com/Sujaykumarh/docsify-docker) - :whale2: Docisify Docker image. @sujaykumarh
+- [docsify-nightly](https://github.com/sy-records/docsify-nightly) - Nightly release for docsify. @sy-records.
 
 ## Plugins
 
