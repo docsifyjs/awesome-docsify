@@ -192,6 +192,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-nomnoml](https://mylesj.github.io/docsify-nomnoml) - A Docsify plugin to render Nomnoml-UML code fences (themeable).
 - [docsify-accordion](https://github.com/isaozler/docsify-accordion) - Small plugin to use accordions in your docsify documentations [@isaozler](https://github.com/isaozler).
 - [docsify-to-queryparam-markdown-engine](https://github.com/ShowMeBaby/docsify-to-queryparam-markdown-engine) - Use docsify as markdown engine, get markdown link from queryparam and render.(渲染query参数中的markdown文件)
+- [docsify-vega](https://jercarre.github.io/vega_docsify) - A Docsify plugin to render Vega & Vegalite diagrams
 
 ## Themes
 
