@@ -195,6 +195,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-to-queryparam-markdown-engine](https://github.com/ShowMeBaby/docsify-to-queryparam-markdown-engine) - Use docsify as markdown engine, get markdown link from queryparam and render.(渲染query参数中的markdown文件)
 - [docsify-vega](https://jercarre.github.io/vega_docsify) - A Docsify plugin to render Vega & Vegalite diagrams.
 - [docsify-swimlanes-io](https://github.com/drhoffmann/docsify-swimlanes-io) - A Docsify plugin to render [swimlanes.io](https://swimlanes.io) sequence diagrams.
+- [docsify-updated](https://github.com/pfeak/docsify-updated) - Add update time for each of your docsify markdown.
 
 ## Themes
 
