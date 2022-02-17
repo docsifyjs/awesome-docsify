@@ -116,6 +116,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [node-musickit-api](https://musickit.js.org/) - Documentation for node-musickit-api, a wrapper for the Apple Music API.
 - [LabVIEW编程经验](https://lv.qizhen.xyz/) - A book for LabVIEW programing. 
 - [Coding-Tree](https://mouday.github.io/coding-tree/) - Learn Notes for coding, include: js、Python、PHP、Java、Canvas.
+- [Hathora](https://docs.hathora.dev/) - Multiplayer game framework.
 
 ## Community Resources
 
