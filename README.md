@@ -104,7 +104,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [asdf](https://asdf-vm.com/) - A version manager for multiple languages and clis.
 - [Corhyam's Wiki](http://corhyam.xyz/) - A personal wiki that deploys to the cloud rapidly, based on Serverless Framework.
 - [Apollo](https://www.apolloconfig.com/) - A reliable configuration management system.
-- [Sureness](https://usthe.com/sureness) - A simple and efficient open-source security framework that focus on protection of REST API.   
+- [Sureness](https://usthe.com/sureness) - A simple and efficient open-source security framework that focus on protection of REST API.
 - [ArchLinuxTutorial](https://archlinuxstudio.github.io/ArchLinuxTutorial/) - Arch Linux Tutorial. (Arch Linux 安装使用教程)
 - [What's up Docker?](https://fmartinou.github.io/whats-up-docker/) - A tool that helps you keep your Docker containers up-to-date.
 - [Layotto](https://mosn.io/layotto/#/en/README) - Layotto (L8):To be the next layer of OSI layer 7.
@@ -114,7 +114,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [NOJ Online Judge](https://njuptaaa.github.io/docs) - Yet another open-source online judge platform based on Laravel, NOJ stands for Nanjing University of Posts and Telecommunications Online Judge.
 - [ShellTutorial](https://archlinuxstudio.github.io/ShellTutorial/) - Shell Tutorial. (Linux 命令行与 Shell 脚本教程)
 - [node-musickit-api](https://musickit.js.org/) - Documentation for node-musickit-api, a wrapper for the Apple Music API.
-- [LabVIEW编程经验](https://lv.qizhen.xyz/) - A book for LabVIEW programing. 
+- [LabVIEW编程经验](https://lv.qizhen.xyz/) - A book for LabVIEW programing.
 - [Coding-Tree](https://mouday.github.io/coding-tree/) - Learn Notes for coding, include: js、Python、PHP、Java、Canvas.
 - [Hathora](https://docs.hathora.dev/) - Multiplayer game framework.
 
@@ -128,6 +128,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-notebooks](https://github.com/MonkeyAndres/docsify-notebooks) - Template for building notebooks with DocsifyJS. Made with ❤️ by @MonkeyAndres.
 - :whale: [docsify-docker](https://github.com/Sujaykumarh/docsify-docker) - :whale2: Docisify Docker image. @sujaykumarh
 - [docsify-nightly](https://github.com/sy-records/docsify-nightly) - Nightly release for docsify. @sy-records.
+- [docker-docsify-pdf](https://github.com/kernoeb/docker-docsify-pdf) - Quickly create a PDF with a table of contents and a custom cover, using Docker. [@kernoeb](https://github.com/kernoeb).
 
 ## Plugins
 
