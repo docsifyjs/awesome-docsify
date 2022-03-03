@@ -117,6 +117,8 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [LabVIEW编程经验](https://lv.qizhen.xyz/) - A book for LabVIEW programing.
 - [Coding-Tree](https://mouday.github.io/coding-tree/) - Learn Notes for coding, include: js、Python、PHP、Java、Canvas.
 - [Hathora](https://docs.hathora.dev/) - Multiplayer game framework.
+- [@nathanpb/Kext (Kotlin Extensions for TypeScript)](https://kext.nathanpb.dev/) - Kotlin inspired TypeScript utility library for easy and declarative programming.
+- [@nathanpb/progress](https://progress.nathanpb.dev/) - Highly customizable CLI progress bars for JavaScript.
 
 ## Community Resources
 
