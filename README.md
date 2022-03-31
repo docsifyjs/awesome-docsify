@@ -119,6 +119,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Hathora](https://docs.hathora.dev/) - Multiplayer game framework.
 - [@nathanpb/Kext (Kotlin Extensions for TypeScript)](https://kext.nathanpb.dev/) - Kotlin inspired TypeScript utility library for easy and declarative programming.
 - [@nathanpb/progress](https://progress.nathanpb.dev/) - Highly customizable CLI progress bars for JavaScript.
+- [ERC721A](https://chiru-labs.github.io/ERC721A/#/) - Mint multiple NFTs for close to the cost of one.
 
 ## Community Resources
 
