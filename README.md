@@ -121,6 +121,9 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [@nathanpb/progress](https://progress.nathanpb.dev/) - Highly customizable CLI progress bars for JavaScript.
 - [ERC721A](https://chiru-labs.github.io/ERC721A/#/) - Mint multiple NFTs for close to the cost of one.
 - [Laravel-QuickStart](http://docs.laravel-quickstart.co) - Laravel Boilerplate based on TALL Stack (Frontend + Backend).
+- [Taio Documentations](https://docs.taio.app/#/) - Documentations for the Taio app.
+- [Taio Actions Directory](https://actions.taio.app/#/) - Actions directory for the Taio app.
+- [Taio Dev Notes](https://dev.taio.app/#/) - Development Notes for the Taio app.
 
 ## Community Resources
 
