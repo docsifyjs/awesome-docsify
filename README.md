@@ -124,6 +124,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Taio Documentations](https://docs.taio.app/#/) - Documentations for the Taio app.
 - [Taio Actions Directory](https://actions.taio.app/#/) - Actions directory for the Taio app.
 - [Taio Dev Notes](https://dev.taio.app/#/) - Development Notes for the Taio app.
+- [Third Wave Coffee Base](https://thirdwavecoffeebase.com/#/) - A RESTful API that details coffee product listings from third wave coffee roasters.
 
 ## Community Resources
 
