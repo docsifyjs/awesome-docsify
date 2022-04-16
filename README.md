@@ -207,6 +207,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-updated](https://github.com/pfeak/docsify-updated) - Add update time for each of your docsify markdown.
 - [docsify-ko-fi](https://github.com/fcannizzaro/docsify-ko-fi) - A Docsify plugin to render customized Ko-fi buttons from markdown.
 - [docsify-waline](https://github.com/cxcn/docsify-waline) - A Docsify comment plugin for docsify that supports visitor statistics.
+- [docsify-image-caption](https://h-hg.github.io/docsify-image-caption) - A plugin to show image caption. [@h-hg](https://github.com/h-hg/docsify-image-caption)
 
 ## Themes
 
