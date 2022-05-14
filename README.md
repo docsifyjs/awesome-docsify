@@ -211,6 +211,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-waline](https://github.com/cxcn/docsify-waline) - A Docsify comment plugin for docsify that supports visitor statistics.
 - [docsify-image-caption](https://h-hg.github.io/docsify-image-caption) - A plugin to show image caption. [@h-hg](https://github.com/h-hg/docsify-image-caption)
 - [docsify-chat](https://github.com/dcyuki/docsify-chat) - A docsify plugin for generate chat panel from markdown.
+- [docsify-pagination-keyboard-helper](https://github.com/Brannua/docsify-pagination-keyboard-helper) - A plugin for docsify site that enables you to turn pages quickly by using keyboard shortcuts.
 
 ## Themes
 
