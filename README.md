@@ -126,6 +126,8 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Taio Dev Notes](https://dev.taio.app/#/) - Development Notes for the Taio app.
 - [Third Wave Coffee Base](https://thirdwavecoffeebase.com/#/) - A RESTful API that details coffee product listings from third wave coffee roasters.
 - [OpenHaus documentation](https://docs.open-haus.io) - Auto generated documentation for OpenHaus from the source code of the project.
+- [LifeUp](https://wiki.lifeupapp.fun/) - Documentation for LifeUp app. A gamification To-Do list and habit forming android application.
+
 
 ## Community Resources
 
