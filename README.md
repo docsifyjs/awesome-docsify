@@ -20,7 +20,6 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## Showcase
 
-- [Skuber](https://skuber.co/) - Scala client for the [Kubernetes API](https://kubernetes.io/).
 - [styled-wind](https://styled-wind.netlify.app/) - A magical implementation of tailwind-like classnames into styled-components.
 - [pyecharts](https://pyecharts.org) - Documentation for pyecharts. A Python Echarts Plotting Library.
 - [gallery-pyecharts](https://gallery.pyecharts.org) - A Data Visualization Gallery Based on pyecharts.
@@ -128,7 +127,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Third Wave Coffee Base](https://thirdwavecoffeebase.com/#/) - A RESTful API that details coffee product listings from third wave coffee roasters.
 - [OpenHaus documentation](https://docs.open-haus.io) - Auto generated documentation for OpenHaus from the source code of the project.
 - [LifeUp](https://wiki.lifeupapp.fun/) - Documentation for LifeUp app. A gamification To-Do list and habit forming android application.
-
+- [Skuber](https://skuber.co/) - Scala client for the [Kubernetes API](https://kubernetes.io/).
 
 ## Community Resources
 
