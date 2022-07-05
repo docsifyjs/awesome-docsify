@@ -128,6 +128,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [OpenHaus documentation](https://docs.open-haus.io) - Auto generated documentation for OpenHaus from the source code of the project.
 - [LifeUp](https://wiki.lifeupapp.fun/) - Documentation for LifeUp app. A gamification To-Do list and habit forming android application.
 - [Skuber](https://skuber.co/) - Scala client for the [Kubernetes API](https://kubernetes.io/).
+- [docbook](https://yangchunjian.com/) - A doc book record thoughts.
 
 ## Community Resources
 
