@@ -36,6 +36,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [vue-data-tables](https://www.njleonzhang.com/vue-data-tables) - A simple and customizable data table, based on vue2 and element-ui.
 - [Noty](http://ned.im/noty/) - A Dependency-free notification library.
 - [xTeko](https://docs.xteko.com/) - Addins framework for Pin 3.0.
+- [Awesome Privacy](https://awesome-privacy.xyz) - A curated list of privacy-respecting software and services.
 - [vue2-datatable-component](https://onewaytech.github.io/vue2-datatable/doc) - The best Datatable for Vue.js 2.x which never sucks.
 - [Solidarity](https://infinitered.github.io/solidarity/) - Environment enforcer for your projects across machines.
 - [IT-films](https://greybax.github.com/awesome-IT-films) - A curated list of awesome movies, documentaries and TV series about hackers, geeks and IT in common, sorted by IMDB rating.
