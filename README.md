@@ -130,7 +130,6 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Skuber](https://skuber.co/) - Scala client for the [Kubernetes API](https://kubernetes.io/).
 - [docbook](https://yangchunjian.com/) - A doc book record thoughts.
 - [Awesome Privacy](https://awesome-privacy.xyz) - A curated list of privacy-respecting software and services.
-- [WPDocsify](https://github.com/mitchell-b-chelin/WPDocsify) - A magical documentation library for Wordpress.
 
 ## Community Resources
 
@@ -218,6 +217,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-chat](https://github.com/dcyuki/docsify-chat) - A docsify plugin for generate chat panel from markdown.
 - [docsify-pagination-keyboard-helper](https://github.com/Brannua/docsify-pagination-keyboard-helper) - A plugin for docsify site that enables you to turn pages quickly by using keyboard shortcuts.
 - [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit) - A docsify plugin for rendering and embedding interactive JavaScript REPLs powered by [RunKit](https://runkit.com/home) [@jhildenbiddle](https://github.com/jhildenbiddle/)
+- [WPDocsify](https://github.com/mitchell-b-chelin/WPDocsify) - A magical documentation library for Wordpress.  
 
 ## Themes
 
