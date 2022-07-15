@@ -130,6 +130,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Skuber](https://skuber.co/) - Scala client for the [Kubernetes API](https://kubernetes.io/).
 - [docbook](https://yangchunjian.com/) - A doc book record thoughts.
 - [Awesome Privacy](https://awesome-privacy.xyz) - A curated list of privacy-respecting software and services.
+- [WPDocsify](https://github.com/mitchell-b-chelin/WPDocsify) - A magical documentation library for Wordpress.
 
 ## Community Resources
 
