@@ -7,8 +7,8 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - name: "checkout repo"
-          uses: actions/checkout@v2.0.0
+          uses: actions/checkout@v2
           with:
             fetch-depth: 0
         - name: "lint: awesome-lint"
-          uses: jthegedus/github-action-awesome-lint@v0.1.0 # https://github.com/jthegedus is part of Docsify core team, so we will use Tag versioning over commit_sha
+          run: npx awesome-lint 'README.md'
