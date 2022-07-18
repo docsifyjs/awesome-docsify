@@ -156,6 +156,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-demo-box-vue](https://github.com/njleonzhang/docsify-demo-box-vue) - Write Vue demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/).
 - [docsify-demo-box-react](https://github.com/njleonzhang/docsify-demo-box-react) - Write React jsx demo in docsify with instant preview and jsfiddle integration @njleonzhang.
 - [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - Add Edit on GitHub button on every pages @njleonzhang.
+<!--lint ignore double-link-->
 - [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs) - A docsify plugin for displaying tabbed content from markdown [@jhildenbiddle](https://github.com/jhildenbiddle/).
 - [docsify-katex](https://github.com/upupming/docsify-katex) - A docsify plugin for rendering LaTex math equations [@upupming](https://github.com/upupming).
 - [docsify-pdf-embed](https://github.com/lazypanda10117/docsify-pdf-embed) - A docsify plugin for embedding PDF on any page [@lazypanda10117](https://github.com/lazypanda10117).
@@ -216,10 +217,12 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-image-caption](https://h-hg.github.io/docsify-image-caption) - A plugin to show image caption. [@h-hg](https://github.com/h-hg/docsify-image-caption)
 - [docsify-chat](https://github.com/dcyuki/docsify-chat) - A docsify plugin for generate chat panel from markdown.
 - [docsify-pagination-keyboard-helper](https://github.com/Brannua/docsify-pagination-keyboard-helper) - A plugin for docsify site that enables you to turn pages quickly by using keyboard shortcuts.
-- [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit) - A docsify plugin for rendering and embedding interactive JavaScript REPLs powered by [RunKit](https://runkit.com/home) [@jhildenbiddle](https://github.com/jhildenbiddle/)
+<!--lint ignore double-link-->
+- [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit) - A docsify plugin for rendering and embedding interactive JavaScript REPLs powered by [RunKit](https://runkit.com/home). [@jhildenbiddle](https://github.com/jhildenbiddle/).
 
 ## Themes
 
+<!--lint ignore double-link-->
 - [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+). [@jhildenbiddle](https://github.com/jhildenbiddle/).
 - [🌙 docsify-darkly-theme](https://github.com/sushantrahate/docsify-darkly-theme) - Dark theme for docsify. [@sushantrahate](https://github.com/sushantrahate).
 - [:first_quarter_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between `dark-mode` and `light-mode`. See [preview](https://docsify-darklight-theme.boopathikumar.me) here. [@boopathikumar](https://boopathikumar.me/).
