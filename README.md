@@ -12,11 +12,15 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 
 ## Contents
 
-- [Showcase](#showcase)
-- [Community Resources](#community-resources)
-- [Plugins](#plugins)
-- [Themes](#themes)
-- [Enterprise Usage](#enterprise-usage)
+- [Awesome Docsify ![Awesome](https://awesome.re) ![Lint Awesome List](https://github.com/docsifyjs/awesome-docsify/workflows/Lint%20Awesome%20List/badge.svg)](#awesome-docsify--)
+  - [Contents](#contents)
+  - [Showcase](#showcase)
+  - [Community Resources](#community-resources)
+  - [Plugins](#plugins)
+  - [Themes](#themes)
+  - [Enterprise Usage](#enterprise-usage)
+  - [Contributing](#contributing)
+    - [Contributors](#contributors)
 
 ## Showcase
 
@@ -50,7 +54,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [Xenus](https://abellion.github.io/xenus) - An elegant MongoDB ODM for PHP.
 - [You-need-to-know-css](https://l-hammer.github.io/You-need-to-know-css/) - CSS tricks web developers need to know.
 - [OCCA](http://libocca.org) - Library for programming multiple backends (OpenMP, CUDA, and OpenCL) with JIT compiled kernels.
-- [class-change.js](https://jhildenbiddle.github.io/class-change/) - A micro-library for manipulating CSS class names, triggering change events using HTML data attributes, and creating declarative class-related event listeners. [@jhildenbiddle][1]
+- [class-change.js](https://jhildenbiddle.github.io/class-change/) - A micro-library for manipulating CSS class names, triggering change events using HTML data attributes, and creating declarative class-related event listeners ([@jhildenbiddle][1]).
 - [docx](https://docx.js.org) - Easily generate `.docx` files with JS/TS.
 - [RCOS Handbook](https://handbook.rcos.io) - Organization manual for Rensselaer Center for Open Source.
 - [Veritone](https://docs.veritone.com/) - Veritone aiWare docs for AI as a service platform and MachineBox.
@@ -158,7 +162,7 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-demo-box-vue](https://github.com/njleonzhang/docsify-demo-box-vue) - Write Vue demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/).
 - [docsify-demo-box-react](https://github.com/njleonzhang/docsify-demo-box-react) - Write React jsx demo in docsify with instant preview and jsfiddle integration @njleonzhang.
 - [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - Add Edit on GitHub button on every pages @njleonzhang.
-- [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs) - A docsify plugin for displaying tabbed content from markdown. [@jhildenbiddle][1]
+- [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs) - A docsify plugin for displaying tabbed content from markdown ([@jhildenbiddle][1]).
 - [docsify-katex](https://github.com/upupming/docsify-katex) - A docsify plugin for rendering LaTex math equations [@upupming](https://github.com/upupming).
 - [docsify-pdf-embed](https://github.com/lazypanda10117/docsify-pdf-embed) - A docsify plugin for embedding PDF on any page [@lazypanda10117](https://github.com/lazypanda10117).
 - [docsify-plugin-flexible-alerts](https://github.com/fzankl/docsify-plugin-flexible-alerts) - A docsify plugin to convert blockquotes into beautiful and configurable alerts using preconfigured or own styles and alert types. [@fzankl](https://github.com/fzankl).
@@ -218,12 +222,12 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - [docsify-image-caption](https://h-hg.github.io/docsify-image-caption) - A plugin to show image caption. [@h-hg](https://github.com/h-hg/docsify-image-caption)
 - [docsify-chat](https://github.com/dcyuki/docsify-chat) - A docsify plugin for generate chat panel from markdown.
 - [docsify-pagination-keyboard-helper](https://github.com/Brannua/docsify-pagination-keyboard-helper) - A plugin for docsify site that enables you to turn pages quickly by using keyboard shortcuts.
-- [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit) - A docsify plugin for rendering and embedding interactive JavaScript REPLs powered by [RunKit](https://runkit.com/home). [@jhildenbiddle][1]
-- [docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads) - A docsify.js plugin for rendering ad placements from [EthicalAds](https://www.ethicalads.io/). [@jhildenbiddle][1]
+- [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit) - A docsify plugin for rendering and embedding interactive JavaScript REPLs powered by [RunKit](https://runkit.com/home) ([@jhildenbiddle][1]).
+- [docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads) - A docsify.js plugin for rendering ad placements from [EthicalAds](https://www.ethicalads.io/) ([@jhildenbiddle][1]).
 
 ## Themes
 
-- [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+). [@jhildenbiddle][1]
+- [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+) ([@jhildenbiddle][1]).
 - [🌙 docsify-darkly-theme](https://github.com/sushantrahate/docsify-darkly-theme) - Dark theme for docsify. [@sushantrahate](https://github.com/sushantrahate).
 - [:first_quarter_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between `dark-mode` and `light-mode`. See [preview](https://docsify-darklight-theme.boopathikumar.me) here. [@boopathikumar](https://boopathikumar.me/).
 
