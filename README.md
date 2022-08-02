@@ -2,25 +2,21 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Docsify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/docsifyjs/awesome-docsify/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome Docsify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/docsifyjs/awesome-docsify/workflows/Lint%20Awesome%20List/badge.svg) <!-- omit in toc -->
 
-A curated list of awesome things related to <a href="//docsify.js.org">docsify</a>.
+A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 <img width="122" src="https://user-images.githubusercontent.com/7565692/35311593-3edd9102-00f2-11e8-98fb-38be1d0e650f.png" alt="logo of docsify-awesome repository">
 
 </div>
 
-## Contents
+## Contents <!-- omit in toc -->
 
-- [Awesome Docsify ![Awesome](https://awesome.re) ![Lint Awesome List](https://github.com/docsifyjs/awesome-docsify/workflows/Lint%20Awesome%20List/badge.svg)](#awesome-docsify--)
-  - [Contents](#contents)
-  - [Showcase](#showcase)
-  - [Community Resources](#community-resources)
-  - [Plugins](#plugins)
-  - [Themes](#themes)
-  - [Enterprise Usage](#enterprise-usage)
-  - [Contributing](#contributing)
-    - [Contributors](#contributors)
+- [Showcase](#showcase)
+- [Community Resources](#community-resources)
+- [Plugins](#plugins)
+- [Themes](#themes)
+- [Enterprise Usage](#enterprise-usage)
 
 ## Showcase
 
@@ -241,11 +237,11 @@ A curated list of awesome things related to <a href="//docsify.js.org">docsify</
 - Netflix - [Polly.js](https://netflix.github.io/pollyjs/) - Record, replay, and stub HTTP interactions.
 - Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
 
-## Contributing
+## Contributing <!-- omit in toc -->
 
 [Contributions of any kind welcome, just follow the guidelines](https://github.com/docsifyjs/awesome-docsify/blob/master/contributing.md)!
 
-### Contributors
+### Contributors <!-- omit in toc -->
 
 [Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors)
 
