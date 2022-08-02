@@ -2,7 +2,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Docsify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/docsifyjs/awesome-docsify/workflows/Lint%20Awesome%20List/badge.svg) <!-- omit in toc -->
+# Awesome Docsify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/docsifyjs/awesome-docsify/workflows/Lint%20Awesome%20List/badge.svg)
 
 A curated list of awesome things related to [docsify](https://docsify.js.org)
 
@@ -10,8 +10,9 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 </div>
 
-## Contents <!-- omit in toc -->
+## Contents
 
+<!-- no toc -->
 - [Showcase](#showcase)
 - [Community Resources](#community-resources)
 - [Plugins](#plugins)
@@ -237,11 +238,11 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - Netflix - [Polly.js](https://netflix.github.io/pollyjs/) - Record, replay, and stub HTTP interactions.
 - Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
 
-## Contributing <!-- omit in toc -->
+## Contributing
 
 [Contributions of any kind welcome, just follow the guidelines](https://github.com/docsifyjs/awesome-docsify/blob/master/contributing.md)!
 
-### Contributors <!-- omit in toc -->
+### Contributors
 
 [Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors)
 
