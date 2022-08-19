@@ -131,6 +131,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Skuber](https://skuber.co/) - Scala client for the [Kubernetes API](https://kubernetes.io/).
 - [docbook](https://yangchunjian.com/) - A doc book record thoughts.
 - [Awesome Privacy](https://awesome-privacy.xyz) - A curated list of privacy-respecting software and services.
+- [古帝荒天](https://wudidehuangtiandi.github.io/mydoc/#/) - A blog that records some technical experience in life and work.
 
 ## Community Resources
 
@@ -247,4 +248,5 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 [Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors)
 
 <!-- Place multiple link references here to avoid lint errors -->
+
 [1]: https://github.com/jhildenbiddle/
