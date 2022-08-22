@@ -132,6 +132,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docbook](https://yangchunjian.com/) - A doc book record thoughts.
 - [Awesome Privacy](https://awesome-privacy.xyz) - A curated list of privacy-respecting software and services.
 - [古帝荒天](https://wudidehuangtiandi.github.io/mydoc/#/) - A blog that records some technical experience in life and work.
+- [liblava](https://liblava.github.io) - A modern and easy-to-use library for the Vulkan® API.
 
 ## Community Resources
 
