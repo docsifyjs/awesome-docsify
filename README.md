@@ -134,6 +134,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [古帝荒天](https://wudidehuangtiandi.github.io/mydoc/#/) - A blog that records some technical experience in life and work.
 - [liblava](https://liblava.github.io) - A modern and easy-to-use library for the Vulkan® API.
 - [medusa-extender](https://adrien2p.github.io/medusa-extender/#/) - A medusa e-commerce module to give full extensibility power over medusa engine 💜.
+- [八尺妖剑的文档库](https://docs.waer.ltd/#/)- A personal project documentation repository
 
 ## Community Resources
 
