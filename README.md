@@ -225,6 +225,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-pagination-keyboard-helper](https://github.com/Brannua/docsify-pagination-keyboard-helper) - A plugin for docsify site that enables you to turn pages quickly by using keyboard shortcuts.
 - [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit) - A docsify plugin for rendering and embedding interactive JavaScript REPLs powered by [RunKit](https://runkit.com/home) ([@jhildenbiddle][1]).
 - [docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads) - A docsify.js plugin for rendering ad placements from [EthicalAds](https://www.ethicalads.io/) ([@jhildenbiddle][1]).
+- [docsify-latex](https://github.com/scruel/docsify-latex) - A docsify.js plugin for rendering LaTeX math blocks from markdown.
 
 ## Themes
 
