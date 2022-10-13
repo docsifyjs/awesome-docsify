@@ -13,7 +13,6 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 ## Contents
 
 <!-- no toc -->
-
 - [Showcase](#showcase)
 - [Community Resources](#community-resources)
 - [Plugins](#plugins)
@@ -246,6 +245,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 ## VSCode Extensions
 
+<!-- no toc -->
 - [docsify-Preview](https://marketplace.visualstudio.com/items?itemName=dzylikecode.docsify-preview) - A VSCode extension for previewing docsify markdown files in VSCode. Supports auto-refresh, sync scroll, open the Markdown from the preview, open the preview in the browser.
 
 ## Contributing
