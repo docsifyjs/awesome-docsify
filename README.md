@@ -60,17 +60,17 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [boardgame.io](https://boardgame.io/#/) - State management and more for turn based games.
 - [Rambda](https://selfrefactor.github.io/rambda/#/) - Lightweight functional JS library.
 - [ve-charts](https://vueblocks.github.io/ve-charts/) - ECharts 4.x for Vue.js 2.x.
-- [👨‍🎓 JCSprout](https://crossoverjie.top/JCSprout/) - Basic, concurrent, algorithm(处于萌芽阶段的 Java 核心知识库).
+- [👨‍�?JCSprout](https://crossoverjie.top/JCSprout/) - Basic, concurrent, algorithm(处于萌芽阶段�?Java 核心知识�?.
 - [axios-api-versioning](https://weffe.github.io/axios-api-versioning) - Add easy to manage api versioning to axios.
 - [🎓 🎨 Reading](http://www.guofei.site/reading/#/) - Reading notes of 300 awesome books (Will keep on for another 20 years).
-- [Learn Blockchain by Code](https://book.uchaindb.com) - The code and book about learning blockchain by code. (《区块链系统实现》开源书籍及源代码仓库)
+- [Learn Blockchain by Code](https://book.uchaindb.com) - The code and book about learning blockchain by code. (《区块链系统实现》开源书籍及源代码仓�?
 - [Fairlay API](https://fairlay.com/api/#/) - Exchange & prediction markets API.
 - [Tainacan Wiki](https://wiki.tainacan.org/) - Documentation for Tainacan - a flexible and powerfull repository platform for WordPress.
 - [🛸 Jasonelle](https://jasonelle.com) - Make iOS and Android Apps with JSON.
 - [Saasify](https://saasify.sh) - A new way for devs to earn passive income.
 - [Regauge](https://itchef.github.io/regauge) - A command line interface for react app bundled with webpack, prettier and many more.
 - [google-spreadsheet (npm module)](https://theoephraim.github.io/node-google-spreadsheet) - A Google Sheets API wrapper for JavaScript.
-- [Pwn notebook📖](http://note.taqini.space) - CTF writeup & Notes of learning pwn. (Pwn 笔记本)[@TaQini](https://github.com/TaQini)
+- [Pwn notebook📖](http://note.taqini.space) - CTF writeup & Notes of learning pwn. (Pwn 笔记�?[@TaQini](https://github.com/TaQini)
 - [:construction_worker: :orange_book: docsify-js-tutorial](https://github.com/MichaelCurrin/docsify-js-tutorial) - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. [@MichaelCurrin](https://github.com/MichaelCurrin).
 - [:bird: :snake: python-twitter-guide](https://github.com/MichaelCurrin/python-twitter-guide) - Code snippets and links to docs around using the Twitter API and Tweepy on Python 3. @MichaelCurrin.
 - [:repeat_one: :hourglass_flowing_sand: :unicorn: unicron](https://github.com/MichaelCurrin/unicron) - A simple scheduler to ensure tasks run exactly once per day but get retried at intervals until the task passes. Ideal for machines which are not always online. @MichaelCurrin.
@@ -109,7 +109,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [ArchLinuxTutorial](https://archlinuxstudio.github.io/ArchLinuxTutorial/) - Arch Linux Tutorial. (Arch Linux 安装使用教程)
 - [What's up Docker?](https://fmartinou.github.io/whats-up-docker/) - A tool that helps you keep your Docker containers up-to-date.
 - [Layotto](https://mosn.io/layotto/#/en/README) - Layotto (L8):To be the next layer of OSI layer 7.
-- [LinuxNetworkProgrammingAndEncryption](https://archlinuxstudio.github.io/LinuxNetworkProgrammingAndEncryption/) - Linux Network Programming And Encryption. (Linux 网络编程与加密 WIP)
+- [LinuxNetworkProgrammingAndEncryption](https://archlinuxstudio.github.io/LinuxNetworkProgrammingAndEncryption/) - Linux Network Programming And Encryption. (Linux 网络编程与加�?WIP)
 - [BitcoinMythBusters](https://bitcoinmythbusters.org/) - BitcoinMythBusters: Copy & Pasteable rebuttals to common critiques regarding Bitcoin.
 - [Hyrule Compendium API](https://gadhagod.github.io/Hyrule-Compendium-API) - A web API serving data on items from the video game _The Legend of Zelda: Breath of the Wild_.
 - [NOJ Online Judge](https://njuptaaa.github.io/docs) - Yet another open-source online judge platform based on Laravel, NOJ stands for Nanjing University of Posts and Telecommunications Online Judge.
@@ -184,7 +184,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-dark-mode](https://github.com/anikethsaha/docsify-plugin/tree/master/packages/docsify-dark-mode) - Add dark mode support in your docsify site.
 - [docsify-valine](https://github.com/daidi/docsify-valine/) - A docsify plugin that allows you to use a fast, simple & powerful comment system [valine](https://github.com/xCss/Valine) on your docsify pages.
 - [docsify-twemoji😀](https://github.com/TaQini/docsify-twemoji) - A plugin that allow parsing all emoji in style of [twemoji](https://github.com/twitter/twemoji) for docsify.(推特 emoji)
-- [docsify-livere💬](https://github.com/TaQini/docsify-livere) - An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
+- [docsify-livere💬](https://github.com/TaQini/docsify-livere) - An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插�?
 - [docsify-select](https://github.com/jthegedus/docsify-select) - Variably render content with select menus in markdown.
 - [docsify-mermaid](https://github.com/Leward/mermaid-docsify) - A plugin to render mermaid diagrams in docsify.
 - [docsify-plugin-carbon](https://github.com/waruqi/docsify-plugin-carbon) - A plugin to make you easy to add Carbon Ads to docsify.
@@ -232,6 +232,10 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+) ([@jhildenbiddle][1]).
 - [🌙 docsify-darkly-theme](https://github.com/sushantrahate/docsify-darkly-theme) - Dark theme for docsify. [@sushantrahate](https://github.com/sushantrahate).
 - [:first_quarter_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between `dark-mode` and `light-mode`. See [preview](https://docsify-darklight-theme.boopathikumar.me) here. [@boopathikumar](https://boopathikumar.me/).
+
+## VSCode Extensions
+
+- [docsify-Preview](https://marketplace.visualstudio.com/items?itemName=dzylikecode.docsify-preview) - A VSCode extension for previewing docsify markdown files in VSCode. Supports auto-refresh, sync scroll, open the Markdown from the preview, open the preview in the browser.
 
 ## Enterprise Usage
 
