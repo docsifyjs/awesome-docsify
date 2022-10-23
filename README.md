@@ -18,7 +18,6 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Plugins](#plugins)
 - [Themes](#themes)
 - [Enterprise Usage](#enterprise-usage)
-- [VSCode Extensions](#vscode-extensions)
 
 ## Showcase
 
@@ -150,6 +149,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-nightly](https://github.com/sy-records/docsify-nightly) - Nightly release for docsify. @sy-records.
 - [docker-docsify-pdf](https://github.com/kernoeb/docker-docsify-pdf) - Quickly create a PDF with a table of contents and a custom cover, using Docker. [@kernoeb](https://github.com/kernoeb).
 - [WPDocsify](https://github.com/mitchell-b-chelin/WPDocsify) - A magical documentation library for WordPress.
+- :hatching_chick:[docsify-Preview](https://marketplace.visualstudio.com/items?itemName=dzylikecode.docsify-preview):penguin: - A VSCode extension for previewing docsify markdown files in VSCode. Supports auto-refresh, sync scroll, open the Markdown from the preview, open the preview in the default browser.:mushroom:
+
 
 ## Plugins
 
@@ -243,10 +244,6 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - Amazon - [style-dictionary](https://amzn.github.io/style-dictionary/#/)
 - Netflix - [Polly.js](https://netflix.github.io/pollyjs/) - Record, replay, and stub HTTP interactions.
 - Microsoft - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer.
-
-## VSCode Extensions
-
-- [docsify-Preview](https://marketplace.visualstudio.com/items?itemName=dzylikecode.docsify-preview) - A VSCode extension for previewing docsify markdown files in VSCode. Supports auto-refresh, sync scroll, open the Markdown from the preview, open the preview in the browser.
 
 ## Contributing
 
