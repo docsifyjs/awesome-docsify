@@ -151,7 +151,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docker-docsify-pdf](https://github.com/kernoeb/docker-docsify-pdf) - Quickly create a PDF with a table of contents and a custom cover, using Docker. [@kernoeb](https://github.com/kernoeb).
 - [WPDocsify](https://github.com/mitchell-b-chelin/WPDocsify) - A magical documentation library for WordPress.
 - :hatching_chick:[docsify-Preview](https://marketplace.visualstudio.com/items?itemName=dzylikecode.docsify-preview):penguin: - A VSCode extension for previewing docsify markdown files in VSCode. Supports auto-refresh, sync scroll, open the Markdown from the preview, open the preview in the default browser.:mushroom:
-
+- [create-docsify-plugin](https://github.com/corentinleberre/create-docsify-plugin) - A ready-to-use template to create your own Docsify plugin from scratch.
 
 ## Plugins
 
