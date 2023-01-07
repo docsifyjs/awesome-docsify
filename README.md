@@ -190,6 +190,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-livere💬](https://github.com/TaQini/docsify-livere) - An easy-installing plugin for awesome comment system [LiveRe](https://livere.com/) on your docs.(来必力评论插件)
 - [docsify-select](https://github.com/jthegedus/docsify-select) - Variably render content with select menus in markdown.
 - [docsify-mermaid](https://github.com/Leward/mermaid-docsify) - A plugin to render mermaid diagrams in docsify.
+- [docsify-mermaid-zoom](https://github.com/corentinleberre/docsify-mermaid-zoom) - A simple plugin enabling zoom in mermaid diagrams (and svg).
 - [docsify-plugin-carbon](https://github.com/waruqi/docsify-plugin-carbon) - A plugin to make you easy to add Carbon Ads to docsify.
 - [docsify-pangu](https://github.com/sy-records/docsify-pangu) - A docsify plugin for Chinese and English, numbers, symbols and automatically add spaces between. [@sy-records](https://github.com/sy-records).
 - [docsify-gtlfexplorer](https://github.com/X-Ryl669/docsify-gltfexplorer) - A plugin to embed a manipulable 3D model in your documentation.
