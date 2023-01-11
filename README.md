@@ -136,6 +136,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [medusa-extender](https://adrien2p.github.io/medusa-extender/#/) - A medusa e-commerce module to give full extensibility power over medusa engine 💜.
 - [八尺妖剑的文档库](https://docs.waer.ltd/#/) - A personal project documentation repository.
 - [做字体网](http://www.zuoziti.com/) - A website that teaches people to make Chinese handwriting fonts. (如何制作有版权的手写字体并出售?)
+- [Condorcet.io](https://www.condorcet.io) - Documentation for the [Condorcet PHP](https://github.com/julien-boudry/Condorcet) project.
+
 
 ## Community Resources
 
