@@ -138,7 +138,6 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [做字体网](http://www.zuoziti.com/) - A website that teaches people to make Chinese handwriting fonts. (如何制作有版权的手写字体并出售?)
 - [Condorcet.io](https://www.condorcet.io) - Documentation for the [Condorcet PHP](https://github.com/julien-boudry/Condorcet) project.
 
-
 ## Community Resources
 
 - [docsify-open-course-starter-kit](https://hibbitts-design.github.io/docsify-open-course-starter-kit) - A ready-to-use template to create a Docsify open course website. Global navigation elements can be hidden for seamlessly embedding pages (i.e. into an LMS). Includes an optional "Edit this Page" link. [@hibbittsdesign](https://github.com/hibbitts-design).
