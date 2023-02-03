@@ -231,6 +231,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-plugin-runkit](https://jhildenbiddle.github.io/docsify-plugin-runkit) - A docsify plugin for rendering and embedding interactive JavaScript REPLs powered by [RunKit](https://runkit.com/home) ([@jhildenbiddle][1]).
 - [docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads) - A docsify.js plugin for rendering ad placements from [EthicalAds](https://www.ethicalads.io/) ([@jhildenbiddle][1]).
 - [docsify-latex](https://scruel.github.io/docsify-latex) - A docsify.js plugin for typesetting LaTeX with display engines from markdown, [@scruel](https://github.com/scruel/docsify-latex).
+- [docsify-live-demo](https://github.com/kossidts/docsify-live-demo) - A docsify plugin to showcase frontend code and let clients/readers interact with the code, [kossidts](https://github.com/kossidts).
 
 ## Themes
 
