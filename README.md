@@ -232,6 +232,10 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-plugin-ethicalads](https://jhildenbiddle.github.io/docsify-plugin-ethicalads) - A docsify.js plugin for rendering ad placements from [EthicalAds](https://www.ethicalads.io/) ([@jhildenbiddle][1]).
 - [docsify-latex](https://scruel.github.io/docsify-latex) - A docsify.js plugin for typesetting LaTeX with display engines from markdown, [@scruel](https://github.com/scruel/docsify-latex).
 - [docsify-live-demo](https://github.com/kossidts/docsify-live-demo) - A docsify plugin to showcase frontend code and let clients/readers interact with the code, [kossidts](https://github.com/kossidts).
+- [docsify-baidu-tj](https://github.com/mg0324/docsify-baidu-tj) - A docsify plugin for Baidu Statistics.[@mg0324](https://github.com/mg0324/)
+- [docsify-giscus](https://github.com/mg0324/docsify-giscus) - A docsify plugin to support giscus reviews.[@mg0324](https://github.com/mg0324/)
+- [docsify-gitalk](https://github.com/mg0324/docsify-gitalk) - A docsify plugin to support gitalk plus.[@mg0324](https://github.com/mg0324/)
+- [docsify-busuanzi](https://github.com/mg0324/docsify-busuanzi) - A docsify plugin to enable busuanzi, show your site visit data.[@mg0324](https://github.com/mg0324/)
 
 ## Themes
 
