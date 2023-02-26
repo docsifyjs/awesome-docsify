@@ -236,6 +236,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-giscus](https://github.com/mg0324/docsify-giscus) - A docsify plugin to support giscus reviews.
 - [docsify-gitalk](https://github.com/mg0324/docsify-gitalk) - A docsify plugin to support gitalk plus.
 - [docsify-busuanzi](https://github.com/mg0324/docsify-busuanzi) - A docsify plugin to enable busuanzi, show your site visit data.
+- [docsify-plugin-meting-api](https://github.com/lisuke/docsify-plugin-meting-api) -  A docsify.js plugin for meting-api. @lisuke
 
 ## Themes
 
