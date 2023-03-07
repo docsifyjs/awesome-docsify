@@ -196,7 +196,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-pangu](https://github.com/sy-records/docsify-pangu) - A docsify plugin for Chinese and English, numbers, symbols and automatically add spaces between. [@sy-records](https://github.com/sy-records).
 - [docsify-gtlfexplorer](https://github.com/X-Ryl669/docsify-gltfexplorer) - A plugin to embed a manipulable 3D model in your documentation.
 - [docsify-corner](https://github.com/Koooooo-7/docsify-corner) - A enhancement plugin for more repo widgets in top right corner, such as `Gitlab`. [@Koooooo-7](https://github.com/Koooooo-7)
-- [docsify-autoHeader](https://github.com/markbattistella/docsify-autoHeaders) - Turn your markdown into a cascading numbered document. Great for large documentation without manually numbering all the headings. [@markbattistella](https://github.com/markbattistella)
+- [docsify-autoHeaders](https://github.com/markbattistella/docsify-autoHeaders) - Turn your markdown into a cascading numbered document. Great for large documentation without manually numbering all the headings. [@markbattistella](https://github.com/markbattistella)
 - [docsify-sidebarFooter](https://github.com/markbattistella/docsify-sidebarFooter) - Add some links to the base of your sidebar - copyright year, company, Privacy Policy, Terms of Service.
 - [docsify-sidebar-collapse](https://github.com/iPeng6/docsify-sidebar-collapse) - Support docsify sidebar catalog expand and collapse.
 - [websequencediagrams-docsify](https://github.com/aajiwani/websequencediagrams-docsify) - A plugin to embed [WebSequenceDiagrams](https://www.websequencediagrams.com) right into your documentation.
