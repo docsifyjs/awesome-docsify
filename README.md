@@ -240,6 +240,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-plugin-meting-api](https://github.com/lisuke/docsify-plugin-meting-api) -  A docsify.js plugin for meting-api.
 - [docsify-sign-off-sheet](https://github.com/dolanmiu/docsify-sign-off-sheet) - A Doscify plugin to add a review process to keep documentation up to date and relevant.
 - [docsify-mango-valine](https://github.com/mg0324/docsify-mango-valine) - A docsify plugin for support valine comments, expose config item.
+- [docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) - A docsify plugin to add pretty terminal code blocks 🖥️ to your docs. It has `Copy to Clipboard` functionality too.
 
 ## Themes
 
