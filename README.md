@@ -20,7 +20,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Enterprise Usage](#enterprise-usage)
 
 ## Showcase
-
+- [JS-Ninja](https://abpanic.github.io/Mastering-JavaScript/#/) - Javascript course to start as begineer and upskill to clear staff/principal level interviews
 - [styled-wind](https://styled-wind.netlify.app/) - A magical implementation of tailwind-like classnames into styled-components.
 - [pyecharts](https://pyecharts.org) - Documentation for pyecharts. A Python Echarts Plotting Library.
 - [gallery-pyecharts](https://gallery.pyecharts.org) - A Data Visualization Gallery Based on pyecharts.
