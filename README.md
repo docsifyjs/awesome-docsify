@@ -20,7 +20,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Enterprise Usage](#enterprise-usage)
 
 ## Showcase
-- [JS-Ninja](https://abpanic.github.io/Mastering-JavaScript/#/) - Javascript course to start as begineer and upskill to clear staff/principal level interviews
+
 - [styled-wind](https://styled-wind.netlify.app/) - A magical implementation of tailwind-like classnames into styled-components.
 - [pyecharts](https://pyecharts.org) - Documentation for pyecharts. A Python Echarts Plotting Library.
 - [gallery-pyecharts](https://gallery.pyecharts.org) - A Data Visualization Gallery Based on pyecharts.
@@ -241,6 +241,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-sign-off-sheet](https://github.com/dolanmiu/docsify-sign-off-sheet) - A Doscify plugin to add a review process to keep documentation up to date and relevant.
 - [docsify-mango-valine](https://github.com/mg0324/docsify-mango-valine) - A docsify plugin for support valine comments, expose config item.
 - [docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) - A docsify plugin to add pretty terminal code blocks 🖥️ to your docs. It has `Copy to Clipboard` functionality too.
+- [JS-Ninja](https://abpanic.github.io/Mastering-JavaScript/#/) - Javascript course to start as begineer and upskill to clear staff/principal level interviews.
 
 ## Themes
 
