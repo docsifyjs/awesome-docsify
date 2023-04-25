@@ -243,6 +243,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-mango-valine](https://github.com/mg0324/docsify-mango-valine) - A docsify plugin for support valine comments, expose config item.
 - [docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) - A docsify plugin to add pretty terminal code blocks 🖥️ to your docs. It has `Copy to Clipboard` functionality too.
 - [JS-Ninja](https://abpanic.github.io/Mastering-JavaScript/#/) - JavaScript course to start as begineer and upskill to clear staff/principal level interviews.
+- [docsify-docx-converter](https://github.com/simonguo/docsify-docx-converter) - A tool for building docx based on your docsify project. [@simonguo](https://github.com/simonguo)
 
 ## Themes
 
