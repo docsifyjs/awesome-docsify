@@ -246,6 +246,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-docx-converter](https://github.com/simonguo/docsify-docx-converter) - A tool for building docx based on your docsify project. [@simonguo](https://github.com/simonguo)
 - [docsify-gitalk-with-footer](https://github.com/pikapikapikaori/docsify-gitalk-with-footer) - A plugin that fixs gitalk comment problem while using docsify hash mode. It can also add a footer under gitalk container. [@pikapikapikaori](https://github.com/pikapikapikaori)
 - [docsify-versioned-plugin](https://github.com/UliGall/docsify-versioned-plugin) -  A plugin that enables multiple versions of your documentation. The users can switch between versions using a dropdown menu in the navigation bar.  [@UliGall](https://github.com/UliGall)
+- [docsify-termynal](https://github.com/sxin0/docsify-termynal) - A plugin for lightweight and modern animated terminal window from markdown. [@sxin0](https://github.com/sxin0)
 
 ## Themes
 
