@@ -155,6 +155,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [create-docsify-plugin](https://github.com/corentinleberre/create-docsify-plugin) - A ready-to-use template to create your own Docsify plugin from scratch.
 - [try-docsify](https://github.com/alertbox/devcontainers-try-docsify) - A ready to go [docsify-template](https://github.com/docsifyjs/docsify-template) repo powered by [Dev Containers](https://containers.dev) that requires no build steps.
 - [JS-Ninja](https://abpanic.github.io/Mastering-JavaScript/#/) - JavaScript course to start as begineer and upskill to clear staff/principal level interviews.
+- [Sakura Docs](https://sakura-docs.arkinsolomon.net) - A programming language designed for package installers.
 
 ## Plugins
 
