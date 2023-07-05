@@ -138,6 +138,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Condorcet.io](https://www.condorcet.io) - Documentation for the [Condorcet PHP](https://github.com/julien-boudry/Condorcet) project.
 - [🤖 chatgpt.js](https://chatgpt.js.org) - A powerful client-side JavaScript library for ChatGPT.
 - [AirQo docs](https://wiki.airqo.net) - A documentation site for [AirQo](https://airqo.net)'s products.
+- [JS-Ninja](https://abpanic.github.io/Mastering-JavaScript/#/) - JavaScript course to start as begineer and upskill to clear staff/principal level interviews.
+- [Sakura Docs](https://sakura-docs.arkinsolomon.net) - A programming language designed for package installers.
 
 ## Community Resources
 
@@ -155,8 +157,6 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - :hatching_chick:[docsify-Preview](https://marketplace.visualstudio.com/items?itemName=dzylikecode.docsify-preview):penguin: - A VSCode extension for previewing docsify markdown files in VSCode. Supports auto-refresh, sync scroll, open the Markdown from the preview, open the preview in the default browser.:mushroom:
 - [create-docsify-plugin](https://github.com/corentinleberre/create-docsify-plugin) - A ready-to-use template to create your own Docsify plugin from scratch.
 - [try-docsify](https://github.com/alertbox/devcontainers-try-docsify) - A ready to go [docsify-template](https://github.com/docsifyjs/docsify-template) repo powered by [Dev Containers](https://containers.dev) that requires no build steps.
-- [JS-Ninja](https://abpanic.github.io/Mastering-JavaScript/#/) - JavaScript course to start as begineer and upskill to clear staff/principal level interviews.
-- [Sakura Docs](https://sakura-docs.arkinsolomon.net) - A programming language designed for package installers.
 
 ## Plugins
 
