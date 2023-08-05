@@ -140,6 +140,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [AirQo docs](https://wiki.airqo.net) - A documentation site for [AirQo](https://airqo.net)'s products.
 - [JS-Ninja](https://abpanic.github.io/Mastering-JavaScript/#/) - JavaScript course to start as begineer and upskill to clear staff/principal level interviews.
 - [Sakura Docs](https://sakura-docs.arkinsolomon.net) - A programming language designed for package installers.
+- [Ransomware.live](https://www.ransomware.live) - A monitoring ransomware's victims in near real-time. 
 
 ## Community Resources
 
