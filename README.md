@@ -142,6 +142,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Sakura Docs](https://sakura-docs.arkinsolomon.net) - A programming language designed for package installers.
 - [Ransomware.live](https://www.ransomware.live) - A monitoring ransomware's victims in near real-time. 
 - [hope](https://cmai.xin/#/) - A blog documenting.
+
 ## Community Resources
 
 - [docsify-open-course-starter-kit](https://hibbitts-design.github.io/docsify-open-course-starter-kit) - A ready-to-use template to create a Docsify open course website. Global navigation elements can be hidden for seamlessly embedding pages (i.e. into an LMS). Includes an optional "Edit this Page" link. [@hibbittsdesign](https://github.com/hibbitts-design).
