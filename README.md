@@ -143,7 +143,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Sakura Docs](https://sakura-docs.arkinsolomon.net) - A programming language designed for package installers.
 - [Ransomware.live](https://www.ransomware.live) - A monitoring ransomware's victims in near real-time.
 - [hope](https://cmai.xin/#/) - A blog documenting my findings as a software developer.
-- [CASE](https://docs.case.app/) - Documentation for [CASE](https://case.app/), an Open Source tool for building web applications in minutes.
+- [CASE Doc](https://docs.case.app/) - Documentation for [CASE](https://case.app/), an Open Source tool for building web applications in minutes.
 
 ## Community Resources
 
