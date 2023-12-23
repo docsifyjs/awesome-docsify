@@ -255,6 +255,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-termynal](https://github.com/sxin0/docsify-termynal) - A plugin for lightweight and modern animated terminal window from markdown. [@sxin0](https://github.com/sxin0)
 - [docsify-markmap.js](https://github.com/rcqed/docsify-markmap.js) - 🪄🪄🪄Create a new Markmap instance and render the code content on your Docsify.
 - [docsify-hide-code](https://github.com/jl15988/docsify-hide-code) - A docsify plugin that hide code.
+- [docsify-footnote](https://github.com/Robert-Du0001/docsify-footnote) - A docsify plugin for footnote in markdown.
 
 ## Themes
 
