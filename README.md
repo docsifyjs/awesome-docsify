@@ -257,6 +257,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-markmap.js](https://github.com/rcqed/docsify-markmap.js) - 🪄🪄🪄Create a new Markmap instance and render the code content on your Docsify.
 - [docsify-hide-code](https://github.com/jl15988/docsify-hide-code) - A docsify plugin that hide code.
 - [docsify-footnote](https://github.com/Robert-Du0001/docsify-footnote) - A docsify plugin for footnote in markdown.
+- [docsify-plugin-page-history](https://github.com/simochee/docsify-plugin-page-history) - A plugin for per-by-page history.
 
 ## Themes
 
