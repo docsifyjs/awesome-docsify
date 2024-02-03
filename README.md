@@ -258,6 +258,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-hide-code](https://github.com/jl15988/docsify-hide-code) - A docsify plugin that hide code.
 - [docsify-footnote](https://github.com/Robert-Du0001/docsify-footnote) - A docsify plugin for footnote in markdown.
 - [docsify-plugin-page-history](https://github.com/simochee/docsify-plugin-page-history) - A plugin for per-by-page history.
+- [docsify-bilibili](https://github.com/denganliang/docsify-bilibili) - A docsify plugin for easy to show biliblili video in markdown.
 
 ## Themes
 
