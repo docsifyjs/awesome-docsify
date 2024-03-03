@@ -144,6 +144,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Ransomware.live](https://www.ransomware.live) - A monitoring ransomware's victims in near real-time.
 - [hope](https://cmai.xin/#/) - A blog documenting my findings as a software developer.
 - [CASE Doc](https://docs.case.app/) - Documentation for [CASE](https://case.app/), an Open Source tool for building web applications in minutes.
+- [文档箱](https://yjava.cn/) - Documentation for thoughts
 
 ## Community Resources
 
