@@ -13,16 +13,11 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 ## Contents
 
 <!-- no toc -->
-
-- [Awesome Docsify  ](#awesome-docsify--)
-  - [Contents](#contents)
-  - [Showcase](#showcase)
-  - [Community Resources](#community-resources)
-  - [Plugins](#plugins)
-  - [Themes](#themes)
-  - [Enterprise Usage](#enterprise-usage)
-  - [Contributing](#contributing)
-    - [Contributors](#contributors)
+- [Showcase](#showcase)
+- [Community Resources](#community-resources)
+- [Plugins](#plugins)
+- [Themes](#themes)
+- [Enterprise Usage](#enterprise-usage)
 
 ## Showcase
 
