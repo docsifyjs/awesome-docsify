@@ -260,6 +260,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-footnote](https://github.com/Robert-Du0001/docsify-footnote) - A docsify plugin for footnote in markdown.
 - [docsify-plugin-page-history](https://github.com/simochee/docsify-plugin-page-history) - A plugin for per-by-page history.
 - [docsify-bilibili](https://github.com/denganliang/docsify-bilibili) - A docsify plugin for easy to show biliblili video in markdown.
+- [docsify-betterembed](https://github.com/FlippedCodes/docsify-betterembed) - A docsify.js plugin to embed selective areas from another markdown file.
 
 ## Themes
 
