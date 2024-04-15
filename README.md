@@ -13,6 +13,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 ## Contents
 
 <!-- no toc -->
+
 - [Showcase](#showcase)
 - [Community Resources](#community-resources)
 - [Plugins](#plugins)
