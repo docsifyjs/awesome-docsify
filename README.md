@@ -272,7 +272,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [🌙 docsify-darkly-theme](https://github.com/sushantrahate/docsify-darkly-theme) - Dark theme for docsify. [@sushantrahate](https://github.com/sushantrahate).
 - [:first_quarter_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between `dark-mode` and `light-mode`. See [preview](https://docsify-darklight-theme.boopathikumar.me) here. [@boopathikumar](https://boopathikumar.me/).
 - [🧛🏻docsify-theme-darcula](https://github.com/A5yncX/docsify-theme-darcula) - A comfortable darcula style dark theme. [Preview](https://mellow-crepe-abaf27.netlify.app/docs/#/) . ([@A5yncX](https://github.com/A5yncX))
-- [😺 docsify-theme-github](https://github.com/LIGMATV/docsify-theme-github) - The minimal amount of CSS to replicate the GitHub Markdown style. [Preview](https://docsify-theme-github.vercel.app/) ~ [@LIGMATV](https://ligmatv.vercel.app).
+- [😺 docsify-theme-github](https://github.com/LIGMATV/docsify-theme-github) - The minimal amount of CSS to replicate the GitHub Markdown style. [Preview](https://docsify-theme-github.vercel.app/) ~ [@LIGMATV](https://github.com/LIGMATV).
 
 ## Enterprise Usage
 
