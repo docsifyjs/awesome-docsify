@@ -265,6 +265,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-bilibili](https://github.com/denganliang/docsify-bilibili) - A docsify plugin for easy to show biliblili video in markdown.
 - [docsify-betterembed](https://github.com/FlippedCodes/docsify-betterembed) - A docsify.js plugin to embed selective areas from another markdown file.
 - [docsify-navbar-fixed](https://github.com/LIGMATV/docsify-navbar-fixed) - A new always on top customizable and pretty navigation bar for your docs.
+- [docsify-vite-coverpage](https://github.com/LIGMATV/docsify-vite-coverpage) - A new responsive vite-like coverpage for your docs.
 
 ## Themes
 
