@@ -266,6 +266,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-betterembed](https://github.com/FlippedCodes/docsify-betterembed) - A docsify.js plugin to embed selective areas from another markdown file.
 - [docsify-navbar-fixed](https://github.com/LIGMATV/docsify-navbar-fixed) - A new always on top customizable and pretty navigation bar for your docs.
 - [docsify-vite-coverpage](https://github.com/LIGMATV/docsify-vite-coverpage) - A new responsive vite-like coverpage for your docs.
+- [docsify-dark-switcher](https://github.com/LIGMATV/docsify-dark-switcher) - Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes.
 
 ## Themes
 
