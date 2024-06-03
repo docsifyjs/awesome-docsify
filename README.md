@@ -275,6 +275,9 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [:first_quarter_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between `dark-mode` and `light-mode`. See [preview](https://docsify-darklight-theme.boopathikumar.me) here. [@boopathikumar](https://boopathikumar.me/).
 - [🧛🏻docsify-theme-darcula](https://github.com/A5yncX/docsify-theme-darcula) - A comfortable darcula style dark theme. [Preview](https://mellow-crepe-abaf27.netlify.app/docs/#/) . ([@A5yncX](https://github.com/A5yncX))
 - [😺 docsify-theme-github](https://github.com/LIGMATV/docsify-theme-github) - The minimal amount of CSS to replicate the GitHub Markdown style. [Preview](https://docsify-theme-github.vercel.app/) ~ [@LIGMATV](https://github.com/LIGMATV).
+- [💾 docsify-theme-98](https://github.com/LIGMATV/docsify-theme-98) - Bring back the old Windows Classic theme in Docsify. [Preview](https://docsify-theme-98.vercel.app/) ~ @LIGMATV.
+- [🏞️ docsify-theme-xp](https://github.com/LIGMATV/docsify-theme-xp) - Bring back the old Luna XP theme in Docsify. [Preview](https://docsify-theme-xp.vercel.app/) ~ @LIGMATV.
+- [✨ docsify-theme-vista](https://github.com/LIGMATV/docsify-theme-vista) - Bring back the old Aero theme in Docsify. [Preview](https://docsify-theme-vista.vercel.app/) ~ @LIGMATV.
 
 ## Enterprise Usage
 
