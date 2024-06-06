@@ -1,14 +1,11 @@
 name: Lint Awesome List
-on: [pull_request, push]
+on: [ pull_request, push ]
 
 jobs:
-    awesome-lint:
-      name: "lint: awesome-lint"
-      runs-on: ubuntu-latest
-      steps:
-        - name: "checkout repo"
-          uses: actions/checkout@v2
-          with:
-            fetch-depth: 0
-        - name: "lint: awesome-lint"
-          run: npx awesome-lint 'README.md'
+  awesome-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint 'README.md'
