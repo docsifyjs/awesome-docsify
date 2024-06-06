@@ -294,9 +294,10 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 [Contributions of any kind welcome, just follow the guidelines](https://github.com/docsifyjs/awesome-docsify/blob/master/contributing.md)!
 
-### Contributors
+## Contributors
 
-[Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors)
+This project exists thanks to all the people who contribute. [[Contribute](https://github.com/docsifyjs/awesome-docsify/blob/master/contributing.md)].
+<a href="https://github.com/docsifyjs/awesome-docsify/graphs/contributors"><img src="https://contrib.rocks/image?repo=docsifyjs/awesome-docsify&columns=34" /></a>
 
 <!-- Place multiple link references here to avoid lint errors -->
 
