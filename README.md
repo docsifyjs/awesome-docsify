@@ -298,6 +298,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 
 [Thanks goes to these contributors](https://github.com/docsifyjs/awesome-docsify/graphs/contributors)
 
+<a href="https://github.com/docsifyjs/awesome-docsify/graphs/contributors"><img src="https://contrib.rocks/image?repo=docsifyjs/awesome-docsify&columns=34" /></a>
+
 <!-- Place multiple link references here to avoid lint errors -->
 
 [1]: https://github.com/jhildenbiddle/
