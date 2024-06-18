@@ -148,6 +148,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [LIGMATV](https://ligmatv.vercel.app) - Home of my open blogs 📖.
 - [UIBUILDER for Node-RED documentation](https://totallyinformation.github.io/node-red-contrib-uibuilder) - Documentation for the UIBUILDER contributed nodes for Node-RED, the low-code development tool.
 - [IT Standards for NHS England](https://nhsengland.github.io/it-standards) - Some guidance on the use of technology in NHS England.
+- [hmpl docs](https://hmpljs.github.io) - Documentation for the hmpl template language.
 
 ## Community Resources
 
