@@ -269,6 +269,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-vite-coverpage](https://github.com/LIGMATV/docsify-vite-coverpage) - A new responsive vite-like coverpage for your docs.
 - [docsify-dark-switcher](https://github.com/LIGMATV/docsify-dark-switcher) - Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes.
 - [docsify-auth](https://github.com/mg0324/docsify-auth) - A docsify plugin for support page auth with config.
+- [docsify-breadcrumb](https://github.com/FranCarstens/docsify-breadcrumb) - Add a customizable breadcrumb to the top of each page.
 
 ## Themes
 
