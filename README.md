@@ -149,6 +149,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [UIBUILDER for Node-RED documentation](https://totallyinformation.github.io/node-red-contrib-uibuilder) - Documentation for the UIBUILDER contributed nodes for Node-RED, the low-code development tool.
 - [IT Standards for NHS England](https://nhsengland.github.io/it-standards) - Some guidance on the use of technology in NHS England.
 - [hmpl docs](https://hmpljs.github.io) - Documentation for the hmpl template language.
+- [code-segment](https://eveningwater.github.io/code-segment/#/) - Here is a collection of some code snippets, which may be from the Internet or from daily accumulation.
 
 ## Community Resources
 
@@ -166,6 +167,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - :hatching_chick:[docsify-Preview](https://marketplace.visualstudio.com/items?itemName=dzylikecode.docsify-preview):penguin: - A VSCode extension for previewing docsify markdown files in VSCode. Supports auto-refresh, sync scroll, open the Markdown from the preview, open the preview in the default browser.:mushroom:
 - [create-docsify-plugin](https://github.com/corentinleberre/create-docsify-plugin) - A ready-to-use template to create your own Docsify plugin from scratch.
 - [try-docsify](https://github.com/alertbox/devcontainers-try-docsify) - A ready to go [docsify-template](https://github.com/docsifyjs/docsify-template) repo powered by [Dev Containers](https://containers.dev) that requires no build steps.
+- [create-docsify-plugin](https://github.com/corentinleberre/create-docsify-plugin) - A ready-to-use template to create your own Docsify plugin from scratch.
 
 ## Plugins
 
