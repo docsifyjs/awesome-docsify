@@ -150,6 +150,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [IT Standards for NHS England](https://nhsengland.github.io/it-standards) - Some guidance on the use of technology in NHS England.
 - [hmpl docs](https://hmpljs.github.io) - Documentation for the hmpl template language.
 - [code-segment](https://eveningwater.github.io/code-segment/#/) - Here is a collection of some code snippets, which may be from the Internet or from daily accumulation.
+- [Awesome Web Dev Resources](https://web-dev-resources.com/list/#/) - Collection of web development resources with free tiers.
 
 ## Community Resources
 
