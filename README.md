@@ -1,7 +1,6 @@
 <div align="center">
 
 <!--lint ignore no-dead-urls-->
-A
 # Awesome Docsify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/docsifyjs/awesome-docsify/workflows/Lint%20Awesome%20List/badge.svg)
 
 A curated list of awesome things related to [docsify](https://docsify.js.org)
