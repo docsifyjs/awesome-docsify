@@ -275,6 +275,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-auth](https://github.com/mg0324/docsify-auth) - A docsify plugin for support page auth with config.
 - [docsify-breadcrumb](https://github.com/FranCarstens/docsify-breadcrumb) - Add a customizable breadcrumb to the top of each page.
 - [docsify-fontsize](https://github.com/SDU-Little-River/docsify-fontsize) - A docsify plugin allow users to customize the font size.
+- [docsify-shiki](https://github.com/simochee/docsify-shiki) - Replace syntax highlighting with Shiki.
 
 ## Themes
 
