@@ -92,7 +92,6 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [euchre-cli](https://bradleycwojcik.github.io/euchre-cli/) - Play euchre in your terminal.
 - [fastdocs.io](https://fastdocs.io/) - Instantly deploy your docs with Docsify without any code!
 - [Anki](https://docs.ankiweb.net/) - A powerful cross-platform flashcard program which makes remembering things easy.
-- [inlets](https://docs.inlets.dev) - The documentation for inlets ("The Cloud Native Tunnel") is deployed with docsify.
 - [Cypher Notepad](https://cypher-notepad.github.io/wiki/#/?coverpage=false) - The user-friendly, plain-text editor with Hybrid Encryption.
 - [advanced-react-cli](https://advanced-react-cli.netlify.com/) - NPM package which aims to provide a better way to install packages for your react application through an intuitive CLI.
 - [GitPitch.com](https://docs.gitpitch.com/) - The perfect slide deck solution for Tech Conferences, Training, Developer Advocates, and Educators.
