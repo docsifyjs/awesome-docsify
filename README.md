@@ -275,6 +275,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-breadcrumb](https://github.com/FranCarstens/docsify-breadcrumb) - Add a customizable breadcrumb to the top of each page.
 - [docsify-fontsize](https://github.com/SDU-Little-River/docsify-fontsize) - A docsify plugin allow users to customize the font size.
 - [docsify-shiki](https://github.com/simochee/docsify-shiki) - Replace syntax highlighting with Shiki.
+- [docsify-image-slider](https://github.com/erectbranch/docsify-image-slider) - A docsify plugin to create a slider from images.
 
 ## Themes
 
