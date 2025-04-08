@@ -152,6 +152,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [code-segment](https://eveningwater.github.io/code-segment/#/) - Here is a collection of some code snippets, which may be from the Internet or from daily accumulation.
 - [Awesome Web Dev Resources](https://web-dev-resources.com/list/#/) - Collection of web development resources with free tiers.
 - [super-detype](https://super-detype.superkenil.com/#/) - A transpiler which converts your WHOLE Typescript project to JavaScript.
+- [Branch Log](https://erectbranch.netlify.app/#/) - A personal blog that records research and study notes.
 
 ## Community Resources
 
@@ -275,6 +276,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-breadcrumb](https://github.com/FranCarstens/docsify-breadcrumb) - Add a customizable breadcrumb to the top of each page.
 - [docsify-fontsize](https://github.com/SDU-Little-River/docsify-fontsize) - A docsify plugin allow users to customize the font size.
 - [docsify-shiki](https://github.com/simochee/docsify-shiki) - Replace syntax highlighting with Shiki.
+- [docsify-image-slider](https://github.com/erectbranch/docsify-image-slider) - A docsify plugin to create a slider from images.
 
 ## Themes
 
