@@ -153,7 +153,6 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Awesome Web Dev Resources](https://web-dev-resources.com/list/#/) - Collection of web development resources with free tiers.
 - [super-detype](https://super-detype.superkenil.com/#/) - A transpiler which converts your WHOLE Typescript project to JavaScript.
 - [Branch Log](https://erectbranch.netlify.app/#/) - A personal blog that records research and study notes.
-- [OGAS 2.0 Chinese Documentation](https://ogas.waterx.top/#/) - A place to store the translated OGAS 2.0 documents.
 
 ## Community Resources
 
