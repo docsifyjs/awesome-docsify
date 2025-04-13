@@ -153,6 +153,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Awesome Web Dev Resources](https://web-dev-resources.com/list/#/) - Collection of web development resources with free tiers.
 - [super-detype](https://super-detype.superkenil.com/#/) - A transpiler which converts your WHOLE Typescript project to JavaScript.
 - [Branch Log](https://erectbranch.netlify.app/#/) - A personal blog that records research and study notes.
+- [OGAS 2.0 Chinese Documentation](https://ogas.waterx.top/#/) - A place to store the translated OGAS 2.0 documents.
 
 ## Community Resources
 
@@ -170,6 +171,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - :hatching_chick:[docsify-Preview](https://marketplace.visualstudio.com/items?itemName=dzylikecode.docsify-preview):penguin: - A VSCode extension for previewing docsify markdown files in VSCode. Supports auto-refresh, sync scroll, open the Markdown from the preview, open the preview in the default browser.:mushroom:
 - [create-docsify-plugin](https://github.com/corentinleberre/create-docsify-plugin) - A ready-to-use template to create your own Docsify plugin from scratch.
 - [try-docsify](https://github.com/alertbox/devcontainers-try-docsify) - A ready to go [docsify-template](https://github.com/docsifyjs/docsify-template) repo powered by [Dev Containers](https://containers.dev) that requires no build steps.
+- [sitemap-docsify](https://containers.dev) that requires no build steps.
 
 ## Plugins
 
