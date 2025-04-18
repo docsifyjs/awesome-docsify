@@ -278,6 +278,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-shiki](https://github.com/simochee/docsify-shiki) - Replace syntax highlighting with Shiki.
 - [docsify-image-slider](https://github.com/erectbranch/docsify-image-slider) - A docsify plugin to create a slider from images.
 - [docsify-dashboard](https://github.com/erectbranch/docsify-dashboard) - A docsify plugin to create a dashboard from a JSON file.
+- [docsify-xpost](https://github.com/kevinhuang001/docsify-xpost) - A docsify plugin for rendering content blocks that resemble X posts.
 
 ## Themes
 
