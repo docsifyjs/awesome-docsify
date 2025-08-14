@@ -153,6 +153,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Awesome Web Dev Resources](https://web-dev-resources.com/list/#/) - Collection of web development resources with free tiers.
 - [super-detype](https://super-detype.superkenil.com/#/) - A transpiler which converts your WHOLE Typescript project to JavaScript.
 - [Branch Log](https://erectbranch.netlify.app/#/) - A personal blog that records research and study notes.
+- [Subhranil's Docs](https://subhranildas.github.io/Docs/) - A customizable technical documentation site for quick reference on several topics.
 
 ## Community Resources
 
