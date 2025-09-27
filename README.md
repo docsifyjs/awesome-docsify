@@ -287,7 +287,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 ## Themes
 
 - [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+) ([@jhildenbiddle][1]).
-- [docsify-simple-themeable](https://github.com/FlippedCodes/docsify-simple-themeable) - A docsify.js plugin to simplify the color selection for docsify-themable.
+- [docsify-simple-themeable](https://github.com/FlippedCodes/docsify-simple-themeable) - A docsify.js plugin to simplify the color selection for docsify-themeable.
 - [🌙 docsify-darkly-theme](https://github.com/sushantrahate/docsify-darkly-theme) - Dark theme for docsify. [@sushantrahate](https://github.com/sushantrahate).
 - [:first_quarter_moon:docsify-darklight-theme](https://github.com/boopathikumar018/docsify-darklight-theme) - It is a simple and highly customizable theme for docsify.js. Using this theme, documents will have a theme switcher to switch between `dark-mode` and `light-mode`. See [preview](https://docsify-darklight-theme.boopathikumar.me) here. [@boopathikumar](https://boopathikumar.me/).
 - [🧛🏻docsify-theme-darcula](https://github.com/A5yncX/docsify-theme-darcula) - A comfortable darcula style dark theme. [Preview](https://mellow-crepe-abaf27.netlify.app/docs/#/) . ([@A5yncX](https://github.com/A5yncX))
