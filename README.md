@@ -107,7 +107,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [ArchLinuxTutorial](https://archlinuxstudio.github.io/ArchLinuxTutorial/) - Arch Linux Tutorial. (Arch Linux 安装使用教程)
 - [What's up Docker?](https://fmartinou.github.io/whats-up-docker/) - A tool that helps you keep your Docker containers up-to-date.
 - [LinuxNetworkProgrammingAndEncryption](https://archlinuxstudio.github.io/LinuxNetworkProgrammingAndEncryption/) - Linux Network Programming And Encryption. (Linux 网络编程与加密 WIP)
-- [BitcoinMythBusters](https://bitcoinmythbusters.org/) - BitcoinMythBusters: Copy & Pasteable rebuttals to common critiques regarding Bitcoin.
+- [BitcoinMythBusters](https://bitcoinmythbusters.org/) - Copy & Pasteable rebuttals to common critiques regarding Bitcoin.
 - [Hyrule Compendium API](https://gadhagod.github.io/Hyrule-Compendium-API) - A web API serving data on items from the video game _The Legend of Zelda: Breath of the Wild_.
 - [NOJ Online Judge](https://njuptaaa.github.io/docs) - Yet another open-source online judge platform based on Laravel, NOJ stands for Nanjing University of Posts and Telecommunications Online Judge.
 - [ShellTutorial](https://archlinuxstudio.github.io/ShellTutorial/) - Shell Tutorial. (Linux 命令行与 Shell 脚本教程)
