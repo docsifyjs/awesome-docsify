@@ -55,9 +55,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [class-change.js](https://jhildenbiddle.github.io/class-change/) - A micro-library for manipulating CSS class names, triggering change events using HTML data attributes, and creating declarative class-related event listeners ([@jhildenbiddle][1]).
 - [docx](https://docx.js.org) - Easily generate `.docx` files with JS/TS.
 - [RCOS Handbook](https://handbook.rcos.io) - Organization manual for Rensselaer Center for Open Source.
-- [Veritone](https://docs.veritone.com/) - Veritone aiWare docs for AI as a service platform and MachineBox.
 - [🎨 Osiris UI](https://osiris-ui.github.io/osiris) - A Vue.js 2.0 universal responsive UI component library.
-- [Oglang](https://champii.github.io/og) - Oglang: a language like coffee-script that compiles to Golang.
+- [Oglang](https://champii.github.io/og) - A language like coffee-script that compiles to Golang.
 - [boardgame.io](https://boardgame.io/#/) - State management and more for turn based games.
 - [Rambda](https://selfrefactor.github.io/rambda/#/) - Lightweight functional JS library.
 - [ve-charts](https://vueblocks.github.io/ve-charts/) - ECharts 4.x for Vue.js 2.x.
@@ -98,7 +97,6 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [gitmoji-changelog](https://docs.gitmoji-changelog.dev/#/) - A changelog generator for gitmoji 😜.
 - [Jitbit Helpdesk API Docs](https://www.jitbit.com/helpdesk/helpdesk-api/) - Jitbit Helpdesk (a ticketing system) uses Docsify for its API docs portal.
 - [Nebra Helium Docs](https://helium.nebra.com) - The documentation of the Helium HNT Hotspot Miners from Nebra Ltd.
-- [Attacking Javaer](https://veal98.gitee.io/cs-wiki/#/) - Attacking Javaer computer science wiki, running hard on the road to the full stack.
 - [X-M-UI](https://monw3c.github.io/xmui/) - A vue project for X-M-UI.
 - [sa-token](http://sa-token.dev33.cn/) - A lightweight Java authority authentication framework. (一个轻量级 java 权限认证框架)
 - [celery.node](https://celery-node.js.org) - Celery task queue client/worker for Node.js.
@@ -108,7 +106,6 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Sureness](https://usthe.com/sureness) - A simple and efficient open-source security framework that focus on protection of REST API.
 - [ArchLinuxTutorial](https://archlinuxstudio.github.io/ArchLinuxTutorial/) - Arch Linux Tutorial. (Arch Linux 安装使用教程)
 - [What's up Docker?](https://fmartinou.github.io/whats-up-docker/) - A tool that helps you keep your Docker containers up-to-date.
-- [Layotto](https://mosn.io/layotto/#/en/README) - Layotto (L8):To be the next layer of OSI layer 7.
 - [LinuxNetworkProgrammingAndEncryption](https://archlinuxstudio.github.io/LinuxNetworkProgrammingAndEncryption/) - Linux Network Programming And Encryption. (Linux 网络编程与加密 WIP)
 - [BitcoinMythBusters](https://bitcoinmythbusters.org/) - BitcoinMythBusters: Copy & Pasteable rebuttals to common critiques regarding Bitcoin.
 - [Hyrule Compendium API](https://gadhagod.github.io/Hyrule-Compendium-API) - A web API serving data on items from the video game _The Legend of Zelda: Breath of the Wild_.
