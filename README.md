@@ -26,7 +26,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [pyecharts](https://pyecharts.org) - Documentation for pyecharts. A Python Echarts Plotting Library.
 - [gallery-pyecharts](https://gallery.pyecharts.org) - A Data Visualization Gallery Based on pyecharts.
 - [Posthtml](https://posthtml.org) - Documentation for PostHTML, a tool to transform HTML/XML with JS plugins.
-- [Explore Wanchain](https://www.explorewanchain.org/) - Documentation for Wanchain, a blockchain with smart contracts, private transactions, and cross-chain features.
+- [Explore Wanchain](https://www.explorewanchain.org/) - Documentation for Wanchain, a Blockchain with smart contracts, private transactions, and cross-chain features.
 - [Laravel SweetAlert2](https://realrashid.github.io/sweet-alert) - Documentation for Laravel SweetAlert2, A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes for Laravel.
 - [Security List](http://security-list.js.org) - A series of personal cyber security tools, resources and checklists.
 - [Snipaste](https://docs.snipaste.com/) - Snip & Paste.
@@ -55,21 +55,20 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [class-change.js](https://jhildenbiddle.github.io/class-change/) - A micro-library for manipulating CSS class names, triggering change events using HTML data attributes, and creating declarative class-related event listeners ([@jhildenbiddle][1]).
 - [docx](https://docx.js.org) - Easily generate `.docx` files with JS/TS.
 - [RCOS Handbook](https://handbook.rcos.io) - Organization manual for Rensselaer Center for Open Source.
-- [Veritone](https://docs.veritone.com/) - Veritone aiWare docs for AI as a service platform and MachineBox.
 - [🎨 Osiris UI](https://osiris-ui.github.io/osiris) - A Vue.js 2.0 universal responsive UI component library.
-- [Oglang](https://champii.github.io/og) - Oglang: a language like coffee-script that compiles to Golang.
+- [Oglang](https://champii.github.io/og) - A language like coffee-script that compiles to Golang.
 - [boardgame.io](https://boardgame.io/#/) - State management and more for turn based games.
 - [Rambda](https://selfrefactor.github.io/rambda/#/) - Lightweight functional JS library.
 - [ve-charts](https://vueblocks.github.io/ve-charts/) - ECharts 4.x for Vue.js 2.x.
 - [👨‍🎓 JCSprout](https://crossoverjie.top/JCSprout/) - Basic, concurrent, algorithm(处于萌芽阶段的 Java 核心知识库).
 - [axios-api-versioning](https://weffe.github.io/axios-api-versioning) - Add easy to manage api versioning to axios.
 - [🎓 🎨 Reading](http://www.guofei.site/reading/#/) - Reading notes of 300 awesome books (Will keep on for another 20 years).
-- [Learn Blockchain by Code](https://book.uchaindb.com) - The code and book about learning blockchain by code. (《区块链系统实现》开源书籍及源代码仓库)
+- [Learn Blockchain by Code](https://book.uchaindb.com) - The code and book about learning Blockchain by code. (《区块链系统实现》开源书籍及源代码仓库)
 - [Fairlay API](https://fairlay.com/api/#/) - Exchange & prediction markets API.
 - [Tainacan Wiki](https://wiki.tainacan.org/) - Documentation for Tainacan - a flexible and powerfull repository platform for WordPress.
 - [🛸 Jasonelle](https://jasonelle.com) - Make iOS and Android Apps with JSON.
 - [Saasify](https://saasify.sh) - A new way for devs to earn passive income.
-- [Regauge](https://itchef.github.io/regauge) - A command line interface for react app bundled with webpack, prettier and many more.
+- [Regauge](https://itchef.github.io/regauge) - A command line interface for React app bundled with Webpack, prettier and many more.
 - [google-spreadsheet (npm module)](https://theoephraim.github.io/node-google-spreadsheet) - A Google Sheets API wrapper for JavaScript.
 - [Pwn notebook📖](http://note.taqini.space) - CTF writeup & Notes of learning pwn. (Pwn 笔记本)[@TaQini](https://github.com/TaQini)
 - [:construction_worker: :orange_book: docsify-js-tutorial](https://github.com/MichaelCurrin/docsify-js-tutorial) - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. [@MichaelCurrin](https://github.com/MichaelCurrin).
@@ -84,7 +83,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [express-jsdoc-swagger](https://brikev.github.io/express-jsdoc-swagger-docs/#/) - Node.js library for generating Swagger OpenAPI 3.x UI.
 - [Spear-framework](http://dream0x01.com/spear-framework/) - A best vulnerability collection platform.
 - [NoteBook](https://notebook.js.org) - Record the computer professional knowledge you have learned along the way.
-- [breadbot](http://breadbot.js.org/) - A discord bot who likes bread -or jokes.
+- [breadbot](http://breadbot.js.org/) - A Discord bot who likes bread -or jokes.
 - [幸福拾荒者](https://xflihaibo.github.io/docs/#/) - A poetic front-end documentation library.
 - [字节飞扬](https://bytesfly.github.io/blog/) - A blog documenting personal growth. (互联网是有记忆的，我想留下一些成长的脚印)
 - [侠客岛](https://bytesfly.github.io/island/) - A back-end stack sharing platform. (一个后端技术栈分享平台，主要专注于后端相关的专题学习、读书笔记、技术文档等)
@@ -93,12 +92,11 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [fastdocs.io](https://fastdocs.io/) - Instantly deploy your docs with Docsify without any code!
 - [Anki](https://docs.ankiweb.net/) - A powerful cross-platform flashcard program which makes remembering things easy.
 - [Cypher Notepad](https://cypher-notepad.github.io/wiki/#/?coverpage=false) - The user-friendly, plain-text editor with Hybrid Encryption.
-- [advanced-react-cli](https://advanced-react-cli.netlify.com/) - NPM package which aims to provide a better way to install packages for your react application through an intuitive CLI.
+- [advanced-React-cli](https://advanced-React-cli.netlify.com/) - NPM package which aims to provide a better way to install packages for your React application through an intuitive CLI.
 - [GitPitch.com](https://docs.gitpitch.com/) - The perfect slide deck solution for Tech Conferences, Training, Developer Advocates, and Educators.
 - [gitmoji-changelog](https://docs.gitmoji-changelog.dev/#/) - A changelog generator for gitmoji 😜.
 - [Jitbit Helpdesk API Docs](https://www.jitbit.com/helpdesk/helpdesk-api/) - Jitbit Helpdesk (a ticketing system) uses Docsify for its API docs portal.
 - [Nebra Helium Docs](https://helium.nebra.com) - The documentation of the Helium HNT Hotspot Miners from Nebra Ltd.
-- [Attacking Javaer](https://veal98.gitee.io/cs-wiki/#/) - Attacking Javaer computer science wiki, running hard on the road to the full stack.
 - [X-M-UI](https://monw3c.github.io/xmui/) - A vue project for X-M-UI.
 - [sa-token](http://sa-token.dev33.cn/) - A lightweight Java authority authentication framework. (一个轻量级 java 权限认证框架)
 - [celery.node](https://celery-node.js.org) - Celery task queue client/worker for Node.js.
@@ -108,9 +106,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Sureness](https://usthe.com/sureness) - A simple and efficient open-source security framework that focus on protection of REST API.
 - [ArchLinuxTutorial](https://archlinuxstudio.github.io/ArchLinuxTutorial/) - Arch Linux Tutorial. (Arch Linux 安装使用教程)
 - [What's up Docker?](https://fmartinou.github.io/whats-up-docker/) - A tool that helps you keep your Docker containers up-to-date.
-- [Layotto](https://mosn.io/layotto/#/en/README) - Layotto (L8):To be the next layer of OSI layer 7.
 - [LinuxNetworkProgrammingAndEncryption](https://archlinuxstudio.github.io/LinuxNetworkProgrammingAndEncryption/) - Linux Network Programming And Encryption. (Linux 网络编程与加密 WIP)
-- [BitcoinMythBusters](https://bitcoinmythbusters.org/) - BitcoinMythBusters: Copy & Pasteable rebuttals to common critiques regarding Bitcoin.
+- [BitcoinMythBusters](https://bitcoinmythbusters.org/) - Copy & Pasteable rebuttals to common critiques regarding Bitcoin.
 - [Hyrule Compendium API](https://gadhagod.github.io/Hyrule-Compendium-API) - A web API serving data on items from the video game _The Legend of Zelda: Breath of the Wild_.
 - [NOJ Online Judge](https://njuptaaa.github.io/docs) - Yet another open-source online judge platform based on Laravel, NOJ stands for Nanjing University of Posts and Telecommunications Online Judge.
 - [ShellTutorial](https://archlinuxstudio.github.io/ShellTutorial/) - Shell Tutorial. (Linux 命令行与 Shell 脚本教程)
@@ -127,7 +124,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Taio Dev Notes](https://dev.taio.app/#/) - Development Notes for the Taio app.
 - [Third Wave Coffee Base](https://thirdwavecoffeebase.com/#/) - A RESTful API that details coffee product listings from third wave coffee roasters.
 - [OpenHaus documentation](https://docs.open-haus.io) - Auto generated documentation for OpenHaus from the source code of the project.
-- [LifeUp](https://wiki.lifeupapp.fun/) - Documentation for LifeUp app. A gamification To-Do list and habit forming android application.
+- [LifeUp](https://wiki.lifeupapp.fun/) - Documentation for LifeUp app. A gamification To-Do list and habit forming Android application.
 - [Skuber](https://skuber.co/) - Scala client for the [Kubernetes API](https://kubernetes.io/).
 - [docbook](https://yangchunjian.com/) - A doc book record thoughts.
 - [Awesome Privacy](https://awesome-privacy.xyz) - A curated list of privacy-respecting software and services.
@@ -151,7 +148,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [hmpl docs](https://hmpljs.github.io) - Documentation for the hmpl template language.
 - [code-segment](https://eveningwater.github.io/code-segment/#/) - Here is a collection of some code snippets, which may be from the Internet or from daily accumulation.
 - [Awesome Web Dev Resources](https://web-dev-resources.com/list/#/) - Collection of web development resources with free tiers.
-- [super-detype](https://super-detype.superkenil.com/#/) - A transpiler which converts your WHOLE Typescript project to JavaScript.
+- [super-detype](https://super-detype.superkenil.com/#/) - A transpiler which converts your WHOLE TypeScript project to JavaScript.
 - [Branch Log](https://erectbranch.netlify.app/#/) - A personal blog that records research and study notes.
 - [Subhranil's Docs](https://subhranildas.github.io/Docs/) - A customizable technical documentation site for quick reference on several topics.
 
@@ -186,7 +183,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-xmind](https://github.com/AntHubTC/docsify-xmind) - Docsify plugin to preview of your xmind file [@AntHubTC](https://github.com/AntHubTC).
 - [docsify-copy-code](https://github.com/jperasmus/docsify-copy-code) - A docsify plugin that copies Markdown code block to your clipboard [@jperasmus](https://github.com/jperasmus).
 - [docsify-demo-box-vue](https://github.com/njleonzhang/docsify-demo-box-vue) - Write Vue demo in docsify with instant preview and jsfiddle integration [@njleonzhang](https://github.com/njleonzhang/).
-- [docsify-demo-box-react](https://github.com/njleonzhang/docsify-demo-box-react) - Write React jsx demo in docsify with instant preview and jsfiddle integration @njleonzhang.
+- [docsify-demo-box-React](https://github.com/njleonzhang/docsify-demo-box-React) - Write React jsx demo in docsify with instant preview and jsfiddle integration @njleonzhang.
 - [docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) - Add Edit on GitHub button on every pages @njleonzhang.
 - [docsify-tabs](https://jhildenbiddle.github.io/docsify-tabs) - A docsify plugin for displaying tabbed content from markdown ([@jhildenbiddle][1]).
 - [docsify-katex](https://github.com/upupming/docsify-katex) - A docsify plugin for rendering LaTex math equations [@upupming](https://github.com/upupming).
@@ -223,7 +220,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [websequencediagrams-docsify](https://github.com/aajiwani/websequencediagrams-docsify) - A plugin to embed [WebSequenceDiagrams](https://www.websequencediagrams.com) right into your documentation.
 - [docsify-material-icons](https://github.com/erickjx/docsify-material-icons) - Add Material Icons to documentation by tokens.
 - [docsify-ethicalads](https://github.com/ohlookitsderpy/docsify-ethicalads) - EthicalAds support for Docsify.
-- [docsify-wikilink](https://github.com/zpengg/docsify-wikilink) - A plugin that allows wiki internal link syntax by using double square brackets like `[[pagename|link text]]`.
+- [docsify-wikilink](https://github.com/zpengg/docsify-wikilink) - A plugin that allows wiki internal link syntax by using double square Brackets like `[[pagename|link text]]`.
 - [docsify-link-preview](https://github.com/puria/docsify-link-preview) - A plugin to render link previews.
 - [docsify-pseudocode](https://h-hg.github.io/docsify-pseudocode) - A plugin to render pseudocode in docsify. [@h-hg](https://github.com/h-hg/docsify-pseudocode)
 - [docsify-footer](https://alertbox.github.io/docsify-footer) - A markdown \_footer.md plugin for docsify-enabled sites. [@alertbox](https://github.com/alertbox).
