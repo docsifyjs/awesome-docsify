@@ -281,6 +281,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-xpost](https://github.com/kevinhuang001/docsify-xpost) - A docsify plugin for rendering content blocks that resemble X posts.
 - [drawcsify](https://github.com/fenriskiba/drawcsify) - A docsify plugin to embed Draw.io diagrams into your documentation.
 - [docsify-page-actions-menu](https://github.com/calycode/docsify-page-actions-menu) - A docsify plugin that adds a customizable actions menu (e.g. copy page, open with LLM) to the beginning of each page on the top.
+- [docsify-interactive-checkboxes](https://github.com/andreferra/docsify-plugin-interactive-checkboxes) - Transform markdown checkboxes into interactive, persistent task lists with localStorage integration.
 
 ## Themes
 
