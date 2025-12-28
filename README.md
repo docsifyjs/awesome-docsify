@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!--lint ignore no-dead-urls-->
 
@@ -282,6 +282,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [drawcsify](https://github.com/fenriskiba/drawcsify) - A docsify plugin to embed Draw.io diagrams into your documentation.
 - [docsify-page-actions-menu](https://github.com/calycode/docsify-page-actions-menu) - A docsify plugin that adds a customizable actions menu (e.g. copy page, open with LLM) to the beginning of each page on the top.
 - [docsify-interactive-checkboxes](https://github.com/andreferra/docsify-plugin-interactive-checkboxes) - Transform markdown checkboxes into interactive, persistent task lists with localStorage integration.
+- [docsify-lucide](https://github.com/bhaireshm/docsify-lucide) - A simple, clean Docsify plugin to embed Lucide icons directly in your Markdown files. [@bhaireshm](https://github.com/bhaireshm)
 
 ## Themes
 
