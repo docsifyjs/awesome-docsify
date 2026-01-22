@@ -284,7 +284,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-interactive-checkboxes](https://github.com/andreferra/docsify-plugin-interactive-checkboxes) - Transform markdown checkboxes into interactive, persistent task lists with localStorage integration.
 - [docsify-lucide-icons](https://github.com/bhaireshm/docsify-lucide-icons) - A simple, clean Docsify plugin to embed Lucide icons directly in your Markdown files. [@bhaireshm](https://github.com/bhaireshm)
 - [docsify-display-colors](https://github.com/win-tm/docsify-display-colors) - A Docsify Plugin to visually display small Color-Swatches next to Hexcodes, RGB- or HSL-Colors. [@win-tm](https://github.com/win-tm)
-- [docsify-infographic](https://github.com/bulexu/docsify-infographic) - A plugin to render @antv/infographic diagrams in docsify
+- [docsify-infographic](https://github.com/bulexu/docsify-infographic) - A plugin to render @antv/infographic diagrams in docsify.
 
 ## Themes
 
