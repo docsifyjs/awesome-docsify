@@ -162,7 +162,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [:construction_worker: :orange_book: docsify-js-tutorial](https://michaelcurrin.github.io/docsify-js-tutorial) - A guide to using DocsifyJS to setup and configure a docs site around your markdown docs. It is also built on DocsifyJS. @MichaelCurrin.
 - [docsify-notebooks](https://github.com/MonkeyAndres/docsify-notebooks) - Template for building notebooks with DocsifyJS. Made with ❤️ by @MonkeyAndres.
 - :whale: [docsify-docker](https://github.com/Sujaykumarh/docsify-docker) - :whale2: Docisify Docker image. @sujaykumarh
-- [docsify-nightly](https://github.com/sy-records/docsify-nightly) - Nightly release for docsify. @sy-records.
+- [docsify-nightly](https://github.com/sy-records/docsify-nightly) - Nightly release for docsify. [@sy-records][2].
 - [docker-docsify-pdf](https://github.com/kernoeb/docker-docsify-pdf) - Quickly create a PDF with a table of contents and a custom cover, using Docker. [@kernoeb](https://github.com/kernoeb).
 - [WPDocsify](https://github.com/mitchell-b-chelin/WPDocsify) - A magical documentation library for WordPress.
 - :hatching_chick:[docsify-Preview](https://marketplace.visualstudio.com/items?itemName=dzylikecode.docsify-preview):penguin: - A VSCode extension for previewing docsify markdown files in VSCode. Supports auto-refresh, sync scroll, open the Markdown from the preview, open the preview in the default browser.:mushroom:
@@ -211,7 +211,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-mermaid](https://github.com/Leward/mermaid-docsify) - A plugin to render mermaid diagrams in docsify.
 - [docsify-mermaid-zoom](https://github.com/corentinleberre/docsify-mermaid-zoom) - A simple plugin enabling zoom in mermaid diagrams (and svg).
 - [docsify-plugin-carbon](https://github.com/waruqi/docsify-plugin-carbon) - A plugin to make you easy to add Carbon Ads to docsify.
-- [docsify-pangu](https://github.com/sy-records/docsify-pangu) - A docsify plugin for Chinese and English, numbers, symbols and automatically add spaces between. [@sy-records](https://github.com/sy-records).
+- [docsify-pangu](https://github.com/sy-records/docsify-pangu) - A docsify plugin for Chinese and English, numbers, symbols and automatically add spaces between. [@sy-records][2].
 - [docsify-gtlfexplorer](https://github.com/X-Ryl669/docsify-gltfexplorer) - A plugin to embed a manipulable 3D model in your documentation.
 - [docsify-corner](https://github.com/Koooooo-7/docsify-corner) - A enhancement plugin for more repo widgets in top right corner, such as `Gitlab`. [@Koooooo-7](https://github.com/Koooooo-7)
 - [docsify-autoHeader](https://github.com/markbattistella/docsify-autoHeaders) - Turn your markdown into a cascading numbered document. Great for large documentation without manually numbering all the headings. [@markbattistella](https://github.com/markbattistella)
@@ -286,6 +286,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-display-colors](https://github.com/win-tm/docsify-display-colors) - A Docsify Plugin to visually display small Color-Swatches next to Hexcodes, RGB- or HSL-Colors. [@win-tm](https://github.com/win-tm)
 - [docsify-infographic](https://github.com/bulexu/docsify-infographic) - A plugin to render @antv/infographic diagrams in docsify.
 - [docsify-pytutor](https://github.com/sherlockmen/docsify-pytutor) - A docsify plugin that can visualize code execution. ✨(一个可以实现代码执行可视化的docsify插件).[@sherlockmen](https://github.com/sherlockmen)
+- [docsify-footnotes](https://github.com/sy-records/docsify-footnotes) - A plugin that supports the use of footnotes in docsify. [@sy-records][2].
 
 ## Themes
 
@@ -323,3 +324,4 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 <!-- Place multiple link references here to avoid lint errors -->
 
 [1]: https://github.com/jhildenbiddle/
+[2]: https://github.com/sy-records
