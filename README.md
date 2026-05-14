@@ -151,6 +151,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [super-detype](https://super-detype.superkenil.com/#/) - A transpiler which converts your WHOLE TypeScript project to JavaScript.
 - [Branch Log](https://erectbranch.netlify.app/#/) - A personal blog that records research and study notes.
 - [Subhranil's Docs](https://subhranildas.github.io/Docs/) - A customizable technical documentation site for quick reference on several topics.
+- [Injee Docs](https://injee.codeberg.page/docs/#/) - Docs for Injee - - The no configuration instant Database for front end developers.
 
 ## Community Resources
 
