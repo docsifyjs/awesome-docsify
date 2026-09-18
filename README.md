@@ -263,7 +263,6 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-mango-valine](https://github.com/mg0324/docsify-mango-valine) - A docsify plugin for support valine comments, expose config item.
 - [docsify-terminal-block](https://github.com/dolanmiu/docsify-terminal-block) - A docsify plugin to add pretty terminal code blocks 🖥️ to your docs. It has `Copy to Clipboard` functionality too.
 - [docsify-docx-converter](https://github.com/simonguo/docsify-docx-converter) - A tool for building docx based on your docsify project. [@simonguo](https://github.com/simonguo)
-- [docsify-gitalk-with-footer](https://github.com/pikapikapikaori/docsify-gitalk-with-footer) - A plugin that fixs gitalk comment problem while using docsify hash mode. It can also add a footer under gitalk container. [@pikapikapikaori](https://github.com/pikapikapikaori)
 - [docsify-versioned-plugin](https://github.com/UliGall/docsify-versioned-plugin) - A plugin that enables multiple versions of your documentation. The users can switch between versions using a dropdown menu in the navigation bar. [@UliGall](https://github.com/UliGall)
 - [docsify-termynal](https://github.com/sxin0/docsify-termynal) - A plugin for lightweight and modern animated terminal window from markdown. [@sxin0](https://github.com/sxin0)
 - [docsify-markmap.js](https://github.com/rcqed/docsify-markmap.js) - 🪄🪄🪄Create a new Markmap instance and render the code content on your Docsify.
@@ -290,6 +289,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-infographic](https://github.com/bulexu/docsify-infographic) - A plugin to render @antv/infographic diagrams in docsify.
 - [docsify-pytutor](https://github.com/sherlockmen/docsify-pytutor) - A docsify plugin that can visualize code execution. ✨(一个可以实现代码执行可视化的docsify插件).[@sherlockmen](https://github.com/sherlockmen)
 - [docsify-sigma](https://github.com/julienbusset/docsify-sigma) - Visualize a graph in your Docsify project using [Sigma.js](https://www.sigmajs.org/) and [Graphology](https://graphology.github.io/).
+- [docsify-simple-dark-mode](https://github.com/pikapikapikaori/docsify-simple-dark-mode) - A plugin that adds widgets to docsify. Main features include dark mode switching, theme switching, theme color switching, progress bar and back to top. This plugin also provides several Docsify@5 themes.  [@pikapikapikaori](https://github.com/pikapikapikaori)
 
 ## Themes
 
