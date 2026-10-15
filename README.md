@@ -290,6 +290,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [docsify-pytutor](https://github.com/sherlockmen/docsify-pytutor) - A docsify plugin that can visualize code execution. ✨(一个可以实现代码执行可视化的docsify插件).[@sherlockmen](https://github.com/sherlockmen)
 - [docsify-sigma](https://github.com/julienbusset/docsify-sigma) - Visualize a graph in your Docsify project using [Sigma.js](https://www.sigmajs.org/) and [Graphology](https://graphology.github.io/).
 - [docsify-simple-dark-mode](https://github.com/pikapikapikaori/docsify-simple-dark-mode) - A plugin that adds widgets to docsify. Main features include dark mode switching, theme switching, theme color switching, progress bar and back to top. This plugin also provides several Docsify@5 themes.  [@pikapikapikaori](https://github.com/pikapikapikaori)
+- [docsify-ai-chatbot](https://asyntai.com/documentation/integrations/docsify/) - Add an AI chatbot that answers reader questions from your own docs, in 80+ languages. [@asyntai](https://github.com/asyntai).
 
 ## Themes
 
