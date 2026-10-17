@@ -154,6 +154,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [Injee Docs](https://injee.codeberg.page/docs/#/) - Docs for Injee - - The no configuration instant Database for front end developers.
 - [JSON Model](https://json-model.org/) - Docs and benches for JSON Model, a compact and intuitive JSON syntax to describe JSON data structures.
 - [KIVA Practice Session](https://kiva.cri.minesparis.psl.eu/) - KIVA Flask and Postgres backend programming practice session for students.
+- [里探《道德经》新编](https://insseek-tao.netlify.app/) - A star map of the Tao Te Ching: 81 chapters rearranged by argument, every idea orbiting the Dao.
 
 ## Community Resources
 
