@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!--lint ignore no-dead-urls-->
 
@@ -155,6 +155,8 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [JSON Model](https://json-model.org/) - Docs and benches for JSON Model, a compact and intuitive JSON syntax to describe JSON data structures.
 - [KIVA Practice Session](https://kiva.cri.minesparis.psl.eu/) - KIVA Flask and Postgres backend programming practice session for students.
 - [里探《道德经》新编](https://insseek-tao.netlify.app/) - A star map of the Tao Te Ching: 81 chapters rearranged by argument, every idea orbiting the Dao.
+- [里探《易经》](https://insseek-yijing.netlify.app/) - A reader's edition of the I Ching: 64 hexagrams with text, glosses, translation and commentary, a divination demo, and a 3D map of how the hexagrams relate.
+- [里探《飞鸟集》赏析](https://book-stray-birds.netlify.app/) - Tagore's Stray Birds in a new Chinese translation, with an appreciation note after every poem.
 
 ## Community Resources
 
