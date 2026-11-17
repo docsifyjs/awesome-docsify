@@ -175,6 +175,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [create-docsify-plugin](https://github.com/corentinleberre/create-docsify-plugin) - A ready-to-use template to create your own Docsify plugin from scratch.
 - [try-docsify](https://github.com/alertbox/devcontainers-try-docsify) - A ready to go [docsify-template](https://github.com/docsifyjs/docsify-template) repo powered by [Dev Containers](https://containers.dev) that requires no build steps.
 - [docsify-sitemap](https://github.com/tenelabs/docsify-sitemap) - Instantly generate structured sitemaps for your Docsify projects. Use it via the [web app](https://tenelabs.github.io/docsify-sitemap/), the CLI, or automate it with GitHub Actions.
+- [GallantTarry](https://xn--9myv52d.xn--udsye.art/) - A multi-domain knowledge vault built with Docsify featuring dual glassmorphism themes, embedded interactive widgets, and open community submissions.
 
 
 ## Plugins
