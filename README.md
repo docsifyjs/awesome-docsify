@@ -157,6 +157,7 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [里探《道德经》新编](https://insseek-tao.netlify.app/) - A star map of the Tao Te Ching: 81 chapters rearranged by argument, every idea orbiting the Dao.
 - [里探《易经》](https://insseek-yijing.netlify.app/) - A reader's edition of the I Ching: 64 hexagrams with text, glosses, translation and commentary, a divination demo, and a 3D map of how the hexagrams relate.
 - [里探《飞鸟集》赏析](https://book-stray-birds.netlify.app/) - Tagore's Stray Birds in a new Chinese translation, with an appreciation note after every poem.
+- [GallantTarry](https://xn--9myv52d.xn--udsye.art/) - A multi-domain knowledge vault built with Docsify featuring dual glassmorphism themes, embedded interactive widgets, and open community submissions.
 
 ## Community Resources
 
@@ -175,8 +176,6 @@ A curated list of awesome things related to [docsify](https://docsify.js.org)
 - [create-docsify-plugin](https://github.com/corentinleberre/create-docsify-plugin) - A ready-to-use template to create your own Docsify plugin from scratch.
 - [try-docsify](https://github.com/alertbox/devcontainers-try-docsify) - A ready to go [docsify-template](https://github.com/docsifyjs/docsify-template) repo powered by [Dev Containers](https://containers.dev) that requires no build steps.
 - [docsify-sitemap](https://github.com/tenelabs/docsify-sitemap) - Instantly generate structured sitemaps for your Docsify projects. Use it via the [web app](https://tenelabs.github.io/docsify-sitemap/), the CLI, or automate it with GitHub Actions.
-- [GallantTarry](https://xn--9myv52d.xn--udsye.art/) - A multi-domain knowledge vault built with Docsify featuring dual glassmorphism themes, embedded interactive widgets, and open community submissions.
-
 
 ## Plugins
 
